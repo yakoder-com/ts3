@@ -16,7 +16,7 @@
     <kHoneyProductionTimeInSimHours value="8">
       <!--Description: The number of hours it takes to produce 1 Honey-->
     </kHoneyProductionTimeInSimHours>
-    <kHoneyStorageLimit value="5">
+    <kHoneyStorageLimit value="20">
       <!--Description:  This is the maximum number of Honey that will be stored at once. When this limit is reached, honey production will stop until the "Harvest" interaction is used.-->
     </kHoneyStorageLimit>
     <kChanceToHarvestBeeswax value="60">
