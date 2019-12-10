@@ -13,7 +13,7 @@
     <kBeeAttackBonusToBeeStingChance value="1, 0, 0">
       <!--Range:  0 - 100  Description:  When a Bee Attack occurs, this number is MULTIPLIED by kBeeStingChances to increase the likelihood of the sim being stung. Separated by happiness state. {Angry, Content, Happy}-->
     </kBeeAttackBonusToBeeStingChance>
-    <kHoneyProductionTimeInSimHours value="12">
+    <kHoneyProductionTimeInSimHours value="8">
       <!--Description: The number of hours it takes to produce 1 Honey-->
     </kHoneyProductionTimeInSimHours>
     <kHoneyStorageLimit value="5">
