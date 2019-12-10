@@ -27,6 +27,8 @@
 			<AllowAutonomousReinforcement allowPraise="False" allowScold="False" />
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
+			<Output>
+			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP9 - First Pass - Chris" LastChange="11/29/2012 8:26:50 PM" />
 	</Current_Tuning>
