@@ -19,7 +19,7 @@
     <kHoneyStorageLimit value="20">
       <!--Description:  This is the maximum number of Honey that will be stored at once. When this limit is reached, honey production will stop until the "Harvest" interaction is used.-->
     </kHoneyStorageLimit>
-    <kChanceToHarvestBeeswax value="60">
+    <kChanceToHarvestBeeswax value="75">
       <!--Range:  0 - 100  Description:  This is the chance that a sim will harvest Beeswax when using the Harvest interaction.-->
     </kChanceToHarvestBeeswax>
     <kStartingHappiness value="50">
