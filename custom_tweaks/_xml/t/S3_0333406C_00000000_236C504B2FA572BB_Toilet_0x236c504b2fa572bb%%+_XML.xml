@@ -17,9 +17,9 @@
     <kTimeoutRemainingForBladderEmergency value="30">
       <!--If the hasToPee timeout has less time remaining than this in minutes, your Sim runs to the toilet.-->
     </kTimeoutRemainingForBladderEmergency>
-    <kWashHandsChanceNormal value="0" />
+    <kWashHandsChanceNormal value="90" />
     <kWashHandsChanceNeat value="100" />
-    <kWashHandsChanceSlob value="0" />
+    <kWashHandsChanceSlob value="50" />
     <kNeedsToBeFlushedEnvironmentScorePenalty value="-10">
     </kNeedsToBeFlushedEnvironmentScorePenalty>
     <kMaximumNumberOfSimsInLine value="3">
