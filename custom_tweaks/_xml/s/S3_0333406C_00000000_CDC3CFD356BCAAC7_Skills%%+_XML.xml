@@ -1779,16 +1779,16 @@
   <Level_8_Text>InfluenceRebel8</Level_8_Text>
   <Level_9_Text>InfluenceRebel9</Level_9_Text>
   <Level_10_Text>InfluenceRebel10</Level_10_Text>
-  <Level_1>1000</Level_1>
-  <Level_2>1250</Level_2>
-  <Level_3>1562</Level_3>
-  <Level_4>1952</Level_4>
-  <Level_5>2440</Level_5>
-  <Level_6>3050</Level_6>
-  <Level_7>3812</Level_7>
-  <Level_8>4765</Level_8>
-  <Level_9>5956</Level_9>
-  <Level_10>7445</Level_10>
+  <Level_1>10000</Level_1>
+  <Level_2>12500</Level_2>
+  <Level_3>15620</Level_3>
+  <Level_4>19520</Level_4>
+  <Level_5>24400</Level_5>
+  <Level_6>30500</Level_6>
+  <Level_7>38120</Level_7>
+  <Level_8>47650</Level_8>
+  <Level_9>59560</Level_9>
+  <Level_10>74450</Level_10>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
   <DreamsAndPromisesIcon>w_Social_Group02</DreamsAndPromisesIcon>
  </SkillList>
