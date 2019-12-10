@@ -2,7 +2,7 @@
 <base>
   <Current_Tuning>
     <kEnvironmentTuning>
-      <EnvironmentScore value="0">
+      <EnvironmentScore value="8">
         <!--Range: Any float value.  Description:  Each game object can define an environment score to contribute to the room environment score when Sims are in it.  It is expected that fancier, pretty objects will give a positive Environment score while dirty, ugly objects will give a negative Environment score.  The score contribution is defined by this tunable.-->
       </EnvironmentScore>
     </kEnvironmentTuning>
@@ -44,10 +44,10 @@
       <HoursUnbreakable value="24">
         <!--How long until the object is allowed to check for breakage after being fixed or purchased.-->
       </HoursUnbreakable>
-      <StartPercentChanceBreak value="5">
+      <StartPercentChanceBreak value="0">
         <!--Starting chance of object breaking when its used.-->
       </StartPercentChanceBreak>
-      <PercentChanceBreakIncrease value="2">
+      <PercentChanceBreakIncrease value="0">
         <!--How much the chance of breakage increases each time the object is used (int, 1 to 100).-->
       </PercentChanceBreakIncrease>
       <PercentWhenReplaceAvailable value="15">
@@ -62,7 +62,7 @@
       <MaxRepairTime value="30">
         <!--Maximum amount of time in sim minutes that it takes to repair this object.  Occurs at skill level 0.-->
       </MaxRepairTime>
-      <RepairSkillGain value="1000">
+      <RepairSkillGain value="1200">
         <!--Rate of skill gain while repairing object in points per sim minute-->
       </RepairSkillGain>
       <UpgradeUnbreakable>
@@ -90,7 +90,7 @@
       <ChanceOfBreakageIncreasePerToiletVolume value="10">
         <!--Each time the toilet isn't flushed, the chance of breakage goes up by this much (until it is).  This chance only used when toilet flushed.-->
       </ChanceOfBreakageIncreasePerToiletVolume>
-      <AutoFlushes value="False">
+      <AutoFlushes value="True">
         <!--Whether or not the toilet automatically flushes.-->
       </AutoFlushes>
       <ComfyBuffScore value="0">

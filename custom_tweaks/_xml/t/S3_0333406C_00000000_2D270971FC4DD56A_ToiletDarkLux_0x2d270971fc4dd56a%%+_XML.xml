@@ -2,7 +2,7 @@
 <base>
   <Current_Tuning>
     <kEnvironmentTuning>
-      <EnvironmentScore value="0">
+      <EnvironmentScore value="7">
         <!--Range: Any float value.  Description:  Each game object can define an environment score to contribute to the room environment score when Sims are in it.  It is expected that fancier, pretty objects will give a positive Environment score while dirty, ugly objects will give a negative Environment score.  The score contribution is defined by this tunable.-->
       </EnvironmentScore>
     </kEnvironmentTuning>
@@ -29,7 +29,7 @@
         <UpgradeTime value="240">
           <!--The amount of time it takes to do the upgrade in minutes-->
         </UpgradeTime>
-        <SkillGainRate value="2640">
+        <SkillGainRate value="3600">
           <!--Skill points gained when for one upgrade.  We figure out your progress from 0-1 and multiply by this to give you skill points.-->
         </SkillGainRate>
         <BadFailureChance value="50">
@@ -44,10 +44,10 @@
       <HoursUnbreakable value="24">
         <!--How long until the object is allowed to check for breakage after being fixed or purchased.-->
       </HoursUnbreakable>
-      <StartPercentChanceBreak value="5">
+      <StartPercentChanceBreak value="3">
         <!--Starting chance of object breaking when its used.-->
       </StartPercentChanceBreak>
-      <PercentChanceBreakIncrease value="2">
+      <PercentChanceBreakIncrease value="1">
         <!--How much the chance of breakage increases each time the object is used (int, 1 to 100).-->
       </PercentChanceBreakIncrease>
       <PercentWhenReplaceAvailable value="15">
@@ -62,14 +62,14 @@
       <MaxRepairTime value="30">
         <!--Maximum amount of time in sim minutes that it takes to repair this object.  Occurs at skill level 0.-->
       </MaxRepairTime>
-      <RepairSkillGain value="1000">
+      <RepairSkillGain value="1200">
         <!--Rate of skill gain while repairing object in points per sim minute-->
       </RepairSkillGain>
       <UpgradeUnbreakable>
         <UpgradeTime value="240">
           <!--The amount of time it takes to do the upgrade in minutes-->
         </UpgradeTime>
-        <SkillGainRate value="3600">
+        <SkillGainRate value="5">
           <!--Skill points gained when for one upgrade.  We figure out your progress from 0-1 and multiply by this to give you skill points.-->
         </SkillGainRate>
         <BadFailureChance value="50">
@@ -93,7 +93,7 @@
       <AutoFlushes value="False">
         <!--Whether or not the toilet automatically flushes.-->
       </AutoFlushes>
-      <ComfyBuffScore value="0">
+      <ComfyBuffScore value="4">
         <!--Mood score added by comfy buff while sitting.-->
       </ComfyBuffScore>
     </kToiletTuning>

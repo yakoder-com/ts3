@@ -44,10 +44,10 @@
       <HoursUnbreakable value="24">
         <!--How long until the object is allowed to check for breakage after being fixed or purchased.-->
       </HoursUnbreakable>
-      <StartPercentChanceBreak value="5">
+      <StartPercentChanceBreak value="3">
         <!--Starting chance of object breaking when its used.-->
       </StartPercentChanceBreak>
-      <PercentChanceBreakIncrease value="2">
+      <PercentChanceBreakIncrease value="1">
         <!--How much the chance of breakage increases each time the object is used (int, 1 to 100).-->
       </PercentChanceBreakIncrease>
       <PercentWhenReplaceAvailable value="15">
@@ -62,7 +62,7 @@
       <MaxRepairTime value="30">
         <!--Maximum amount of time in sim minutes that it takes to repair this object.  Occurs at skill level 0.-->
       </MaxRepairTime>
-      <RepairSkillGain value="1000">
+      <RepairSkillGain value="1100">
         <!--Rate of skill gain while repairing object in points per sim minute-->
       </RepairSkillGain>
       <UpgradeUnbreakable>
