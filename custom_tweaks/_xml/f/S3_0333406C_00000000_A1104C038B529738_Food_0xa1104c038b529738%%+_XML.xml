@@ -43,10 +43,10 @@
     <kNumFoodPointsBurnt value="-150">
       <!--The number of food points burnt food has.-->
     </kNumFoodPointsBurnt>
-    <kFoodUnitsFullServing value="15">
+    <kFoodUnitsFullServing value="20">
       <!--This is how many 'bites' it will take to eat a meal completely.-->
     </kFoodUnitsFullServing>
-    <kFoodUnitsLeftForHalfFull value="7">
+    <kFoodUnitsLeftForHalfFull value="10">
       <!--When the number of bites left of food reaches this number, the model will switch to a half-eaten version.-->
     </kFoodUnitsLeftForHalfFull>
     <kCleanupChance value="50">
