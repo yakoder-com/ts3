@@ -11,7 +11,7 @@
     <kTimeoutRemainingToSit value="45">
       <!--If the hasToPee timeout has less time remaining than this in minutes, they will sit.-->
     </kTimeoutRemainingToSit>
-    <kChanceOfToiletAutoFlushWhileInUse value="20">
+    <kChanceOfToiletAutoFlushWhileInUse value="0">
       <!--This value is the chance between 0 and 100 of a auto flushing toilet flushing while the Sim is using it.-->
     </kChanceOfToiletAutoFlushWhileInUse>
     <kTimeoutRemainingForBladderEmergency value="30">
