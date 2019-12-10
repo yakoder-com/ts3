@@ -52,7 +52,7 @@
     <kCleanupChance value="75">
       <!--Chance normal (not neat or slob) sims will clean up after eating. Should be between 0 and 100.-->
     </kCleanupChance>
-    <kChanceOfChoosingFavoriteFood value="33">
+    <kChanceOfChoosingFavoriteFood value="50">
       <!--Chance sim will choose their favorite food if available. Should be between 0 and 100.-->
     </kChanceOfChoosingFavoriteFood>
   </Current_Tuning>
