@@ -23,8 +23,6 @@
 		</PosturePrecondition>
 		<PosturePrecondition name="Standing" value="0.5">
 		</PosturePrecondition>
-		<PosturePrecondition name="CarryingObject" value="0">
-		</PosturePrecondition>
 		<Check type="All" value="0" />
 		<Tradeoff name="WatchTVAutonomously">
 			<Localization autoGenerate="False" />

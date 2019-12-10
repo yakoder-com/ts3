@@ -23,8 +23,6 @@
 		</PosturePrecondition>
 		<PosturePrecondition name="Standing" value="0.5">
 		</PosturePrecondition>
-		<PosturePrecondition name="CarryingObject" value="0">
-		</PosturePrecondition>
 		<PosturePrecondition name="Relaxing" value="1.5">
 			<Check name="MutualFacing" />
 		</PosturePrecondition>
