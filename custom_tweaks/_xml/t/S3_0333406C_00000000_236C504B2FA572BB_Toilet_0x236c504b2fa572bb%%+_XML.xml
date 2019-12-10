@@ -22,10 +22,10 @@
     <kWashHandsChanceSlob value="50" />
     <kNeedsToBeFlushedEnvironmentScorePenalty value="-10">
     </kNeedsToBeFlushedEnvironmentScorePenalty>
-    <kMaximumNumberOfSimsInLine value="3">
+    <kMaximumNumberOfSimsInLine value="1">
       <!--Range: Positive integers.  Description:  Maximum number of Sims that can wait in line for this toilet.-->
     </kMaximumNumberOfSimsInLine>
-    <kTimeToWaitInLine value="25">
+    <kTimeToWaitInLine value="5">
       <!--Range: Positive floats.  Description: Amount of Sim minutes a Sim will wait in line before timing out and exiting.-->
     </kTimeToWaitInLine>
     <kBoobyTrapTuning>
