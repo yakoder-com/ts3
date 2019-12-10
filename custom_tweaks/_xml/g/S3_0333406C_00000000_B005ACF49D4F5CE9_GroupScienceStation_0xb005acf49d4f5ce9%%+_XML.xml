@@ -16,7 +16,7 @@
     <kMeteorShowerDuration value="15">
       <!--Range:  0 - 100  Description:  This is the duration of the meteor shower that results from a white charge (in sim minutes)-->
     </kMeteorShowerDuration>
-    <kMeteorImpactIntervalBase value="0.75">
+    <kMeteorImpactIntervalBase value="0.5">
       <!--Range:  0 - 100  Description:  This is the base interval between meteor impacts for the meteor shower(in sim minutes)-->
     </kMeteorImpactIntervalBase>
     <kMeteorImpactIntervalVariance value="0.75">
