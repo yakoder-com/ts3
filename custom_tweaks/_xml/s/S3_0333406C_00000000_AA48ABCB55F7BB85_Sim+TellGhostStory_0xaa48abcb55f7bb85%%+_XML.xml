@@ -4,7 +4,7 @@
     <kTellGhostStoryHangOutTimeBeforeStoryStarts value="5">
       <!--Once the story teller has called all the participants, the sim waits for this duration before starting the story telling animations. Positive float. Units: Sim Minutes. Initial GPE default 30.-->
     </kTellGhostStoryHangOutTimeBeforeStoryStarts>
-    <kTellGhostStoryDuration value="45, 60">
+    <kTellGhostStoryDuration value="15, 30">
       <!--We pick a random number between this bound of time to tell a ghost story. Positive floats. Index 0: Minimum. Index 1: Maximum. Units: Sim Minutes.-->
     </kTellGhostStoryDuration>
     <kGhostStoryCallDistanceSqr value="64">
