@@ -7,7 +7,7 @@
     <kFunInteractionReturnThreshold value="95">
       <!--Float: If the Sim is in an interaction using fun exit and their fun is >= to this value, they will not return to this interaction if interrupted-->
     </kFunInteractionReturnThreshold>
-    <kUserMaxLength value="8">
+    <kUserMaxLength value="16">
       <!--Range:  1-10  Description:  Number of visible interactions the player can enqueue.-->
     </kUserMaxLength>
     <kApplyLocalToddlerCareRulesToUserDirectedActions value="False" />
