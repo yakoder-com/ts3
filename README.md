@@ -15,3 +15,5 @@ Figured exporting all the original xml files from the GameplayData.package file 
 * http://modthesims.info/
 * http://simlogical.com/
 * http://simsasylum.com/tfm/
+* https://nonasims.wordpress.com/
+
