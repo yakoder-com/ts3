@@ -1744,16 +1744,16 @@
   <Level_8_Text>InfluenceNerd8</Level_8_Text>
   <Level_9_Text>InfluenceNerd9</Level_9_Text>
   <Level_10_Text>InfluenceNerd10</Level_10_Text>
-  <Level_1>1000</Level_1>
-  <Level_2>1250</Level_2>
-  <Level_3>1562</Level_3>
-  <Level_4>1952</Level_4>
-  <Level_5>2440</Level_5>
-  <Level_6>3050</Level_6>
-  <Level_7>3812</Level_7>
-  <Level_8>4765</Level_8>
-  <Level_9>5956</Level_9>
-  <Level_10>7445</Level_10>
+  <Level_1>5000</Level_1>
+  <Level_2>6250</Level_2>
+  <Level_3>7810</Level_3>
+  <Level_4>9760</Level_4>
+  <Level_5>12200</Level_5>
+  <Level_6>15250</Level_6>
+  <Level_7>19060</Level_7>
+  <Level_8>23825</Level_8>
+  <Level_9>29780</Level_9>
+  <Level_10>37225</Level_10>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
   <DreamsAndPromisesIcon>w_Social_Group01</DreamsAndPromisesIcon>
  </SkillList>
@@ -1814,16 +1814,16 @@
   <Level_8_Text>InfluenceSocialite8</Level_8_Text>
   <Level_9_Text>InfluenceSocialite9</Level_9_Text>
   <Level_10_Text>InfluenceSocialite10</Level_10_Text>
-  <Level_1>1000</Level_1>
-  <Level_2>1250</Level_2>
-  <Level_3>1562</Level_3>
-  <Level_4>1952</Level_4>
-  <Level_5>2440</Level_5>
-  <Level_6>3050</Level_6>
-  <Level_7>3812</Level_7>
-  <Level_8>4765</Level_8>
-  <Level_9>5956</Level_9>
-  <Level_10>7445</Level_10>
+  <Level_1>5000</Level_1>
+  <Level_2>6250</Level_2>
+  <Level_3>7810</Level_3>
+  <Level_4>9760</Level_4>
+  <Level_5>12200</Level_5>
+  <Level_6>15250</Level_6>
+  <Level_7>19060</Level_7>
+  <Level_8>23825</Level_8>
+  <Level_9>29780</Level_9>
+  <Level_10>37225</Level_10>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
   <DreamsAndPromisesIcon>w_Social_Group03</DreamsAndPromisesIcon>
  </SkillList>
