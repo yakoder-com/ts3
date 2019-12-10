@@ -10,7 +10,7 @@
     <kBaseCookMinutesSingleServing value="10">
       <!--The base time it takes to cook a single serving of food, in minutes.  This is before speed enhancements are applied.-->
     </kBaseCookMinutesSingleServing>
-    <kBaseCookMinutesGroupServing value="25">
+    <kBaseCookMinutesGroupServing value="20">
       <!--The base time it takes to cook a group serving of food, in minutes.  This is before speed enhancements are applied.-->
     </kBaseCookMinutesGroupServing>
     <kBreakfastStartHour value="1">
@@ -34,7 +34,7 @@
     <kPotMinSimMinutesUntilAddIngredient value="5">
       <!--When the sim cooks using the pot, there's a chance he'll add an ingredient straight to the pot.  This is the minimum amount of sim minutes that will pass before this happens.-->
     </kPotMinSimMinutesUntilAddIngredient>
-    <kPotMaxSimMinutesUntilAddIngredient value="30">
+    <kPotMaxSimMinutesUntilAddIngredient value="15">
       <!--When the sim cooks using the pot, there's a chance he'll add an ingredient straight to the pot.  This is the maximum amount of sim minutes that will pass before this happens.-->
     </kPotMaxSimMinutesUntilAddIngredient>
     <kQualityMultiplierForServedFood value=".75">
