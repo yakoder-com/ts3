@@ -13,7 +13,7 @@
     <kBaseCookMinutesGroupServing value="20">
       <!--The base time it takes to cook a group serving of food, in minutes.  This is before speed enhancements are applied.-->
     </kBaseCookMinutesGroupServing>
-    <kBreakfastStartHour value="1">
+    <kBreakfastStartHour value="5">
       <!--The start hour for breakfast.  Breakfast will be served until the start hour for lunch. Uses 24 hour period.-->
     </kBreakfastStartHour>
     <kLunchStartHour value="11">
@@ -22,7 +22,7 @@
     <kDinnerStartHour value="17">
       <!--The start hour for dinner.  Dinner will be served until the start hour for breakfast the next day. Uses 24 hour period.-->
     </kDinnerStartHour>
-    <kBrunchStartHour value="9">
+    <kBrunchStartHour value="8">
       <!--The start hour for brunch (brunch is on weekends only). Uses 24 hour period.-->
     </kBrunchStartHour>
     <kBrunchEndHour value="15">
