@@ -461,6 +461,7 @@
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillBlocks</Commodity>
   <Mental>True</Mental>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_3_Text>BlocksLevelThree</Level_3_Text>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
@@ -506,6 +507,7 @@
   <Creative>True</Creative>
   <Artistic>True</Artistic>
   <Certificate>True</Certificate>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_2_Text>PhotographyLevelTwo</Level_2_Text>
   <Level_3_Text>PhotographyLevelThree</Level_3_Text>
   <Level_4_Text>PhotographyLevelFour</Level_4_Text>
@@ -649,6 +651,7 @@
   <Commodity>SkillGnubb</Commodity>
   <Physical>True</Physical>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>75</Level_1>
   <Level_2>100</Level_2>
   <Level_3>125</Level_3>
@@ -785,6 +788,7 @@
   <Physical>True</Physical>
   <Mental>True</Mental>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>1250</Level_1>
   <Level_2>3000</Level_2>
   <Level_3>8000</Level_3>
@@ -800,6 +804,7 @@
   <Commodity>SkillBartending</Commodity>
   <Creative>True</Creative>
   <Certificate>True</Certificate>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_2_Text>BartendingLevel2</Level_2_Text>
   <Level_3_Text>BartendingLevel3</Level_3_Text>
   <Level_4_Text>BartendingLevel4</Level_4_Text>
@@ -885,6 +890,7 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillDarts</Commodity>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
   <Level_3>200</Level_3>
@@ -939,6 +945,7 @@
   <Physical>True</Physical>
   <Mental>True</Mental>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -968,6 +975,7 @@
   <Musical>True</Musical>
   <Creative>True</Creative>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -983,6 +991,7 @@
   <Musical>True</Musical>
   <Creative>True</Creative>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -998,6 +1007,7 @@
   <Musical>True</Musical>
   <Creative>True</Creative>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -1013,6 +1023,7 @@
   <Musical>True</Musical>
   <Creative>True</Creative>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
   <Level_3>100</Level_3>
@@ -1047,6 +1058,7 @@
   <Physical>True</Physical>
   <Mental>True</Mental>
   <Certificate>True</Certificate>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_3_Text>LearnToDriveLevelThree</Level_3_Text>
   <Level_1>100</Level_1>
   <Level_2>100</Level_2>
@@ -1062,6 +1074,7 @@
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillBallet</Commodity>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_2_Text>BalletLevelTwo</Level_2_Text>
   <Level_3_Text>BalletLevelThree</Level_3_Text>
   <Level_1>100</Level_1>
@@ -1078,6 +1091,7 @@
   <MaxSkillLevel>3</MaxSkillLevel>
   <Commodity>SkillScouting</Commodity>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_2_Text>ScoutingLevelTwo</Level_2_Text>
   <Level_3_Text>ScoutingLevelThree</Level_3_Text>
   <Level_1>100</Level_1>
@@ -1093,6 +1107,7 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillHopscotch</Commodity>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
   <Level_3>200</Level_3>
@@ -1284,6 +1299,7 @@
   <Physical>True</Physical>
   <Mental>True</Mental>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
  </SkillList>
 <SkillList>
@@ -1352,6 +1368,7 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillPool</Commodity>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>100</Level_1>
   <Level_2>150</Level_2>
   <Level_3>200</Level_3>
@@ -1375,6 +1392,7 @@
   <Physical>True</Physical>
   <Artistic>True</Artistic>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>400</Level_1>
   <Level_2>500</Level_2>
   <Level_3>600</Level_3>
@@ -1585,6 +1603,7 @@
   <Commodity>SkillHorseshoes</Commodity>
   <Physical>True</Physical>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>962</Level_1>
   <Level_2>722</Level_2>
   <Level_3>1283</Level_3>
@@ -1646,6 +1665,7 @@
   <Commodity>SkillBowling</Commodity>
   <Physical>True</Physical>
   <Hidden>True</Hidden>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_1>400</Level_1>
   <Level_2>800</Level_2>
   <Level_3>1200</Level_3>
@@ -1698,6 +1718,7 @@
   <Commodity>SkillScience</Commodity>
   <Physical>True</Physical>
   <Mental>True</Mental>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_2_Text>ScienceLevel2</Level_2_Text>
   <Level_3_Text>ScienceLevel3</Level_3_Text>
   <Level_4_Text>ScienceLevel4</Level_4_Text>
@@ -1932,6 +1953,7 @@
   <CustomDataSheet>BotBuilding</CustomDataSheet>
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillBotBuilding</Commodity>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_2_Text>BotBuilding2</Level_2_Text>
   <Level_3_Text>BotBuilding3</Level_3_Text>
   <Level_4_Text>BotBuilding4</Level_4_Text>
@@ -1957,6 +1979,7 @@
   <MaxSkillLevel>10</MaxSkillLevel>
   <Commodity>SkillFuture</Commodity>
   <Mental>True</Mental>
+  <LogicSkillBoost>True</LogicSkillBoost>
   <Level_2_Text>Future2</Level_2_Text>
   <Level_3_Text>Future3</Level_3_Text>
   <Level_4_Text>Future4</Level_4_Text>
