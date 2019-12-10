@@ -4,7 +4,7 @@
     <kMaxMinutesRemainingNotToAutosolve value="15">
       <!--Float: If the number of minutes remaining in the interaction is <= to this, the Sim will not exit to autosolve.-->
     </kMaxMinutesRemainingNotToAutosolve>
-    <kFunInteractionReturnThreshold value="95">
+    <kFunInteractionReturnThreshold value="100">
       <!--Float: If the Sim is in an interaction using fun exit and their fun is >= to this value, they will not return to this interaction if interrupted-->
     </kFunInteractionReturnThreshold>
     <kUserMaxLength value="16">
