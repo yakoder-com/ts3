@@ -1703,7 +1703,7 @@
   <Level_8>400000</Level_8>
   <Level_9>500000</Level_9>
   <Level_10>750000</Level_10>
-  <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
+  <AvailableAgeSpecies>T</AvailableAgeSpecies>
   <DreamsAndPromisesIcon>w_grafitti_art_duffel</DreamsAndPromisesIcon>
   <IconKey>w_simple_streetart_skill_s</IconKey>
   <SkillUIIcon>skillobjectstreetart</SkillUIIcon>
@@ -1810,7 +1810,7 @@
   <Level_8>47650</Level_8>
   <Level_9>59560</Level_9>
   <Level_10>74450</Level_10>
-  <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
+  <AvailableAgeSpecies>T</AvailableAgeSpecies>
   <DreamsAndPromisesIcon>w_Social_Group02</DreamsAndPromisesIcon>
  </SkillList>
 <SkillList>
