@@ -3505,7 +3505,7 @@
  </Influence>
 <Influence>
   <Level>0</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>1</CommodityDecayModifier>
   <BufferPointsPool>0</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle0</InfluenceNerdTitle>
@@ -3515,7 +3515,7 @@
  </Influence>
 <Influence>
   <Level>1</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>1</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle1</InfluenceNerdTitle>
@@ -3525,7 +3525,7 @@
  </Influence>
 <Influence>
   <Level>2</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>2</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle2</InfluenceNerdTitle>
@@ -3535,7 +3535,7 @@
  </Influence>
 <Influence>
   <Level>3</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>3</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle3</InfluenceNerdTitle>
@@ -3545,7 +3545,7 @@
  </Influence>
 <Influence>
   <Level>4</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>4</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle4</InfluenceNerdTitle>
@@ -3555,7 +3555,7 @@
  </Influence>
 <Influence>
   <Level>5</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>5</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle5</InfluenceNerdTitle>
@@ -3565,7 +3565,7 @@
  </Influence>
 <Influence>
   <Level>6</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>5</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle6</InfluenceNerdTitle>
@@ -3575,7 +3575,7 @@
  </Influence>
 <Influence>
   <Level>7</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>6</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle7</InfluenceNerdTitle>
@@ -3585,7 +3585,7 @@
  </Influence>
 <Influence>
   <Level>8</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>6</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle8</InfluenceNerdTitle>
@@ -3595,7 +3595,7 @@
  </Influence>
 <Influence>
   <Level>9</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>8</CommodityDecayModifier>
   <BufferPointsPool>720</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle9</InfluenceNerdTitle>
@@ -3605,7 +3605,7 @@
  </Influence>
 <Influence>
   <Level>10</Level>
-  <DecayRate>-0.25</DecayRate>
+  <DecayRate>-0.05</DecayRate>
   <CommodityDecayModifier>8</CommodityDecayModifier>
   <BufferPointsPool>3000</BufferPointsPool>
   <InfluenceNerdTitle>NerdSkillTitle10</InfluenceNerdTitle>
