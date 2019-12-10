@@ -31,7 +31,7 @@
     <kMinimumMoneyBagContents value="100">
       <!--Range:  Positive  Description:  This is the minimum amount of simoleons that the HarvestMoneyBag will contain-->
     </kMinimumMoneyBagContents>
-    <kMaximumMoneyBagContents value="500">
+    <kMaximumMoneyBagContents value="5000">
       <!--Range:  Positive  Description:  This is the maximum amount of simoleons that the HarvestMoneyBag will contain-->
     </kMaximumMoneyBagContents>
     <kWatchDistance value="5">
