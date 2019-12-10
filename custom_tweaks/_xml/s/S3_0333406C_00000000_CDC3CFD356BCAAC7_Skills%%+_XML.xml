@@ -1693,16 +1693,16 @@
   <Level_8_Text>StreetArtLevel8</Level_8_Text>
   <Level_9_Text>StreetArtLevel9</Level_9_Text>
   <Level_10_Text>StreetArtLevel10</Level_10_Text>
-  <Level_1>200</Level_1>
-  <Level_2>800</Level_2>
-  <Level_3>1200</Level_3>
-  <Level_4>1600</Level_4>
-  <Level_5>2200</Level_5>
-  <Level_6>2800</Level_6>
-  <Level_7>3300</Level_7>
-  <Level_8>4000</Level_8>
-  <Level_9>5000</Level_9>
-  <Level_10>7500</Level_10>
+  <Level_1>20000</Level_1>
+  <Level_2>80000</Level_2>
+  <Level_3>120000</Level_3>
+  <Level_4>160000</Level_4>
+  <Level_5>220000</Level_5>
+  <Level_6>280000</Level_6>
+  <Level_7>330000</Level_7>
+  <Level_8>400000</Level_8>
+  <Level_9>500000</Level_9>
+  <Level_10>750000</Level_10>
   <AvailableAgeSpecies>T,Y,A,E</AvailableAgeSpecies>
   <DreamsAndPromisesIcon>w_grafitti_art_duffel</DreamsAndPromisesIcon>
   <IconKey>w_simple_streetart_skill_s</IconKey>
