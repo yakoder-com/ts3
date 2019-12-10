@@ -20,11 +20,8 @@
 		</BaseAvailability>
 		<PosturePrecondition name="Sitting" value="1">
 			<Check name="MutualFacing" />
-			<Check name="MayCarryChild" />
 		</PosturePrecondition>
 		<PosturePrecondition name="Standing" value="0.5">
-		</PosturePrecondition>
-		<PosturePrecondition name="CarryingChild" value="0">
 		</PosturePrecondition>
 		<PosturePrecondition name="CarryingObject" value="0">
 		</PosturePrecondition>
