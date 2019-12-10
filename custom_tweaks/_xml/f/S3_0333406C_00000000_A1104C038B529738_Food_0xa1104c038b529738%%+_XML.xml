@@ -49,7 +49,7 @@
     <kFoodUnitsLeftForHalfFull value="10">
       <!--When the number of bites left of food reaches this number, the model will switch to a half-eaten version.-->
     </kFoodUnitsLeftForHalfFull>
-    <kCleanupChance value="50">
+    <kCleanupChance value="75">
       <!--Chance normal (not neat or slob) sims will clean up after eating. Should be between 0 and 100.-->
     </kCleanupChance>
     <kChanceOfChoosingFavoriteFood value="33">
