@@ -2,7 +2,7 @@
 <base>
   <Current_Tuning>
     <kSeatDownChanceNormal value="90" />
-    <kSeatDownChanceSlob value="0" />
+    <kSeatDownChanceSlob value="50" />
     <kSeatDownChanceNeat value="100" />
     <kFlushChanceNormal value="95" />
     <kFlushChanceNeat value="100" />
