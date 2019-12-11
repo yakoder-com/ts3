@@ -16,7 +16,7 @@
     <kCompletetionRateModifierMoodElated value=".556">
       <!--The amount added to completionRate if the Sim is elated.-->
     </kCompletetionRateModifierMoodElated>
-    <kCompletetionRateModifierHomeworkSkill value="1.111">
+    <kCompletetionRateModifierHomeworkSkill value="1.668">
       <!--The amount added to completionRate when the Sim is at homework skill level 10.  Other levels will be interpolated from this value.-->
     </kCompletetionRateModifierHomeworkSkill>
     <kHomeworkSkillPPM value="10">
