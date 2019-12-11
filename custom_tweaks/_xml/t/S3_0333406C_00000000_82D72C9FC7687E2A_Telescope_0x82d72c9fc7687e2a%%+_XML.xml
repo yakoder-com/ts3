@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kDaytimeStart value="5">
+    <kDaytimeStart value="6">
       <!--0.00 - 24.00: What time of day 'Look Through' starts being the interaction Name-->
     </kDaytimeStart>
     <kNightTimeStart value="18">
