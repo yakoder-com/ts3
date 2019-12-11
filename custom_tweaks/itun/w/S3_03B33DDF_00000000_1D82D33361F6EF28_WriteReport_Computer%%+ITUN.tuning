@@ -37,6 +37,7 @@
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
 				<Change type="SkillWriting" advertised="200" locked="False" actual="300" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Fun" advertised="10" locked="True" actual="10" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" />
