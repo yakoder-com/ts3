@@ -7,16 +7,16 @@
     <kNightTimeStart value="18">
       <!--0.00 - 24.00: What time of day 'Stargaze' starts being the interaction Name-->
     </kNightTimeStart>
-    <kMinTimeToTriggerThought value="10">
+    <kMinTimeToTriggerThought value="7">
       <!--Minimum number of sim minutes before triggering a thought balloon.-->
     </kMinTimeToTriggerThought>
-    <kMaxTimeToTriggerThought value="20">
+    <kMaxTimeToTriggerThought value="15">
       <!--Maximum number of sim minutes before triggering a thought balloon.-->
     </kMaxTimeToTriggerThought>
-    <kMinTimeToFindInGalaxy value="60">
+    <kMinTimeToFindInGalaxy value="45">
       <!--Minimum amount of time it takes to find something during the Search Galaxy interaction-->
     </kMinTimeToFindInGalaxy>
-    <kMaxTimeToFindInGalaxy value="180">
+    <kMaxTimeToFindInGalaxy value="135">
       <!--Minimum amount of time it takes to find something during the Search Galaxy interaction-->
     </kMaxTimeToFindInGalaxy>
     <kChanceOfFindingSomethingNew value=".75">
