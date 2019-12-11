@@ -16,7 +16,7 @@
     <kRewardAmount value="500">
       <!--The reward in simoleans that the sim gets for defeating a burglar.-->
     </kRewardAmount>
-    <kTimeBetweenCurfewChecks value="30">
+    <kTimeBetweenCurfewChecks value="60">
       <!--How often in sim minutes we do a curfew check where we may spawn a police officer to round up the hooligans.-->
     </kTimeBetweenCurfewChecks>
     <kChanceOfPoliceSpawnAfterCurfew value="0.80">
