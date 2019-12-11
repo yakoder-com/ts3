@@ -22,10 +22,10 @@
     <kMaxHoursToShowUp value="4">
       <!--The max number of hours after the last sim goes to sleep a burgler will show up. Actual time will be randomly chosen between 0 and this value.-->
     </kMaxHoursToShowUp>
-    <kMinDaysBetweenBurgles value="4">
+    <kMinDaysBetweenBurgles value="28">
       <!--The minimum number of days between burgles.-->
     </kMinDaysBetweenBurgles>
-    <kBurglarReactionRelationshipHit value="-20">
+    <kBurglarReactionRelationshipHit value="-50">
       <!--The amount a sim's relationship with the burglar decreases when he robs that sim's house.-->
     </kBurglarReactionRelationshipHit>
     <kSimoleansForOnePercentIncrease value="20000">
@@ -50,7 +50,7 @@
       <kIsRecurrent value="False">
         <!--Whether the service is recurrent (true) or one-off (false).  Recurrent services are the only type which can be cancelled through the phone dialog.-->
       </kIsRecurrent>
-      <kAlwaysTryToSendSameSim value="True">
+      <kAlwaysTryToSendSameSim value="False">
         <!--Whether or not the service always tries to send the same NPC to a specific household-->
       </kAlwaysTryToSendSameSim>
     </kServiceTuning>
