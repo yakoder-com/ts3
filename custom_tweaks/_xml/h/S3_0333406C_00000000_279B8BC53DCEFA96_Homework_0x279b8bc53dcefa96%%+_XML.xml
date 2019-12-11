@@ -96,7 +96,7 @@
     <kCompletetionRateModifierWorkingWithOthers value="0.417">
       <!--The amount added to completionRate if the Sim is near other Sims working on homework.-->
     </kCompletetionRateModifierWorkingWithOthers>
-    <kCompletetionRateModifierBeingHelped value=".556">
+    <kCompletetionRateModifierBeingHelped value="0.834">
       <!--The amount added to completionRate if the Sim is being helped.-->
     </kCompletetionRateModifierBeingHelped>
     <kBeingHelpedSTC value="Friendly">
