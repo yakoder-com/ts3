@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kDelayBeforeLeaving value=".15">
+    <kDelayBeforeLeaving value=".08">
       <!--Length of time (in hours) that policeman waits before leaving the lot, after his work is done-->
     </kDelayBeforeLeaving>
     <kPoliceFightModifier value="1">
@@ -28,7 +28,7 @@
     <kMaxNumFightFailures value="0">
       <!--DESIGNER NOTE: If you tune this to 3 or above - talk to the nearest friendly GPE! GPE NOTE: In case the Fight social fails all the time, a high value for this tunable will cause a stack overflow. Description: The max number of fight failures before the policeman gives up and leaves. Positive int. Initial GPE Default: 2.-->
     </kMaxNumFightFailures>
-    <kExtraWaitTimeAfterSocializing value="0.5">
+    <kExtraWaitTimeAfterSocializing value="0.25">
       <!--Extra time (in hours) to wait before leaving if the service NPC is socialized with.-->
     </kExtraWaitTimeAfterSocializing>
     <kPoliceDriveTime value="2.0">
