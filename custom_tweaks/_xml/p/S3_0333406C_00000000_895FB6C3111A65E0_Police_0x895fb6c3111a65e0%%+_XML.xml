@@ -19,7 +19,7 @@
     <kTimeBetweenCurfewChecks value="60">
       <!--How often in sim minutes we do a curfew check where we may spawn a police officer to round up the hooligans.-->
     </kTimeBetweenCurfewChecks>
-    <kChanceOfPoliceSpawnAfterCurfew value="0.80">
+    <kChanceOfPoliceSpawnAfterCurfew value="0.50">
       <!--The chance a police officer will spawn during the tunable time (kTimeBetweenCurfewChecks) period. Range: [0,1]-->
     </kChanceOfPoliceSpawnAfterCurfew>
     <kDistanceToGetTeensOnWorldLot value="45">
