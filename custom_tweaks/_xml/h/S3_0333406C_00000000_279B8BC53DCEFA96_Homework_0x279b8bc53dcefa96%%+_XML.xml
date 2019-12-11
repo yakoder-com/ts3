@@ -84,7 +84,7 @@
     <kWeakGlowRateCap value="1.444">
       <!--Progress rates below this will have no glow.-->
     </kWeakGlowRateCap>
-    <kCompletetionRateModifierLibrary value="1.111">
+    <kCompletetionRateModifierLibrary value="0.834">
       <!--The amount added to completionRate if the Sim is at a library.-->
     </kCompletetionRateModifierLibrary>
     <kTeenDifficultyMultiplier value=".667">
