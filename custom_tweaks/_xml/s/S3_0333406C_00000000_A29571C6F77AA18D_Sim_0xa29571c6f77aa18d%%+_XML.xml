@@ -67,7 +67,7 @@
     <kChanceIncreaseGhostReactionPanicPerTrait value="10">
       <!--How much each 'negative' trait increases the chance a Sim will panic when reacting negatively to a ghost.-->
     </kChanceIncreaseGhostReactionPanicPerTrait>
-    <kChildStartCurfewHour value="22">
+    <kChildStartCurfewHour value="21">
       <!--Hour of day when child curfew starts (this must be greater than child curfew end).-->
     </kChildStartCurfewHour>
     <kChildEndCurfewHour value="6">
@@ -100,13 +100,13 @@
     <kToddlerWalkFallCryMinutes value="15">
       <!--Number of Sim minutes a toddler will cry after falling.-->
     </kToddlerWalkFallCryMinutes>
-    <kTeenStartCurfewHour value="23">
+    <kTeenStartCurfewHour value="24">
       <!--Hour of day when teen curfew starts (this must be greater than teen curfew end).-->
     </kTeenStartCurfewHour>
     <kTeenEndCurfewHour value="6">
       <!--Hour of day when teen curfew ends (this must be less than teen curfew start).-->
     </kTeenEndCurfewHour>
-    <kDistanceTeenIsSupervisedOnWorldLot value="25">
+    <kDistanceTeenIsSupervisedOnWorldLot value="50">
       <!--The max distance a teen has to be from an adult sim on the world lot to be considered not breaking curfew.-->
     </kDistanceTeenIsSupervisedOnWorldLot>
     <sLookAtTuning>
@@ -258,7 +258,7 @@
     <kVisionCone value="160">
       <!--Angle in degrees of a Sim's vision cone.-->
     </kVisionCone>
-    <kTeenBreakCurfewHour value="23.5">
+    <kTeenBreakCurfewHour value="1">
       <!--Hour of the day when a teen is considered breaking curfew (should be between curfew start and end-->
     </kTeenBreakCurfewHour>
     <kMinRelationshipToRestoreGhost value="50">
