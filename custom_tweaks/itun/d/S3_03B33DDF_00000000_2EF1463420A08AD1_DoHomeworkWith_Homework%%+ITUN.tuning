@@ -36,6 +36,7 @@
 			<Output>
 				<Change type="Fun" advertised="0" locked="False" actual="-11" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="Social" advertised="0" locked="False" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="SkillLogic" advertised="100" locked="False" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="" LastChange="" />
