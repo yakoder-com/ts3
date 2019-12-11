@@ -51,7 +51,7 @@
         <!--The MountedReactionType played by mounted horses and riders, instead of doing the normal behavior. If both enter and exit are set to none, mounted sims will not play a mounted reaction. What reaction to play when: [Entering the broadcaster (or initial pulse), exiting the broadcaster].-->
       </MountedReactionTypes>
     </kBurglarAlarmReactionOthersParams>
-    <kDistanceToTriggerOutside value="10">
+    <kDistanceToTriggerOutside value="65">
       <!--The distance a burglar will trigger the alarm when the alarm is placed outside.-->
     </kDistanceToTriggerOutside>
     <kMaxFreakoutLength value="40">
