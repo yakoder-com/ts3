@@ -23,7 +23,7 @@
       <PulseRadius value="65">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
-      <PulseRepeatTime value="3">
+      <PulseRepeatTime value="1">
         <!--A repeat time in sim minutes with which a Sim is pulsed with the OnEnter effects of the broadcaster as long as they reside within the broadcaster's range.  A value of -1 means the pulse never repeats.-->
       </PulseRepeatTime>
       <InteractionProhibitsOverlay value="False">
@@ -73,7 +73,7 @@
       <TimeDuration value="-1">
         <!--DO NOT TUNE a value of -1 unless you speak with the GPE first.  A value of -1 means that the broadcaster pulses until manually deleted by the scripter.  Otherwise it is the lifetime in sim minutes after which the broadcaster is deleted.-->
       </TimeDuration>
-      <PulseRepeatTime value="10">
+      <PulseRepeatTime value="2">
         <!--A repeat time in sim minutes with which a Sim is pulsed with the OnEnter effects of the broadcaster as long as they reside within the broadcaster's range.  A value of -1 means the pulse never repeats.-->
       </PulseRepeatTime>
       <InteractionProhibitsOverlay value="False">
@@ -120,7 +120,7 @@
       <ReactorLineOfSight value="False">
         <!--Specifies whether or not the broadcaster only effects Sims with line-of-sight to the broadcasting object.-->
       </ReactorLineOfSight>
-      <PulseRepeatTime value="20">
+      <PulseRepeatTime value="3">
         <!--A repeat time in sim minutes with which a Sim is pulsed with the OnEnter effects of the broadcaster as long as they reside within the broadcaster's range.  A value of -1 means the pulse never repeats.-->
       </PulseRepeatTime>
       <TimeToFullPulseExpansion value="0">

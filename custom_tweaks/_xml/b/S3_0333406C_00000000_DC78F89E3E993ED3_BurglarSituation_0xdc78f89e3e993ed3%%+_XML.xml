@@ -8,7 +8,7 @@
       <AffectBroadcasterRoomOnly value="False">
         <!--Specifies whether or not the broadcaster effects object through walls that define an enclosed room boundary.-->
       </AffectBroadcasterRoomOnly>
-      <PulseRepeatTime value="5">
+      <PulseRepeatTime value="1">
         <!--A repeat time in sim minutes with which a Sim is pulsed with the OnEnter effects of the broadcaster as long as they reside within the broadcaster's range.  A value of -1 means the pulse never repeats.-->
       </PulseRepeatTime>
       <TimeToFullPulseExpansion value="0">
