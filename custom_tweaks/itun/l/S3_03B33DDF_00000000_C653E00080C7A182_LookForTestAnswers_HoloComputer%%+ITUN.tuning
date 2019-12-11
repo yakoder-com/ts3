@@ -31,6 +31,7 @@
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
 				<Change type="TraitComputerWiz" advertised="0" locked="False" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="SkillFuture" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="Disallowed in Future World" DesignerNotes="EP11 - SecondPass Tuning - Ryan Grant" LastChange="4/22/2013 3:25:39 PM" />
