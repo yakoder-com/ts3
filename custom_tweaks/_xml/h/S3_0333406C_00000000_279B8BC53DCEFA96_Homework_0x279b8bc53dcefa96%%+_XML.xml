@@ -93,7 +93,7 @@
     <kMaxDistanceFromSim value="10">
       <!--This is the max distance used when checking to see if nearby Sims are also doing homework.-->
     </kMaxDistanceFromSim>
-    <kCompletetionRateModifierWorkingWithOthers value=".25">
+    <kCompletetionRateModifierWorkingWithOthers value="0.417">
       <!--The amount added to completionRate if the Sim is near other Sims working on homework.-->
     </kCompletetionRateModifierWorkingWithOthers>
     <kCompletetionRateModifierBeingHelped value=".556">
@@ -126,7 +126,7 @@
     <kCompletetionRateModifierSuperNannyBonusAmount value="0.2">
       <!--The additional amount added to completionRate if the helper is a SuperNanny.-->
     </kCompletetionRateModifierSuperNannyBonusAmount>
-    <kCompletetionRateModifierStudyClub value="0.5">
+    <kCompletetionRateModifierStudyClub value="0.417">
       <!--The amount added to completionRate if Sim is doing homework in the Afterschool Activity Study Club.-->
     </kCompletetionRateModifierStudyClub>
   </Current_Tuning>
