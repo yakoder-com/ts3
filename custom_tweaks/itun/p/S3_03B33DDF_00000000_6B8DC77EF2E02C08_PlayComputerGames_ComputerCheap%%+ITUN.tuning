@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <base>
-	<Interaction name="Sims3.Gameplay.Objects.Electronics.Computer+PlayChess+Definition" />
-	<Object name="Sims3.Gameplay.Objects.Electronics.Computer" />
+	<Interaction name="Sims3.Gameplay.Objects.Electronics.PlayComputerGames+Definition" />
+	<Object name="Sims3.Gameplay.Objects.Electronics.ComputerCheap" />
 	<CodeVersion name="BaseGame" considerCodeVersion="False" />
 	<Current_Tuning>
 		<Disallow DisallowAutonomous="False" DisallowUserDirected="False" DisallowPlayerSim="False" />
@@ -22,28 +22,31 @@
 			<Check name="InFrontOfSurfaceForTarget" />
 			<Check name="ChairScootedIntoSurface" />
 		</PosturePrecondition>
-		<PosturePrecondition name="Standing" value="1">
-			<Check name="TargetInInventory" />
-		</PosturePrecondition>
 		<Check type="SelfRegarding" value="1.5" />
 		<Check type="InappropriateForVisitor" value="1.5" />
 		<Check type="All" value="0" />
-		<Tradeoff name="PlayChess">
+		<Tradeoff name="PlayComputerGames">
 			<Localization autoGenerate="True" />
 			<Time value="1" addRoute="True" />
-			<Exit funExit="True" stressExit="True" interruptible="False" />
+			<Exit funExit="True" stressExit="False" interruptible="False" />
 			<RouteLeadIn allowed="True" />
 			<AskJoinInteraction joinable="False" />
 			<AllowAutonomousReinforcement allowPraise="False" allowScold="False" />
-			<ScoringFunction alwaysChooseBest="False" name="PlayChessScoringFunction" specificCommodity="None" />
+			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="Action Game" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="Fun" advertised="15" locked="True" actual="15" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="SkillLogic" advertised="600" locked="True" actual="600" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="SkillChess" advertised="600" locked="True" actual="600" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Fun" advertised="40" locked="False" actual="35" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitComputerWiz" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="TraitGenius" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
-				<Change type="SkillArcadeMachine" advertised="20" locked="False" actual="120" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitCouchPotato" advertised="50" locked="False" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
+				<Change type="TraitChildish" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
+				<Change type="BeMummy" advertised="-75" locked="True" actual="-75" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitImaginaryFriend" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitFairy" advertised="-75" locked="True" actual="-75" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeAZombie" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Orientation" advertised="-50" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="SkillArcadeMachine" advertised="30" locked="False" actual="600" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitInfluenceNerd" advertised="50" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="SkillInfluenceNerd" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="RoleCafeteriaWaiter" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="RoleLocationMerchant" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
