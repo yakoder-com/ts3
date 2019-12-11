@@ -32,6 +32,7 @@
 			<Output>
 				<Change type="SkillWriting" advertised="200" locked="False" actual="300" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="Fun" advertised="10" locked="True" actual="10" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitComputerWiz" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="Disallowed in Future World" DesignerNotes="EP11 - SecondPass Tuning - Ryan Grant" LastChange="4/22/2013 4:40:39 PM" />
