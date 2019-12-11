@@ -87,7 +87,7 @@
     <kCompletetionRateModifierLibrary value="0.834">
       <!--The amount added to completionRate if the Sim is at a library.-->
     </kCompletetionRateModifierLibrary>
-    <kTeenDifficultyMultiplier value=".667">
+    <kTeenDifficultyMultiplier value=".5">
       <!--This multiplier is applied to how quickly Sims do homework when they are teens.  Expected less than 1 because teen homework is harder-->
     </kTeenDifficultyMultiplier>
     <kMaxDistanceFromSim value="10">
