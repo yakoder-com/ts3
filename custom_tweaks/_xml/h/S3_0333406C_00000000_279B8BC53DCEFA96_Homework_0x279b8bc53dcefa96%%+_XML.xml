@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kBaseCompletetionPerMinute value=".556">
+    <kBaseCompletetionPerMinute value="1.668">
       <!--The percent of homework that is completed per Sim minute before any modifiers.  This is the base completionRate-->
     </kBaseCompletetionPerMinute>
     <kCompletetionRateModifierFailing value=".556">
