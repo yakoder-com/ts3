@@ -2,7 +2,7 @@
 <base>
   <Current_Tuning>
     <kBurglarReactionBroadcastParams>
-      <PulseRadius value="25">
+      <PulseRadius value="65">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
       <AffectBroadcasterRoomOnly value="False">

@@ -61,7 +61,7 @@
       </MountedReactionTypes>
     </kFireReactionBroadcastParams>
     <kWatchFireBroadcastParams>
-      <PulseRadius value="60">
+      <PulseRadius value="65">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
       <AffectBroadcasterRoomOnly value="False">
