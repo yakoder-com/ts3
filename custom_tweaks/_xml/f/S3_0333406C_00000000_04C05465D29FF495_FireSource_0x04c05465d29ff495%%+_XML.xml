@@ -114,7 +114,7 @@
       <PulseRadius value="65">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
-      <AffectBroadcasterRoomOnly value="True">
+      <AffectBroadcasterRoomOnly value="False">
         <!--Specifies whether or not the broadcaster effects object through walls that define an enclosed room boundary.-->
       </AffectBroadcasterRoomOnly>
       <ReactorLineOfSight value="False">
