@@ -4,13 +4,13 @@
     <kDelayBeforeLeaving value=".15">
       <!--Length of time (in hours) that policeman waits before leaving the lot, after his work is done-->
     </kDelayBeforeLeaving>
-    <kPoliceFightModifier value="0.25">
+    <kPoliceFightModifier value="1">
       <!--Should be between 0 and 1. The amount to skew the chance the policeman will win a fight with a burglar.-->
     </kPoliceFightModifier>
-    <kMaxNumRooms value="5">
+    <kMaxNumRooms value="10">
       <!--The max number of rooms the policeman will 'search' when looking for the burglar.-->
     </kMaxNumRooms>
-    <kFollowDelay value="5">
+    <kFollowDelay value="0.25">
       <!--The delay in sim minutes before the police follows the burglar to his car after arresting him.-->
     </kFollowDelay>
     <kRewardAmount value="500">
@@ -31,7 +31,7 @@
     <kExtraWaitTimeAfterSocializing value="0.5">
       <!--Extra time (in hours) to wait before leaving if the service NPC is socialized with.-->
     </kExtraWaitTimeAfterSocializing>
-    <kPoliceDriveTime value="5.0">
+    <kPoliceDriveTime value="2.0">
       <!--Time in sim minutes it takes for the police to get to your lot when there is a burglar.-->
     </kPoliceDriveTime>
     <kServiceTuning>
