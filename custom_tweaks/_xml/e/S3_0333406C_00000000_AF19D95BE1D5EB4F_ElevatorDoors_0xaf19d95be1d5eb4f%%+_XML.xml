@@ -19,7 +19,7 @@
     <kWooHooRejectRelHit value="0">
       <!--Relationship hit between sims on WooHoo reject.-->
     </kWooHooRejectRelHit>
-    <kLastOutFailureChance value="0.1">
+    <kLastOutFailureChance value="0">
       <!--Chance of failure (0-1) of the last sim exiting (doors will close on them).-->
     </kLastOutFailureChance>
     <kRoutingRange value="0, 3">
