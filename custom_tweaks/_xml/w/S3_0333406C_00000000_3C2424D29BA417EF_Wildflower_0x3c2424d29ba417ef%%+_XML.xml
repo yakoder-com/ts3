@@ -13,7 +13,7 @@
     <kMaxWildflowersInWorld value="30">
       <!--The maximum number of wildflowers allowed in the world at any given time-->
     </kMaxWildflowersInWorld>
-    <kMinimumTemperatureForWildflowerSpawn value="30">
+    <kMinimumTemperatureForWildflowerSpawn value="60">
       <!--Range 0.0+.  The minimum temperature at which a Wildflower is allowed to spawn. Anything below this temperature will cause a wildflower to not spawn.-->
     </kMinimumTemperatureForWildflowerSpawn>
     <kBaseLifespan value="5">
