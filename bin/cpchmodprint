@@ -1,6 +1,4 @@
 #!/bin/bash
 
-cp $1 $2 $3
-chmod 644 $3
-printf "%q\n" $2
+cp $1 $2 $3 && chmod 644 $3 && printf "%q\n" $2
 
