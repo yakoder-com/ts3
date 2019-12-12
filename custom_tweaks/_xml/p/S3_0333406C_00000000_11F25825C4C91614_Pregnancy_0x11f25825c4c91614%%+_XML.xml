@@ -90,10 +90,10 @@
         <!--The MountedReactionType played by mounted horses and riders, instead of doing the normal behavior. If both enter and exit are set to none, mounted sims will not play a mounted reaction. What reaction to play when: [Entering the broadcaster (or initial pulse), exiting the broadcaster].-->
       </MountedReactionTypes>
     </kContractionBroadcasterParams>
-    <kGenderOffsetPerFoodEaten value="0.1">
+    <kGenderOffsetPerFoodEaten value="0.0">
       <!--Offset provided to gender random per food eaten (watermelon & apple).-->
     </kGenderOffsetPerFoodEaten>
-    <kMaxGenderOffset value="0.5">
+    <kMaxGenderOffset value="0.0">
       <!--(0-.5) Maximum offset from .5 allowed to be achieved.-->
     </kMaxGenderOffset>
     <kHourToStartPregnantMotives value="8">
@@ -149,7 +149,7 @@
     <kBaseChanceOfBabyHavingRandomOccultMutation value="0">
       <!--(0-1) Chance of having a baby that receives a mutation of a randomly-assigned occult, regardless of genetics-->
     </kBaseChanceOfBabyHavingRandomOccultMutation>
-    <kFullMoonImprovedBabyChance value="0.2">
+    <kFullMoonImprovedBabyChance value="0.0">
       <!--Improved (additive) chance of pregnency during Full moon. Range 0 -1-->
     </kFullMoonImprovedBabyChance>
   </Current_Tuning>
