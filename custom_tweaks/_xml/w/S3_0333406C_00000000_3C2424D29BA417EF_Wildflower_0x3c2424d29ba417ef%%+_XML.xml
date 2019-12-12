@@ -16,7 +16,7 @@
     <kMinimumTemperatureForWildflowerSpawn value="60">
       <!--Range 0.0+.  The minimum temperature at which a Wildflower is allowed to spawn. Anything below this temperature will cause a wildflower to not spawn.-->
     </kMinimumTemperatureForWildflowerSpawn>
-    <kBaseLifespan value="5">
+    <kBaseLifespan value="7">
       <!--The base lifespan of a wildflower, in sim days. 0.0+-->
     </kBaseLifespan>
     <kLifespanJitter value="0.5,1.5">
