@@ -4,7 +4,7 @@
     <kLifeFruitEatenLifetimeExtensionDays value="7">
       <!--Number of Sim days that a Sim's life is extended by for each Life Fruit they eat.-->
     </kLifeFruitEatenLifetimeExtensionDays>
-    <kEatingCarrotMod value="1.25">
+    <kEatingCarrotMod value="1.5">
       <!--modification to hunger when horse eating a carrot-->
     </kEatingCarrotMod>
     <kEatingCarrotScoringMod value="1.5">
