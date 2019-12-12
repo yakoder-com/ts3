@@ -7,10 +7,10 @@
     <kHourToStartWalkingPregnant value="40">
       <!--(24-60) Which hour of pregnancy the Sim begins to use pregnant locomotion-->
     </kHourToStartWalkingPregnant>
-    <kNumberOfPuddlesForWaterBreak value="0">
+    <kNumberOfPuddlesForWaterBreak value="1">
       <!--Number of puddles made by water break, set to 0 for no water break.-->
     </kNumberOfPuddlesForWaterBreak>
-    <kPregnantDaysOff value="4">
+    <kPregnantDaysOff value="7">
       <!--Number of days off for the pregnant mother. The Spouse gets this many days off minus 2 once baby is born.-->
     </kPregnantDaysOff>
     <kChanceOfBackache value="0.083">
@@ -28,23 +28,23 @@
     <kMaxBabyMultiplier value="30">
       <!--Maximum multiplier used when determing the chance of multiple babies.-->
     </kMaxBabyMultiplier>
-    <kKidMultiplierPerHour value="2">
+    <kKidMultiplierPerHour value="0">
       <!--Multiplier added to base per hour of kid entertainment (tv or stereo).-->
     </kKidMultiplierPerHour>
-    <kDoubleKidMultiplierPerHour value="5">
+    <kDoubleKidMultiplierPerHour value="0">
       <!--Multiplier added to base per hour of kid entertainment (tv and stereo together).-->
     </kDoubleKidMultiplierPerHour>
-    <kPregnancyBookBonusMom value="15">
+    <kPregnancyBookBonusMom value="0">
       <!--Additive Bonus to Pregnancy Average Mood Per Pregnancy Book read by Mom-->
     </kPregnancyBookBonusMom>
-    <kPregnancyBookBonusDad value="15">
+    <kPregnancyBookBonusDad value="0">
       <!--Additive Bonus to Pregnancy Average Mood Per Pregnancy Book read by Dad-->
     </kPregnancyBookBonusDad>
     <kContractionBroadcasterParams>
-      <PulseRadius value="10">
+      <PulseRadius value="65">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
-      <AffectBroadcasterRoomOnly value="True">
+      <AffectBroadcasterRoomOnly value="False">
         <!--Specifies whether or not the broadcaster effects object through walls that define an enclosed room boundary.-->
       </AffectBroadcasterRoomOnly>
       <PulseRepeatTime value="5">
@@ -90,10 +90,10 @@
         <!--The MountedReactionType played by mounted horses and riders, instead of doing the normal behavior. If both enter and exit are set to none, mounted sims will not play a mounted reaction. What reaction to play when: [Entering the broadcaster (or initial pulse), exiting the broadcaster].-->
       </MountedReactionTypes>
     </kContractionBroadcasterParams>
-    <kGenderOffsetPerFoodEaten value="0.0">
+    <kGenderOffsetPerFoodEaten value="0">
       <!--Offset provided to gender random per food eaten (watermelon & apple).-->
     </kGenderOffsetPerFoodEaten>
-    <kMaxGenderOffset value="0.0">
+    <kMaxGenderOffset value="0">
       <!--(0-.5) Maximum offset from .5 allowed to be achieved.-->
     </kMaxGenderOffset>
     <kHourToStartPregnantMotives value="8">
@@ -131,7 +131,7 @@
         <!--Determines whether the camera should swing down to look at the ground if currently in look at sky mode.  Valid range: [0, 360)-->
       </Swing>
     </kShowPregnancyCameraLerp>
-    <kLikingToGoHomeWithMother value="30">
+    <kLikingToGoHomeWithMother value="0">
       <!--Range:  -100 - 100  Description:  Liking threshold to go home with mother from the hospital.-->
     </kLikingToGoHomeWithMother>
     <kForeignSimDisplaysTNS value="12">
@@ -149,7 +149,7 @@
     <kBaseChanceOfBabyHavingRandomOccultMutation value="0">
       <!--(0-1) Chance of having a baby that receives a mutation of a randomly-assigned occult, regardless of genetics-->
     </kBaseChanceOfBabyHavingRandomOccultMutation>
-    <kFullMoonImprovedBabyChance value="0.0">
+    <kFullMoonImprovedBabyChance value="0">
       <!--Improved (additive) chance of pregnency during Full moon. Range 0 -1-->
     </kFullMoonImprovedBabyChance>
   </Current_Tuning>
