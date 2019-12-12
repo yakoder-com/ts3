@@ -42,6 +42,7 @@
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
+				<Change type="SkillSocialNetworking" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitComputerWiz" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitEvil" advertised="0" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 				<Change type="TraitMeanSpirited" advertised="0" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
