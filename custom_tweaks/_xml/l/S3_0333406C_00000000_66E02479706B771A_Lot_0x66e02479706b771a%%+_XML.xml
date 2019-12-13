@@ -70,7 +70,7 @@
     <kMailboxRouteMax value="1">
       <!--Max Distance to use when radial routing to the mailbox on a lot.-->
     </kMailboxRouteMax>
-    <kAutonomousVisitFrequencyInDays value="3">
+    <kAutonomousVisitFrequencyInDays value="1">
       <!--The min number of days between a sim making consecutive autonomous visits to lots-->
     </kAutonomousVisitFrequencyInDays>
     <kFrontRoomInitialRoomDesiredWeight value="1">
