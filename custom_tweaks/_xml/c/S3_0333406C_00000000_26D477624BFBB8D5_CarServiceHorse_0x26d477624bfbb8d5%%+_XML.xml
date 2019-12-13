@@ -2,10 +2,10 @@
 <base>
   <Current_Tuning>
     <kCarTuning>
-      <Speed value="18">
+      <Speed value="30">
         <!--Car speed in meters / second (second = Sim minute).-->
       </Speed>
-      <Acceleration value="5">
+      <Acceleration value="3">
         <!--Car acceleration in meters / second^2 (second = Sim minute).-->
       </Acceleration>
     </kCarTuning>
