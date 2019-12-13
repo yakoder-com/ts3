@@ -2457,6 +2457,18 @@
   <AvailableDrinks>FlamingFlotsam</AvailableDrinks>
  </Venues>
 <Venues>
+  <AvailableDrinks>BigMistake</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>DeathflowerDrops</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>UberCrazyDrink</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>KTHXBYE</AvailableDrinks>
+ </Venues>
+<Venues>
   <Venue>DogPark</Venue>
   <PriceMultiplier>0.9</PriceMultiplier>
   <PriceCapMultiplier>3</PriceCapMultiplier>
