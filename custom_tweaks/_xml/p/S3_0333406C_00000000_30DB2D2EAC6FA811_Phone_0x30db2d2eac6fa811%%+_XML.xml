@@ -34,7 +34,7 @@
     <kMinChatTimeMinutes value="30">
       <!--Minimum chat talk time in minutes-->
     </kMinChatTimeMinutes>
-    <kMaxChatTimeMinutes value="60">
+    <kMaxChatTimeMinutes value="90">
       <!--Maximum chat talk time in minutes-->
     </kMaxChatTimeMinutes>
     <kChatWanderDistanceMin value="0">
