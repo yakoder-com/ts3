@@ -474,7 +474,7 @@
     <sOutfitAgeRulesOuterwear value="HumanToddler, HumanChild, HumanTeen, HumanYoungAdult, HumanAdult, HumanElder">
       <!--Valid Ages that can wear Outerwear-->
     </sOutfitAgeRulesOuterwear>
-    <kTemperatureToSwitchToOuterwear value="32">
+    <kTemperatureToSwitchToOuterwear value="45">
       <!--Range:  0+  Description:  The world weather temperature below which sims will switch to outerwear-->
     </kTemperatureToSwitchToOuterwear>
     <kTemperatureToSwitchOutOfOuterwear value="50">
