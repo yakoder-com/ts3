@@ -480,7 +480,7 @@
     <kTemperatureToSwitchOutOfOuterwear value="50">
       <!--Range:  0+  Description:  The world weather temperature above which sims will out of outerwear if they are wearing outerwear.-->
     </kTemperatureToSwitchOutOfOuterwear>
-    <kChanceInsaneSimIgnoreOuterwearRules value="80">
+    <kChanceInsaneSimIgnoreOuterwearRules value="50">
       <!--Range:  0+  Description:  Change 0-100 that when choosing to switch to outerwear, insane sims will ignore the change rules.-->
     </kChanceInsaneSimIgnoreOuterwearRules>
     <kChanceRandomGenOuterwearHasWinterGloves value="65">
