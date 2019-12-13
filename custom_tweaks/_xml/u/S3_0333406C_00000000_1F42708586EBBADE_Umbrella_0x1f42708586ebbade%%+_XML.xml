@@ -18,7 +18,7 @@
     <kTraitsLessLikelyToUseUmbrella value="AbsentMinded, Daredevil, Insane">
       <!--Range: list of traits that have a chance of not using the object-->
     </kTraitsLessLikelyToUseUmbrella>
-    <kChanceSpecialTraitsNotUseUmbrella value="80">
+    <kChanceSpecialTraitsNotUseUmbrella value="50">
       <!--Range: 1-100. Chance that someone with a special trait (listed in tuning above) will NOT use an umbrella.-->
     </kChanceSpecialTraitsNotUseUmbrella>
     <kTemperatureThresholdToUseUmbrella value="80">
