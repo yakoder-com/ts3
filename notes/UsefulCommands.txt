@@ -1,0 +1,29 @@
+1) Ran in ./GameplayData, with exported (via s3se) files into ~/todo/tmp, this will find the matching files
+and copy into ./custom_tweaks unless the file already exists there.
+
+find ~/todo/tmp -type f -exec basename {} \; | cut -c -37 | xargs -n 1 -I FIND find . -name \*FIND\* -print0 | xargs -0 -n 1 -I COPY ../bin/cpchmodprint -n "COPY" "../custom_tweaks/COPY"
+
+
+2) Ran in .GameplayData, with a name fragment, this will find the matching files and copy into ./custom_tweaks unless the file
+already exists there.
+
+find . -iname \*FRAGMENT\* -and -not -name \*.dreamtree -exec ../bin/cpchmodprint -n "{}" "../custom_tweaks/{}" \;
+
+Example:
+find . -iname \*Easel\* -and -not -name \*.dreamtree -exec ../bin/cpchmodprint -n "{}" "../custom_tweaks/{}" \;
+
+
+3) Ran in .GameplayData, with a search term, this will find the matching files and copy into ./custom_tweaks unless the file
+already exists there.
+
+grep -rail 'SEARCHTERM' * | xargs -n 1 -I {} ../bin/cpchmodprint -n "{}" "../custom_tweaks/{}"
+
+Example:
+grep -rail 'kSoundGainLowLevel' * | xargs -n 1 -I {} ../bin/cpchmodprint -n "{}" "../custom_tweaks/{}"
+
+
+4) Ran in ./custom_tweaks, with recently added files (from above), this will (most of the time) open all the
+newly added files in vi for editing.
+
+vi $(git status | grep 'S3_' | awk '{print $1}' | xargs)
+
