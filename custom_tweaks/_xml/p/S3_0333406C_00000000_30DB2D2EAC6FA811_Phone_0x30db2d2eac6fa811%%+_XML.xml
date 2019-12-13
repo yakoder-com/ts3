@@ -138,7 +138,7 @@
     <kChanceMirrored value="0.5">
       <!--Range: Positive floats below 1.0f.  Description:  Percentage chance a sim will use the mirrored version of the phone interaction. (Sims carrying toddlers always use the mirrored version.)-->
     </kChanceMirrored>
-    <kMinuesToDisableWorkaholicInteraction value="120">
+    <kMinuesToDisableWorkaholicInteraction value="180">
       <!--After these many minutes after the phone call, the sim will lose the special workaholic trait interaction on the computer. Positive float. Initial GPE default: 120f-->
     </kMinuesToDisableWorkaholicInteraction>
     <kLookAtInterestingnessForRingingPhone value="70">
