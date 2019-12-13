@@ -83,7 +83,7 @@
       <!--Range: Positive floats below 1.0f.  Description:  Percentage chance an Excitable Sim will get the Excited buff after a 'Chat' on the phone.-->
     </kExcitableSimChanceForExcitedAfterChat>
     <kAnswerBroadcasterParams>
-      <PulseRadius value="10">
+      <PulseRadius value="64">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
       <AffectBroadcasterRoomOnly value="False">
