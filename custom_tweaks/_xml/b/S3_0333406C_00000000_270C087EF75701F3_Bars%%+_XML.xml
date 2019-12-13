@@ -741,7 +741,7 @@
   <PriceMultiplier>0</PriceMultiplier>
   <ChanceOfOrderingDataDrink>0.15</ChanceOfOrderingDataDrink>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Neutral</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
  </Venues>
 <Venues>
   <Venue>DiveBarSports</Venue>
