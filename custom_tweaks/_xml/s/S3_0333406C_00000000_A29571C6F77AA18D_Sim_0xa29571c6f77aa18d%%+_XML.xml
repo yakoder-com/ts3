@@ -393,7 +393,7 @@
     <sOutfitAgeRulesSkinnyDipTowel value="HumanTeen,HumanYoungAdult, HumanAdult, HumanElder">
       <!--Valid Ages that can wear Skinny Dipping Towel-->
     </sOutfitAgeRulesSkinnyDipTowel>
-    <kMinCelebrityLevelForLimo value="4">
+    <kMinCelebrityLevelForLimo value="7">
       <!--The min celebrity level that will always give the sim a limo when need a car.-->
     </kMinCelebrityLevelForLimo>
     <kGoToVirtualHomeAfterSocialInteractionScore value="15">
