@@ -58,7 +58,7 @@
     <kTimeToWaitForInstructionsWhenInNegativeMood value="0.4">
       <!--Unit: Sim hours. Amount of time sim will hang around the world lot without getting user directed interactions before going home when in a negative mood.-->
     </kTimeToWaitForInstructionsWhenInNegativeMood>
-    <kMinTimeSinceLastVisitForActiveLot value="24">
+    <kMinTimeSinceLastVisitForActiveLot value="12">
       <!--Min number of hours between autonomous visits to the player's lot-->
     </kMinTimeSinceLastVisitForActiveLot>
     <kMinTimeSinceLastVisitForNPCLot value="3">
