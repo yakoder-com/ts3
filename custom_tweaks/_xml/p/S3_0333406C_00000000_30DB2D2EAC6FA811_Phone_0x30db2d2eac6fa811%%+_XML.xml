@@ -194,13 +194,13 @@
     <kForeignVisitorArrivalTime value="9">
       <!--Time of day at which invited foreign visitors arrive.-->
     </kForeignVisitorArrivalTime>
-    <kChanceToSuggestBachelorPartyWhenChatting value="1.0">
+    <kChanceToSuggestBachelorPartyWhenChatting value="0.0">
       <!--Range:  0 - 1  Description:  If placing a random chat call, the chance that it's going to try to suggest having a bachelor party-->
     </kChanceToSuggestBachelorPartyWhenChatting>
-    <kChanceToAskToPromWhenChatting value="0.75">
+    <kChanceToAskToPromWhenChatting value="0.2">
       <!--Range:  0 - 1  Description:  If placing a random chat call, the chance that it's going to try to invite a Sim to Prom-->
     </kChanceToAskToPromWhenChatting>
-    <kChanceForBoardingSchoolCallWhenChatting value="0.8">
+    <kChanceForBoardingSchoolCallWhenChatting value="0.0">
       <!--Range:  0 - 1  Description:  If placing a random chat call, the chance that it's going to try to be a boarding school call.-->
     </kChanceForBoardingSchoolCallWhenChatting>
     <kChanceAtMinForInviteHousehold value="25">
