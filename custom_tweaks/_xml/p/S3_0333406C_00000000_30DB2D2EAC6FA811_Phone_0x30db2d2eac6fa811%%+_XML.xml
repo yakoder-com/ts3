@@ -188,7 +188,7 @@
     <kLTRThresholdForInviteOverForeignVisitorMin value="40">
       <!--LTR value at which invite over foreign visitor is possible-->
     </kLTRThresholdForInviteOverForeignVisitorMin>
-    <kMaxForeignVisitors value="8">
+    <kMaxForeignVisitors value="12">
       <!--Max number of foreign visitors-->
     </kMaxForeignVisitors>
     <kForeignVisitorArrivalTime value="9">
