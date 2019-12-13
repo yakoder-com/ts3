@@ -76,7 +76,7 @@
     <kMinimumCallWindow value="8">
       <!--Minimum window of time to schedule a call interval-->
     </kMinimumCallWindow>
-    <kRandomCallTimeout value="25">
+    <kRandomCallTimeout value="15">
       <!--Timeout of random calls in minutes-->
     </kRandomCallTimeout>
     <kExcitableSimChanceForExcitedAfterChat value="0.2">
