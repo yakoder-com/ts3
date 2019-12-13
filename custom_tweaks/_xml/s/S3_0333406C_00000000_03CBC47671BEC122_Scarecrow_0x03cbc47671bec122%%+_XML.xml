@@ -13,19 +13,19 @@
     <kWatchRoutePreferredDistance value="3.75">
       <!--Range:  1.0 - Inf  Description: Preferred distance a sim will route to the scarecrow when they're watching.-->
     </kWatchRoutePreferredDistance>
-    <kMinRandomAnim value="30">
+    <kMinRandomAnim value="6">
       <!--Range:  1.0 - Inf  Description: Min time between random scarecrow animations (scare or run)-->
     </kMinRandomAnim>
-    <kMaxRandomAnim value="60">
+    <kMaxRandomAnim value="12">
       <!--Range:  1.0 - Inf  Description: Max time between random scarecrow animations (scare or run)-->
     </kMaxRandomAnim>
     <kMaxDistanceToStartle value="12">
       <!--Range:  1.0 - Inf  Description: Max distance to scare animals when doing the scare animation.-->
     </kMaxDistanceToStartle>
-    <kBirdPanicTime value="10">
+    <kBirdPanicTime value="2">
       <!--Range:  1.0 - Inf  Description: Length of time in minutes for birds to be in their panic state following a scarecrow animation.-->
     </kBirdPanicTime>
-    <kMaxTimeToWatchScarecrow value="120">
+    <kMaxTimeToWatchScarecrow value="24">
       <!--Range:  1.0 - Inf  Description: Max length of time in sim minutes that a sim will spend watching the scarecrow.-->
     </kMaxTimeToWatchScarecrow>
   </Current_Tuning>
