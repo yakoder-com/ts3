@@ -492,7 +492,7 @@
     <kNumberOfPlanAttemptsForStuckSim value="5">
       <!--The number of attempts to try and plan a route for testing if a Sim is Stuck-->
     </kNumberOfPlanAttemptsForStuckSim>
-    <kFutureSimHoverboardChance value="30">
+    <kFutureSimHoverboardChance value="40">
       <!--Percent chance a Future sim will have a Hoverboard(0:100)-->
     </kFutureSimHoverboardChance>
     <kFutureSimJetpackChance value="30">
@@ -507,13 +507,13 @@
     <kChanceToTremble value="1.0">
       <!--Chances of a Servobot trembling from a human.-->
     </kChanceToTremble>
-    <kFutureSimHolodiscChance value="100">
+    <kFutureSimHolodiscChance value="50">
       <!--Percent chance a Future sim will have a Holo Disc.(0:100)-->
     </kFutureSimHolodiscChance>
-    <kFutureSimHolocomputerChance value="70">
+    <kFutureSimHolocomputerChance value="75">
       <!--Percent chance a Future sim will have a Holo Computer.(0:100)-->
     </kFutureSimHolocomputerChance>
-    <kFutureSimLaserharpChance value="60">
+    <kFutureSimLaserharpChance value="30">
       <!--Percent chance a Future sim will have a Laser Harp.(0:100)-->
     </kFutureSimLaserharpChance>
   </Current_Tuning>
