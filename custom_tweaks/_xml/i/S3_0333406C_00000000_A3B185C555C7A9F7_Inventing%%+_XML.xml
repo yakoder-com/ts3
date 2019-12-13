@@ -6,8 +6,8 @@
   <ScrapCost>1</ScrapCost>
   <ScrapCostIfMaster>1</ScrapCostIfMaster>
   <SkillLevel>0</SkillLevel>
-  <MinTime>30</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>20</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName></MiniModelName>
   <FinalModelSlotName>ContainmentSlot_0</FinalModelSlotName>
   <EPVersion>EP2</EPVersion>
@@ -20,8 +20,8 @@
   <ScrapCost>3</ScrapCost>
   <ScrapCostIfMaster>2</ScrapCostIfMaster>
   <SkillLevel>2</SkillLevel>
-  <MinTime>17</MinTime>
-  <MaxTime>55</MaxTime>
+  <MinTime>11</MinTime>
+  <MaxTime>37</MaxTime>
   <MiniModelName>widgetMoonGlobe</MiniModelName>
  </Inventions>
 <Inventions>
@@ -30,8 +30,8 @@
   <ScrapCost>2</ScrapCost>
   <ScrapCostIfMaster>1</ScrapCostIfMaster>
   <SkillLevel>1</SkillLevel>
-  <MinTime>15</MinTime>
-  <MaxTime>50</MaxTime>
+  <MinTime>10</MinTime>
+  <MaxTime>33</MaxTime>
   <MiniModelName>widgetNewtonsCradle</MiniModelName>
  </Inventions>
 <Inventions>
@@ -40,8 +40,8 @@
   <ScrapCost>2</ScrapCost>
   <ScrapCostIfMaster>1</ScrapCostIfMaster>
   <SkillLevel>1</SkillLevel>
-  <MinTime>15</MinTime>
-  <MaxTime>45</MaxTime>
+  <MinTime>10</MinTime>
+  <MaxTime>30</MaxTime>
   <MiniModelName>widgetDrinkingLlama</MiniModelName>
  </Inventions>
 <Inventions>
@@ -50,8 +50,8 @@
   <ScrapCost>3</ScrapCost>
   <ScrapCostIfMaster>2</ScrapCostIfMaster>
   <SkillLevel>2</SkillLevel>
-  <MinTime>17</MinTime>
-  <MaxTime>55</MaxTime>
+  <MinTime>12</MinTime>
+  <MaxTime>37</MaxTime>
   <MiniModelName>widgetRobot</MiniModelName>
   <EPVersion>Store</EPVersion>
   <ProductRegistrationRequired>EP2</ProductRegistrationRequired>
@@ -62,8 +62,8 @@
   <ScrapCost>4</ScrapCost>
   <ScrapCostIfMaster>3</ScrapCostIfMaster>
   <SkillLevel>3</SkillLevel>
-  <MinTime>18</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>12</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName>widgetWindUpToy</MiniModelName>
  </Inventions>
 <Inventions>
@@ -72,8 +72,8 @@
   <ScrapCost>5</ScrapCost>
   <ScrapCostIfMaster>3</ScrapCostIfMaster>
   <SkillLevel>5</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>75</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>50</MaxTime>
   <MiniModelName>widgetFishTank</MiniModelName>
   <EPVersion>Store</EPVersion>
   <ProductRegistrationRequired>EP2</ProductRegistrationRequired>
@@ -84,8 +84,8 @@
   <ScrapCost>6</ScrapCost>
   <ScrapCostIfMaster>4</ScrapCostIfMaster>
   <SkillLevel>5</SkillLevel>
-  <MinTime>20</MinTime>
-  <MaxTime>70</MaxTime>
+  <MinTime>13</MinTime>
+  <MaxTime>47</MaxTime>
   <MiniModelName>widgetStaticCoil</MiniModelName>
  </Inventions>
 <Inventions>
@@ -94,8 +94,8 @@
   <ScrapCost>7</ScrapCost>
   <ScrapCostIfMaster>5</ScrapCostIfMaster>
   <SkillLevel>6</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>80</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>54</MaxTime>
   <MiniModelName>widgetLevitation</MiniModelName>
  </Inventions>
 <Inventions>
@@ -104,8 +104,8 @@
   <ScrapCost>8</ScrapCost>
   <ScrapCostIfMaster>6</ScrapCostIfMaster>
   <SkillLevel>7</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>80</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>54</MaxTime>
   <MiniModelName>widgetCarousel</MiniModelName>
  </Inventions>
 <Inventions>
@@ -114,8 +114,8 @@
   <ScrapCost>6</ScrapCost>
   <ScrapCostIfMaster>3</ScrapCostIfMaster>
   <SkillLevel>6</SkillLevel>
-  <MinTime>35</MinTime>
-  <MaxTime>90</MaxTime>
+  <MinTime>23</MinTime>
+  <MaxTime>60</MaxTime>
   <MiniModelName>toyCraftedRobot</MiniModelName>
  </Inventions>
 <Inventions>
@@ -124,8 +124,8 @@
   <ScrapCost>3</ScrapCost>
   <ScrapCostIfMaster>1</ScrapCostIfMaster>
   <SkillLevel>2</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName>toyCraftedDog</MiniModelName>
  </Inventions>
 <Inventions>
@@ -134,8 +134,8 @@
   <ScrapCost>4</ScrapCost>
   <ScrapCostIfMaster>2</ScrapCostIfMaster>
   <SkillLevel>3</SkillLevel>
-  <MinTime>30</MinTime>
-  <MaxTime>70</MaxTime>
+  <MinTime>20</MinTime>
+  <MaxTime>47</MaxTime>
   <MiniModelName>toyCraftedCow</MiniModelName>
  </Inventions>
 <Inventions>
@@ -144,8 +144,8 @@
   <ScrapCost>5</ScrapCost>
   <ScrapCostIfMaster>3</ScrapCostIfMaster>
   <SkillLevel>4</SkillLevel>
-  <MinTime>35</MinTime>
-  <MaxTime>75</MaxTime>
+  <MinTime>23</MinTime>
+  <MaxTime>50</MaxTime>
   <MiniModelName>toyCraftedWhale</MiniModelName>
  </Inventions>
 <Inventions>
@@ -154,8 +154,8 @@
   <ScrapCost>5</ScrapCost>
   <ScrapCostIfMaster>3</ScrapCostIfMaster>
   <SkillLevel>2</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName>ballerinaFigurine</MiniModelName>
  </Inventions>
 <Inventions>
@@ -164,8 +164,8 @@
   <ScrapCost>5</ScrapCost>
   <ScrapCostIfMaster>3</ScrapCostIfMaster>
   <SkillLevel>2</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName>socialBunnyFigurine</MiniModelName>
  </Inventions>
 <Inventions>
@@ -174,8 +174,8 @@
   <ScrapCost>5</ScrapCost>
   <ScrapCostIfMaster>3</ScrapCostIfMaster>
   <SkillLevel>2</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName>unicornFigurine</MiniModelName>
  </Inventions>
 <Inventions>
@@ -184,8 +184,8 @@
   <ScrapCost>9</ScrapCost>
   <ScrapCostIfMaster>7</ScrapCostIfMaster>
   <SkillLevel>3</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName>gnomeFigurine</MiniModelName>
  </Inventions>
 <Inventions>
@@ -194,8 +194,8 @@
   <ScrapCost>9</ScrapCost>
   <ScrapCostIfMaster>7</ScrapCostIfMaster>
   <SkillLevel>3</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName>mummyFigurine</MiniModelName>
  </Inventions>
 <Inventions>
@@ -204,8 +204,8 @@
   <ScrapCost>9</ScrapCost>
   <ScrapCostIfMaster>7</ScrapCostIfMaster>
   <SkillLevel>3</SkillLevel>
-  <MinTime>25</MinTime>
-  <MaxTime>60</MaxTime>
+  <MinTime>17</MinTime>
+  <MaxTime>40</MaxTime>
   <MiniModelName>ninjaFigurine</MiniModelName>
  </Inventions>
 <Inventions>
@@ -214,8 +214,8 @@
   <ScrapCost>10</ScrapCost>
   <ScrapCostIfMaster>7</ScrapCostIfMaster>
   <SkillLevel>3</SkillLevel>
-  <MinTime>100</MinTime>
-  <MaxTime>240</MaxTime>
+  <MinTime>67</MinTime>
+  <MaxTime>161</MaxTime>
   <MiniModelName>hygienator</MiniModelName>
  </Inventions>
 <Inventions>
@@ -224,8 +224,8 @@
   <ScrapCost>50</ScrapCost>
   <ScrapCostIfMaster>40</ScrapCostIfMaster>
   <SkillLevel>7</SkillLevel>
-  <MinTime>420</MinTime>
-  <MaxTime>650</MaxTime>
+  <MinTime>281</MinTime>
+  <MaxTime>435</MaxTime>
   <MiniModelName>sculptureMiner</MiniModelName>
   <FinalModelSlotName>ContainmentSlot_2</FinalModelSlotName>
  </Inventions>
@@ -235,8 +235,8 @@
   <ScrapCost>75</ScrapCost>
   <ScrapCostIfMaster>60</ScrapCostIfMaster>
   <SkillLevel>9</SkillLevel>
-  <MinTime>620</MinTime>
-  <MaxTime>960</MaxTime>
+  <MinTime>415</MinTime>
+  <MaxTime>643</MaxTime>
   <MiniModelName>sculptureTimeMachine</MiniModelName>
   <FinalModelSlotName>ContainmentSlot_2</FinalModelSlotName>
   <PutInFamilyInventory>True</PutInFamilyInventory>
@@ -247,8 +247,8 @@
   <ScrapCost>25</ScrapCost>
   <ScrapCostIfMaster>20</ScrapCostIfMaster>
   <SkillLevel>4</SkillLevel>
-  <MinTime>220</MinTime>
-  <MaxTime>420</MaxTime>
+  <MinTime>147</MinTime>
+  <MaxTime>281</MaxTime>
   <MiniModelName>harvester</MiniModelName>
   <FinalModelSlotName>ContainmentSlot_2</FinalModelSlotName>
  </Inventions>
@@ -258,8 +258,8 @@
   <ScrapCost>15</ScrapCost>
   <ScrapCostIfMaster>10</ScrapCostIfMaster>
   <SkillLevel>5</SkillLevel>
-  <MinTime>100</MinTime>
-  <MaxTime>240</MaxTime>
+  <MinTime>67</MinTime>
+  <MaxTime>161</MaxTime>
   <MiniModelName>CameraExpensive</MiniModelName>
   <EPVersion>EP1</EPVersion>
  </Inventions>
@@ -269,8 +269,8 @@
   <ScrapCost>30</ScrapCost>
   <ScrapCostIfMaster>25</ScrapCostIfMaster>
   <SkillLevel>6</SkillLevel>
-  <MinTime>220</MinTime>
-  <MaxTime>420</MaxTime>
+  <MinTime>147</MinTime>
+  <MaxTime>281</MaxTime>
   <MiniModelName>Scooter</MiniModelName>
   <EPVersion>EP1</EPVersion>
  </Inventions>
@@ -280,8 +280,8 @@
   <ScrapCost>30</ScrapCost>
   <ScrapCostIfMaster>25</ScrapCostIfMaster>
   <SkillLevel>6</SkillLevel>
-  <MinTime>220</MinTime>
-  <MaxTime>420</MaxTime>
+  <MinTime>147</MinTime>
+  <MaxTime>281</MaxTime>
   <MiniModelName>RefrigeratorDrawerReward</MiniModelName>
   <FinalModelSlotName>ContainmentSlot_2</FinalModelSlotName>
   <EPVersion>BaseGame</EPVersion>
@@ -293,8 +293,8 @@
   <ScrapCost>30</ScrapCost>
   <ScrapCostIfMaster>25</ScrapCostIfMaster>
   <SkillLevel>6</SkillLevel>
-  <MinTime>220</MinTime>
-  <MaxTime>420</MaxTime>
+  <MinTime>147</MinTime>
+  <MaxTime>281</MaxTime>
   <MiniModelName>Teleporter</MiniModelName>
   <FinalModelSlotName>ContainmentSlot_2</FinalModelSlotName>
   <EPVersion>BaseGame</EPVersion>
@@ -306,8 +306,8 @@
   <ScrapCost>15</ScrapCost>
   <ScrapCostIfMaster>10</ScrapCostIfMaster>
   <SkillLevel>1</SkillLevel>
-  <MinTime>100</MinTime>
-  <MaxTime>240</MaxTime>
+  <MinTime>67</MinTime>
+  <MaxTime>161</MaxTime>
   <MiniModelName>TelescopeCheap</MiniModelName>
   <FinalModelSlotName>ContainmentSlot_2</FinalModelSlotName>
   <EPVersion>BaseGame</EPVersion>
@@ -319,8 +319,8 @@
   <ScrapCost>15</ScrapCost>
   <ScrapCostIfMaster>10</ScrapCostIfMaster>
   <SkillLevel>4</SkillLevel>
-  <MinTime>120</MinTime>
-  <MaxTime>240</MaxTime>
+  <MinTime>80</MinTime>
+  <MaxTime>161</MaxTime>
   <MiniModelName>CollectionHelper</MiniModelName>
   <EPVersion>BaseGame</EPVersion>
  </Inventions>
@@ -330,8 +330,8 @@
   <ScrapCost>30</ScrapCost>
   <ScrapCostIfMaster>25</ScrapCostIfMaster>
   <SkillLevel>6</SkillLevel>
-  <MinTime>220</MinTime>
-  <MaxTime>420</MaxTime>
+  <MinTime>147</MinTime>
+  <MaxTime>281</MaxTime>
   <MiniModelName>BodySculptor</MiniModelName>
   <FinalModelSlotName>ContainmentSlot_2</FinalModelSlotName>
   <EPVersion>BaseGame</EPVersion>
@@ -343,8 +343,8 @@
   <ScrapCost>30</ScrapCost>
   <ScrapCostIfMaster>25</ScrapCostIfMaster>
   <SkillLevel>7</SkillLevel>
-  <MinTime>220</MinTime>
-  <MaxTime>420</MaxTime>
+  <MinTime>147</MinTime>
+  <MaxTime>281</MaxTime>
   <MiniModelName>FoodReplicator</MiniModelName>
   <FinalModelSlotName>ContainmentSlot_2</FinalModelSlotName>
   <EPVersion>BaseGame</EPVersion>
@@ -356,8 +356,8 @@
   <ScrapCost>15</ScrapCost>
   <ScrapCostIfMaster>10</ScrapCostIfMaster>
   <SkillLevel>7</SkillLevel>
-  <MinTime>120</MinTime>
-  <MaxTime>240</MaxTime>
+  <MinTime>80</MinTime>
+  <MaxTime>161</MaxTime>
   <MiniModelName>MoodletManager</MiniModelName>
   <EPVersion>BaseGame</EPVersion>
  </Inventions>
@@ -367,8 +367,8 @@
   <ScrapCost>50</ScrapCost>
   <ScrapCostIfMaster>40</ScrapCostIfMaster>
   <SkillLevel>10</SkillLevel>
-  <MinTime>220</MinTime>
-  <MaxTime>420</MaxTime>
+  <MinTime>147</MinTime>
+  <MaxTime>281</MaxTime>
   <MiniModelName>MotorcycleChopper</MiniModelName>
  </Inventions>
 <Inventions>
@@ -377,8 +377,8 @@
   <ScrapCost>20</ScrapCost>
   <ScrapCostIfMaster>15</ScrapCostIfMaster>
   <SkillLevel>5</SkillLevel>
-  <MinTime>35</MinTime>
-  <MaxTime>90</MaxTime>
+  <MinTime>23</MinTime>
+  <MaxTime>60</MaxTime>
   <MiniModelName>magicGnomeLaundry</MiniModelName>
  </Inventions>
 <Detonate>
