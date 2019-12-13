@@ -31,10 +31,10 @@
       <!--Range: positive floats. Holding an umbrella outside makes sim temperature not rise above this cap.-->
     </kTemperatureCapWhenUsingUmbrella>
     <kRepairableTuning>
-      <HoursUnbreakable value="72">
+      <HoursUnbreakable value="168">
         <!--How long until the object is allowed to check for breakage after being fixed or purchased.-->
       </HoursUnbreakable>
-      <StartPercentChanceBreak value="1">
+      <StartPercentChanceBreak value="0">
         <!--Starting chance of object breaking when its used.-->
       </StartPercentChanceBreak>
       <PercentChanceBreakIncrease value="1">
@@ -46,23 +46,23 @@
       <RepairComplexity value="1">
         <!--The level at which repair time reaches its minimum-->
       </RepairComplexity>
-      <MinRepairTime value="10">
+      <MinRepairTime value="5">
         <!--Minimum amount of time in sim minutes that it takes to repair this object.  This time when skill level at or above RepairComplexity-->
       </MinRepairTime>
-      <MaxRepairTime value="20">
+      <MaxRepairTime value="10">
         <!--Maximum amount of time in sim minutes that it takes to repair this object.  Occurs at skill level 0.-->
       </MaxRepairTime>
       <RepairSkillGain value="5">
         <!--Rate of skill gain while repairing object in points per sim minute-->
       </RepairSkillGain>
       <UpgradeUnbreakable>
-        <UpgradeTime value="15">
+        <UpgradeTime value="10">
           <!--The amount of time it takes to do the upgrade in minutes-->
         </UpgradeTime>
         <SkillGainRate value="5">
           <!--Skill points gained when for one upgrade.  We figure out your progress from 0-1 and multiply by this to give you skill points.-->
         </SkillGainRate>
-        <BadFailureChance value="20">
+        <BadFailureChance value="0">
           <!--Range: 0 to 100 float, The chance IF a regular failure occurs, that it is a bad failure-->
         </BadFailureChance>
         <ShouldShockInPuddle value="False">
