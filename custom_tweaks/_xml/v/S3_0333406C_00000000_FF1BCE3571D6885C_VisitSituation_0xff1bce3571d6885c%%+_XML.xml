@@ -11,13 +11,13 @@
     <kInappropriateIncrease value="0">
       <!--How much the Inappropriateness STC changes when the guest acts strangely-->
     </kInappropriateIncrease>
-    <kMinVisitingTime value="3">
+    <kMinVisitingTime value="4">
       <!--Range: Sim hours. Minimum visiting time before the guest might decide to leave.-->
     </kMinVisitingTime>
     <kAskToStayOverTimeStart value="20">
       <!--Range:  Sim time.  Description:  Starting time of day at which a Sim can 'Ask to Stay Over'.  This should not be tuned to be earlier than kStayOverClearTime-->
     </kAskToStayOverTimeStart>
-    <kAskToStayOverTimeEnd value="4">
+    <kAskToStayOverTimeEnd value="23">
       <!--Range:  Sim time.  Description:  Ending time of day at which a Sim can 'Ask to Stay Over'-->
     </kAskToStayOverTimeEnd>
     <kAskToStayOverDaysPermission value="1">
@@ -26,7 +26,7 @@
     <kStayOverClearTime value="6">
       <!--Allowed to Stay Sims, will get their allowedToStay Status cleared at this time. They will then drop into normal visit conditions. This time must be after kEndUnacceptableVisitTime or the Sim will Leave right away.-->
     </kStayOverClearTime>
-    <kStartUnacceptableVisitTime value="3">
+    <kStartUnacceptableVisitTime value="4">
       <!--If not invited to stay, this is the start time a visitor will not stay over anymore. kStartUnacceptableVisitTime & kEndUnacceptableVisitTime-->
     </kStartUnacceptableVisitTime>
     <kEndUnacceptableVisitTime value="5">
