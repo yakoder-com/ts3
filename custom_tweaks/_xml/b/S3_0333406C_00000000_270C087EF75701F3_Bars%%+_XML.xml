@@ -709,11 +709,11 @@
   <AvailableFood></AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <DrinkQualityMinimum>Neutral</DrinkQualityMinimum>
-  <DrinkQualityMaximum>Neutral</DrinkQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Neutral</QualityMinimum>
-  <QualityMaximum>Neutral</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>0</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>6</SkillAnimationMinimum>
@@ -728,7 +728,7 @@
   <PriceCapMultiplier>4</PriceCapMultiplier>
   <ChanceOfOrderingDataDrink>0</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.05</ChanceOfOrderingMoodDrink>
-  <DrinkQualityMaximum>Nice</DrinkQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <HourlyPay>7</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>3</SkillAnimationMinimum>
@@ -758,10 +758,10 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Nice</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>13</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>3</SkillAnimationMinimum>
@@ -807,9 +807,9 @@
   <AvailableFood>Spaghetti</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>11</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -849,9 +849,9 @@
   <AvailableFood>Nachos</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Neutral</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>10</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -887,10 +887,10 @@
   <AvailableDrinks>FengShuiFountain</AvailableDrinks>
   <AvailableFood>AutumnSalad</AvailableFood>
   <FoodQualityMinimum>VeryNice</FoodQualityMinimum>
-  <FoodQualityMaximum>Outstanding</FoodQualityMaximum>
-  <DrinkQualityMaximum>Great</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>70</HourlyPay>
   <SkillMinimum>8</SkillMinimum>
   <SkillAnimationMinimum>6</SkillAnimationMinimum>
@@ -930,10 +930,10 @@
   <AvailableDrinks>LiquidCourage</AvailableDrinks>
   <AvailableFood>AutumnSalad</AvailableFood>
   <FoodQualityMinimum>VeryNice</FoodQualityMinimum>
-  <FoodQualityMaximum>Outstanding</FoodQualityMaximum>
-  <DrinkQualityMaximum>Excellent</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>85</HourlyPay>
   <SkillMinimum>8</SkillMinimum>
   <SkillAnimationMinimum>7</SkillAnimationMinimum>
@@ -987,8 +987,8 @@
   <AvailableDrinks>AristocraticGimlet</AvailableDrinks>
   <AvailableFood>CheesePlate</AvailableFood>
   <FoodQualityMinimum>VeryNice</FoodQualityMinimum>
-  <FoodQualityMaximum>Outstanding</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Great</QualityMinimum>
   <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>100</HourlyPay>
@@ -1031,10 +1031,10 @@
   <AvailableFood>HotWings</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>VeryNice</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Neutral</QualityMinimum>
-  <QualityMaximum>Great</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>30</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1071,10 +1071,10 @@
   <AvailableDrinks>FlamingFlotsam</AvailableDrinks>
   <AvailableFood>RollSushi</AvailableFood>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Great</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Neutral</QualityMinimum>
-  <QualityMaximum>Great</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>50</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>5</SkillAnimationMinimum>
@@ -1114,10 +1114,10 @@
   <AvailableFood>Nachos</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Nice</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Neutral</QualityMinimum>
-  <QualityMaximum>Great</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>40</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1151,9 +1151,9 @@
   <AvailableDrinks>BuckwheatShooter</AvailableDrinks>
   <AvailableFood>AutumnSalad</AvailableFood>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>5</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1181,10 +1181,10 @@
   <AvailableFood>CheesePlate</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>VeryNice</FoodQualityMinimum>
-  <FoodQualityMaximum>Outstanding</FoodQualityMaximum>
-  <DrinkQualityMaximum>Excellent</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>85</HourlyPay>
   <SkillMinimum>8</SkillMinimum>
   <SkillAnimationMinimum>7</SkillAnimationMinimum>
@@ -1249,9 +1249,9 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>5</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1314,10 +1314,10 @@
   <AvailableFood>Nachos</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Nice</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Neutral</QualityMinimum>
-  <QualityMaximum>Great</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>40</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1385,9 +1385,9 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>11</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -1447,9 +1447,9 @@
   <AvailableFood>Nachos</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>5</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1503,10 +1503,10 @@
   <AvailableFood>Cheesesteak</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>25</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1570,9 +1570,9 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>9</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -1631,9 +1631,9 @@
   <AvailableFood>HotDog</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>12</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -1691,10 +1691,10 @@
   <AvailableFood>FishAndChips</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Great</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>30</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1750,10 +1750,10 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Nice</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>12</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1811,10 +1811,10 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>VeryNice</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>40</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -1884,10 +1884,10 @@
   <AvailableFood>RollSushi</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Excellent</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>5</HourlyPay>
   <SkillMinimum>3</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -1958,9 +1958,9 @@
   <AvailableFood>FishAndChips</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>5</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -2021,10 +2021,10 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>VeryNice</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>40</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -2096,9 +2096,9 @@
   <AvailableFood>HotDog</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>11</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2160,9 +2160,9 @@
   <AvailableFood>HotWings</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>9</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2205,9 +2205,9 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>85</HourlyPay>
   <SkillMinimum>8</SkillMinimum>
   <SkillAnimationMinimum>6</SkillAnimationMinimum>
@@ -2275,9 +2275,9 @@
   <AvailableFood>HotDog</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>VeryNice</FoodQualityMinimum>
-  <FoodQualityMaximum>Outstanding</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>15</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2336,9 +2336,9 @@
   <AvailableFood>HotDog</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>5</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2404,9 +2404,9 @@
   <AvailableFood>Spaghetti</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>40</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -2478,9 +2478,9 @@
   <AvailableFood>Hamburger</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>15</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2533,9 +2533,9 @@
   <AvailableFood>HotWings</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>15</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2600,10 +2600,10 @@
   <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>10</HourlyPay>
   <SkillMinimum>1</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2662,10 +2662,10 @@
   <AvailableFood>EP9Brownie</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>35</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2725,10 +2725,10 @@
   <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>35</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2790,10 +2790,10 @@
   <AvailableFood>GreenSalad</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>20</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -2858,10 +2858,10 @@
   <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>Outstanding</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>27</HourlyPay>
   <SkillMinimum>6</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -2921,10 +2921,10 @@
   <AvailableFood>GreenSalad</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>16</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -2988,10 +2988,10 @@
   <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>25</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -3055,10 +3055,10 @@
   <AvailableFood>EP9SnackPizza</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Outstanding</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>20</HourlyPay>
   <SkillMinimum>4</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -3119,10 +3119,10 @@
   <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>25</HourlyPay>
   <SkillMinimum>6</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -3181,10 +3181,10 @@
   <AvailableFood>EP9Empanada</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>15</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -3234,11 +3234,11 @@
   <AvailableFood>AutumnSalad</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <DrinkQualityMinimum>Neutral</DrinkQualityMinimum>
-  <DrinkQualityMaximum>VeryNice</DrinkQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Neutral</QualityMinimum>
-  <QualityMaximum>VeryNice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>0</HourlyPay>
   <SkillMinimum>3</SkillMinimum>
   <SkillAnimationMinimum>1</SkillAnimationMinimum>
@@ -3310,10 +3310,10 @@
   <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>10</HourlyPay>
   <SkillMinimum>1</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -3366,10 +3366,10 @@
   <AvailableFood>HotDog</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>15</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -3416,9 +3416,9 @@
   <AvailableFood>HotDog</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <QualityMinimum>Bad</QualityMinimum>
-  <QualityMaximum>Nice</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>11</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
@@ -3488,10 +3488,10 @@
   <AvailableFood>Nachos</AvailableFood>
   <IsPizzaAvailable>True</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Nice</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>Neutral</QualityMinimum>
-  <QualityMaximum>Great</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>40</HourlyPay>
   <SkillMinimum>5</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -3563,10 +3563,10 @@
   <AvailableFood>HotDog</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>15</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -3617,10 +3617,10 @@
   <AvailableFood>HotDog</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>Neutral</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>15</HourlyPay>
   <SkillMinimum>2</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -3648,10 +3648,10 @@
   <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Bad</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>25</HourlyPay>
   <SkillMinimum>6</SkillMinimum>
   <SkillAnimationMinimum>4</SkillAnimationMinimum>
@@ -3704,10 +3704,10 @@
   <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>Neutral</FoodQualityMinimum>
-  <FoodQualityMaximum>VeryNice</FoodQualityMaximum>
-  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Outstanding</QualityMaximum>
+  <QualityMaximum>Perfect</QualityMaximum>
   <HourlyPay>10</HourlyPay>
   <SkillMinimum>1</SkillMinimum>
   <SkillAnimationMinimum>2</SkillAnimationMinimum>
