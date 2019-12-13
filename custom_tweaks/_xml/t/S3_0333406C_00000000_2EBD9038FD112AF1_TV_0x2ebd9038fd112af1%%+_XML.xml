@@ -118,13 +118,13 @@
     <kLookAtInterestingnessWhenTurnedOff value="0">
       <!--How interesting to look at this (range 0:100) when turned off-->
     </kLookAtInterestingnessWhenTurnedOff>
-    <kSoundGainLowLevel value="0.25">
+    <kSoundGainLowLevel value="0.08">
       <!--Gain value for playing volume: Low. Positive float. Range [0, 1]. Initial GPE Default 0.25f-->
     </kSoundGainLowLevel>
-    <kSoundGainMediumLevel value="0.6">
+    <kSoundGainMediumLevel value="0.2">
       <!--Gain value for playing volume: Medium. Positive float. Range [0, 1]. Initial GPE Default 0.60f-->
     </kSoundGainMediumLevel>
-    <kSoundGainHighLevel value="1">
+    <kSoundGainHighLevel value="0.33">
       <!--Gain value for playing volume: High. Positive float. Range [0, 1]. Initial GPE Default 1.0f-->
     </kSoundGainHighLevel>
     <sLookAtTuning>
