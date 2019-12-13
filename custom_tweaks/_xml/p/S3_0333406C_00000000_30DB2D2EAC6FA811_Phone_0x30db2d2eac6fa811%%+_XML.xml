@@ -19,7 +19,7 @@
     <kLTRThresholdForInviteToLotMax value="30">
       <!--LTR value at which invite to lot will always succeed-->
     </kLTRThresholdForInviteToLotMax>
-    <kChanceAtMinForChat value="50">
+    <kChanceAtMinForChat value="15">
       <!--Probability of chat succeeding at min LTR-->
     </kChanceAtMinForChat>
     <kLTRThresholdForChatMin value="-50">
