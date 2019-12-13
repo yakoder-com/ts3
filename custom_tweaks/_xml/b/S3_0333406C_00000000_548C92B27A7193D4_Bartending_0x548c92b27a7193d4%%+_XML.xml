@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kTimeToMakeDrinkMinAtZero value="8">
+    <kTimeToMakeDrinkMinAtZero value="2">
       <!--Range:  0+  Description:  The minimum time it takes, in Sim minutes, to make one drink at skill level 0 -->
     </kTimeToMakeDrinkMinAtZero>
-    <kTimeToMakeDrinkMaxAtZero value="25">
+    <kTimeToMakeDrinkMaxAtZero value="6.25">
       <!--Range:  0+  Description:  The maximum time it takes, in Sim minutes, to make one drink at skill level 0-->
     </kTimeToMakeDrinkMaxAtZero>
-    <kTimeToMakeDrinkMinAtMax value="4">
+    <kTimeToMakeDrinkMinAtMax value="1">
       <!--Range:  0+  Description:  The minimum time it takes, in Sim minutes, to make one drink at max skill level-->
     </kTimeToMakeDrinkMinAtMax>
-    <kTimeToMakeDrinkMaxAtMax value="11">
+    <kTimeToMakeDrinkMaxAtMax value="2.75">
       <!--Range:  0+  Description:  The maximum time it takes, in Sim minutes, to make one drink at max skill level-->
     </kTimeToMakeDrinkMaxAtMax>
     <kLifetimeOpportunityMoodTarget value="200">
