@@ -37,10 +37,10 @@
     <kMaxChatTimeMinutes value="60">
       <!--Maximum chat talk time in minutes-->
     </kMaxChatTimeMinutes>
-    <kChatWanderDistanceMin value="2">
+    <kChatWanderDistanceMin value="0">
       <!--Minimum chat wander distance-->
     </kChatWanderDistanceMin>
-    <kChatWanderDistanceMax value="5">
+    <kChatWanderDistanceMax value="3">
       <!--Maximum chat wander distance-->
     </kChatWanderDistanceMax>
     <kLTRHitForFailedInviteOver value="0">
