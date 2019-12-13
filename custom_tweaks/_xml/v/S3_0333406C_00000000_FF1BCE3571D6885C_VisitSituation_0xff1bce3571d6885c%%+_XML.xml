@@ -71,13 +71,13 @@
     <kMinWaitingTimeForeignVisitor value="8">
       <!--Range: Sim hours. Minimum time that Foreign Visitors will wait outside door after ringing the bell when invited over.-->
     </kMinWaitingTimeForeignVisitor>
-    <kAskToStayOverDaysPermission_Descendants value="1">
+    <kAskToStayOverDaysPermission_Descendants value="3">
       <!--Range:  Sim days.  Description: Descendants Version: Number of days after inviting a Sim over for which the visit situation will automatically start that Sim in the greeted state.-->
     </kAskToStayOverDaysPermission_Descendants>
-    <kAskToStayOverTimeStart_Descendants value="7">
+    <kAskToStayOverTimeStart_Descendants value="8">
       <!--Range:  Sim time.  Description: Descendants Version:  Starting time of day at which a Sim can 'Ask to Stay Over'.  This should not be tuned to be earlier than kStayOverClearTime-->
     </kAskToStayOverTimeStart_Descendants>
-    <kAskToStayOverTimeEnd_Descendants value="2">
+    <kAskToStayOverTimeEnd_Descendants value="23">
       <!--Range:  Sim time.  Description Descendants Version::  Ending time of day at which a Sim can 'Ask to Stay Over'-->
     </kAskToStayOverTimeEnd_Descendants>
     <kStayOverClearTime_Descendants value="6">
