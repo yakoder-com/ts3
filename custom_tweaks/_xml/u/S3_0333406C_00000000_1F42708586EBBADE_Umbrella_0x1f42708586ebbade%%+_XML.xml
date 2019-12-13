@@ -27,7 +27,7 @@
     <kChanceFemaleUseUmbrellaEvenIfTempNotHigh value="10">
       <!--Range: 1-100. If it's not raining, and temp isn't too high, females still have this chance to use an umbrella.-->
     </kChanceFemaleUseUmbrellaEvenIfTempNotHigh>
-    <kTemperatureCapWhenUsingUmbrella value="50">
+    <kTemperatureCapWhenUsingUmbrella value="65">
       <!--Range: positive floats. Holding an umbrella outside makes sim temperature not rise above this cap.-->
     </kTemperatureCapWhenUsingUmbrella>
     <kRepairableTuning>
