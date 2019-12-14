@@ -4,7 +4,7 @@
 	<Object name="Sims3.Gameplay.Objects.Electronics.HoloComputer" />
 	<CodeVersion name="BaseGame" considerCodeVersion="False" />
 	<Current_Tuning>
-		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="False" />
+		<Disallow DisallowAutonomous="False" DisallowUserDirected="False" DisallowPlayerSim="False" />
 		<BaseAvailability>
 			<AgeSpeciesAvail AgeSpeciesValue="C,T,Y,A,E" />
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
@@ -34,7 +34,7 @@
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
 				<Change type="SkillWriting" advertised="200" locked="False" actual="300" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="Fun" advertised="10" locked="True" actual="10" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Fun" advertised="30" locked="True" actual="30" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitComputerWiz" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="SkillFuture" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="RoleCafeteriaWaiter" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
