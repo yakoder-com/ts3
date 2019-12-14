@@ -37,7 +37,7 @@
     <kRadiusForCommonInteractionObjects value="20">
       <!--Range:  1 - ???  Description:  Radius in meters a Sim looks for an object to run a common interaction on.-->
     </kRadiusForCommonInteractionObjects>
-    <kSitAdditionalPercentPerComfyPoint value="0.02">
+    <kSitAdditionalPercentPerComfyPoint value="0.04">
       <!--For global 'Sit' interaction to make Sims more likely to autonomously choose to sit on objects with higher Comfy scores.  Each point of Comfy score that a sittable object has is multiplied by this value, and that is added to 1.0 to get the sitting multiplier due to Comfy.-->
     </kSitAdditionalPercentPerComfyPoint>
     <kAutonomyMultiplierForJoiningInWithOthers value="1.2">
