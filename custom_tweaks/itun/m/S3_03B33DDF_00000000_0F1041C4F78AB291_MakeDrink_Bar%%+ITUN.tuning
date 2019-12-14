@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <base>
-	<Interaction name="Sims3.Gameplay.Objects.Counters.BarAdvanced+MakeDrink+Definition" />
-	<Object name="Sims3.Gameplay.Objects.Counters.BarAdvanced" />
-	<CodeVersion name="EP3,EP10" considerCodeVersion="True" />
+	<Interaction name="Sims3.Gameplay.Objects.Counters.Bar+MakeDrink+Definition" />
+	<Object name="Sims3.Gameplay.Interfaces.IBar" />
+	<CodeVersion name="BaseGame,EP10" considerCodeVersion="True" />
 	<Current_Tuning>
 		<Disallow DisallowAutonomous="False" DisallowUserDirected="False" DisallowPlayerSim="False" />
 		<BaseAvailability>
@@ -10,6 +10,7 @@
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
 			<MoodThreshold MoodThresholdType="None" MoodThresholdValue="0" />
 			<SkillThreshold SkillThresholdType="None" SkillThresholdValue="0" />
+			<ExcludingTrait type="RobotHiddenTrait" />
 			<Occult OccultRestrictionType="Ignore" OccultTypes="0x0" OccultTypesHumanAllowed="True" />
 			<CareerThreshold CareerThresholdType="Undefined" CareerThresholdValue="0" IncludePastCareers="False" />
 			<Lot AllowNonGreetedSimsIfObjectOutside="False" AllowNonGreetedSimsIfObjectOutsideUserDirected="True" AllowGreetedSims="True" AllowOnCommunityLots="True" AllowOnAllLots="False" />
@@ -17,23 +18,26 @@
 			<Room AllowInTombRoomAutonomous="False" AllowEvenIfNotAllowedInRoomAutonomous="False" />
 			<Misc DisallowedIfPregnant="False" DisallowedFromInventory="False" />
 		</BaseAvailability>
-		<PosturePrecondition name="TendingBar" value="0">
-			<Check name="ContainerParentedToExtendedTarget" />
-		</PosturePrecondition>
 		<Check type="All" value="0" />
 		<Tradeoff name="MakeDrink">
 			<Localization autoGenerate="False" />
 			<Time value="1" addRoute="True" />
 			<Exit funExit="False" stressExit="False" interruptible="False" />
-			<RouteLeadIn allowed="False" />
+			<RouteLeadIn allowed="True" />
 			<AskJoinInteraction joinable="False" />
 			<AllowAutonomousReinforcement allowPraise="False" allowScold="False" />
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="SkillBartending" advertised="0" locked="False" actual="600" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Fun" advertised="40" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Bladder" advertised="-100" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Hunger" advertised="40" locked="False" actual="0" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitPartyAnimal" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeAtBachelorParty" advertised="150" locked="True" actual="150" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeInWerewolfBar" advertised="100" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeInCocktailLounge" advertised="100" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
-	<Notes Notes="" DesignerNotes="Assumed Tuned per Juan" LastChange="4/18/2011 2:30:46 PM" />
+	<Notes Notes="" DesignerNotes="" LastChange="" />
 	</Current_Tuning>
 </base>
