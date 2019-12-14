@@ -22,7 +22,7 @@
     <kInitialDepreciation value="0.15">
       <!--Percentage of intial value an object depreciates once purchased (0-1).-->
     </kInitialDepreciation>
-    <kDailyDepreciation value="0.1">
+    <kDailyDepreciation value="0.01">
       <!--Percentage of intial value an object depreciates each day (0-1).-->
     </kDailyDepreciation>
     <kDepreciationLimit value="0.4">
