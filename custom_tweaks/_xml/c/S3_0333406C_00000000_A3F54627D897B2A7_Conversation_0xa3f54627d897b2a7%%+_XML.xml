@@ -38,7 +38,7 @@
       <MaxSimsToProcessPerTick value="10">
         <!--The max number of sims that PulseSims will consider in one tick (the more we do, the less efficient (but more responsive) the reaction will be)-->
       </MaxSimsToProcessPerTick>
-      <ReactorLineOfSight value="True">
+      <ReactorLineOfSight value="False">
         <!--Specifies whether or not the broadcaster only effects Sims with line-of-sight to the broadcasting object.-->
       </ReactorLineOfSight>
       <ReactOnRepeatedEntry value="True">
@@ -50,7 +50,7 @@
       <SpeciesToEffect value="Human">
         <!--List of species flags that this reaction broadcaster should broadcast to.  Valid entries are Human, Horse, Cat, Dog, LittleDog or a comma separated list of several of these.-->
       </SpeciesToEffect>
-      <ReactorCouldSeeCheck value="False">
+      <ReactorCouldSeeCheck value="True">
         <!--Specifies whether or not the broadcaster only effects Sims which pass a "could-see" check to the broadcasting object (i.e., they are not in their frontal vision cone but there are no objects between the two actors so the reactor could hypothetically see if they turned around).-->
       </ReactorCouldSeeCheck>
       <MountedSimsDoNonMountedBehavior value="False">
