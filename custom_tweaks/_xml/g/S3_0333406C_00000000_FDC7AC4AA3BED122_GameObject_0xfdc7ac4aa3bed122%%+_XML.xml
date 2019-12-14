@@ -46,7 +46,7 @@
     <kAutonomyMultiplierForJoiningInWithDislikedSim value="0.05">
       <!--When object being used by a sim who the actor dislikes, autonomy will multiply the score to pick this object by this factor. This should be significantly less than 1-->
     </kAutonomyMultiplierForJoiningInWithDislikedSim>
-    <kKleptoRespawnTimeDays value="8">
+    <kKleptoRespawnTimeDays value="365">
       <!--Number of days until a kleptomaniac swiped object is respawned.-->
     </kKleptoRespawnTimeDays>
     <kBlockingTimeToTestOut value="4">
