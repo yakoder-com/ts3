@@ -31,7 +31,7 @@
     <kPhoneCallTimeout value="20">
       <!--Timeout of demotion / firing / warning calls in minutes-->
     </kPhoneCallTimeout>
-    <kMinimumBossLevel value="5">
+    <kMinimumBossLevel value="8">
       <!--Bosses must be at least this career level-->
     </kMinimumBossLevel>
     <kHoursBeforeStartCarpoolArrives value="1">
