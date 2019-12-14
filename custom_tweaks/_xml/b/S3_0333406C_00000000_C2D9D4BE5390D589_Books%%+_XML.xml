@@ -3381,8 +3381,8 @@
   <Kind>None</Kind>
   <Length>180</Length>
   <Value>100</Value>
-  <PagesMinNorm>0.045</PagesMinNorm>
-  <PagesMinBW>0.0675</PagesMinBW>
+  <PagesMinNorm>0.09</PagesMinNorm>
+  <PagesMinBW>0.135</PagesMinBW>
   <NotInBookStore>False</NotInBookStore>
   <GeometryState>BookLargeThick</GeometryState>
   <MaterialState>bookToddlerFunny</MaterialState>
