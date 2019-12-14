@@ -4,7 +4,7 @@
     <kBaseChanceOfResearchDiscovery value="0.5, 0.8, 0.85, 0.875, 0.9, 0.925, 0.95, 0.975, 1.0, 1.0, 1.0">
       <!--Range: 0-1.0f; Base percentage chance of discovering an alchemy recipe while researching alchemy at each Spellcraft skill level 0 - 10-->
     </kBaseChanceOfResearchDiscovery>
-    <kTraitsForResearchAlchemyBonuses value="SupernaturalFanTrait, WitchHiddenTrait">
+    <kTraitsForResearchAlchemyBonuses value="SupernaturalFanTrait, WitchHiddenTrait, FairyHiddenTrait, Gatherer, GreenThumb, NaturalCook">
       <!--Range:  Trait Names; Traits of those that receive the ResearchAlchemy bonuses of kResearchBonusChanceOfDiscoveryModifier and kResearchBonusSkillMultiplier -->
     </kTraitsForResearchAlchemyBonuses>
     <kResearchBonusChanceOfDiscoveryModifier value="1.0">
