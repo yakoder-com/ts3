@@ -808,7 +808,7 @@
 		<AA>
 			<AGE x="C,T,Y,A,E" y="C,T,Y,A,E" />
 			<ATREQ val="RobotHiddenTrait" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestIsActorRobot" />
 			<ParMen key="ServoBot" />
 		</AA>
