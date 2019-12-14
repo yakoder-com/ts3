@@ -69,7 +69,7 @@
     <kMinNumSocialsBeforeSimsConsiderLeaving value="2">
       <!--Min num socials in an autonomous conversation before the Sims consider leaving-->
     </kMinNumSocialsBeforeSimsConsiderLeaving>
-    <kMaxNumSocialsBeforeSimsConsiderLeaving value="4">
+    <kMaxNumSocialsBeforeSimsConsiderLeaving value="8">
       <!--Max num socials in an autonomous conversation before the Sims consider leaving-->
     </kMaxNumSocialsBeforeSimsConsiderLeaving>
     <kMaxTimeToTalkAboutActionAfterFinishing value="60">
