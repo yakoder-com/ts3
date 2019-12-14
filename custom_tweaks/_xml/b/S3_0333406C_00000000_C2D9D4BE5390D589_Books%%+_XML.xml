@@ -3686,7 +3686,7 @@
   <Value>0</Value>
   <OneUse></OneUse>
   <PagesMinNorm>1</PagesMinNorm>
-  <PagesMinBW>1.25</PagesMinBW>
+  <PagesMinBW>2</PagesMinBW>
   <UnlockSkill></UnlockSkill>
   <ChildCanRead></ChildCanRead>
   <NotInBookStore>False</NotInBookStore>
