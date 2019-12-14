@@ -1541,7 +1541,7 @@
 		<AA>
 			<AGE x="C,T,Y,A,E" y="C,T,Y,A,E" />
 			<ATE val="Brave,FamilyOriented,Good,Genius,HopelessRomantic" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestTargetIsVampire" />
 		</AA>
 		<Jazz>
@@ -1583,7 +1583,7 @@
 			<AGE x="T,Y,A,E" y="T,Y,A,E" />
 			<ATREQ val="VampireHiddenTrait" />
 			<ATE val="Good,Brave,FamilyOriented,Genius,HopelessRomantic" />
-			<Available auto="False" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestActorIsVampire" />
 		</AA>
 		<Jazz>
