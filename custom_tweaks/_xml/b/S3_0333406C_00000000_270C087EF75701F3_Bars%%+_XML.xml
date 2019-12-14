@@ -2847,8 +2847,6 @@
   <Venue>RebelHangout</Venue>
   <PriceMultiplier>1.25</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
-  <HourOpen>6</HourOpen>
-  <HourClose>1</HourClose>
   <HappyHourStart>17</HappyHourStart>
   <HappyHourEnd>21</HappyHourEnd>
   <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
@@ -3641,7 +3639,7 @@
   <PriceMultiplier>1.25</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
   <HourOpen>9</HourOpen>
-  <HourClose>3</HourClose>
+  <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.5</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>HogansDeepFriedJuice</AvailableDrinks>
