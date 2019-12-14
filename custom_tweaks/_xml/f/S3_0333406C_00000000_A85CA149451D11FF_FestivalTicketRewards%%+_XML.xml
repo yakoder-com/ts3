@@ -277,7 +277,7 @@
   <LocName>EP08/CatalogObjects/Name:Parasol</LocName>
   <Description>EP08/CatalogObjects/Description:Parasol</Description>
   <TicketCost>10</TicketCost>
-  <Season>Summer, Fall</Season>
+  <Season>Spring, Summer, Fall</Season>
  </RewardData>
 <RewardData>
   <MedatorName>poolLounger</MedatorName>
