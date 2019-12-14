@@ -232,7 +232,7 @@
   <LocName>EP08/CatalogObjects/Name:scarecrowEP8</LocName>
   <Description>EP08/CatalogObjects/Description:scarecrowEP8</Description>
   <TicketCost>25</TicketCost>
-  <Season>Fall</Season>
+  <Season>Spring, Summer, Fall</Season>
  </RewardData>
 <RewardData>
   <MedatorName>magicGnomeSummer</MedatorName>
