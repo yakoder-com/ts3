@@ -27,3 +27,19 @@ newly added files in vi for editing.
 
 vi $(git status | grep 'S3_' | awk '{print $1}' | xargs)
 
+
+5) Vim Math Commands
+	a) Doubling a float (ex: changing 0.5 to 1.0)
+		:s/\([0-9\.]\+\)/\=str2float(submatch(1))*2/
+	b) Halving a float (ex: changing 1.0 to 0.5)
+		:s/\([0-9\.]\+\)/\=str2float(submatch(1))*0.5/
+	c) Multiplying a double by 1.5 and leaving as a rounded int (ex: changing 2.0 to 3)
+		:s/\([0-9\.]\+\)/\=printf("%.0f",str2float(submatch(1))*2)/
+	d) Doubling an int (ex: changing 20 to 40)
+		:s/\([0-9]\+\)/\=printf("%.0f",str2float(submatch(1))*2)/
+	e) Halving an int (ex: changing 20 to 40)
+		:s/\([0-9]\+\)/\=printf("%.0f",str2float(submatch(1))*0.5)/
+	f) Multiplying all in a specific tag by 1.5 as a rounded int (ex: <HourlyPay>35</HourlyPay> to 53)
+		Note: it's only necessary to match the opening tag & numbers.
+		:%s/<HourlyPay>\([0-9\.]\+\)/\=printf("<HourlyPay>%.0f",str2float(submatch(1))*1.5)/
+
