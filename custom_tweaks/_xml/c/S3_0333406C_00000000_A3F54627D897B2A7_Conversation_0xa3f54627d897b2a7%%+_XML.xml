@@ -17,7 +17,7 @@
       <PulseRadius value="10">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
-      <AffectBroadcasterRoomOnly value="False">
+      <AffectBroadcasterRoomOnly value="True">
         <!--Specifies whether or not the broadcaster effects object through walls that define an enclosed room boundary.-->
       </AffectBroadcasterRoomOnly>
       <PulseRepeatTime value="2">
@@ -38,7 +38,7 @@
       <MaxSimsToProcessPerTick value="10">
         <!--The max number of sims that PulseSims will consider in one tick (the more we do, the less efficient (but more responsive) the reaction will be)-->
       </MaxSimsToProcessPerTick>
-      <ReactorLineOfSight value="False">
+      <ReactorLineOfSight value="True">
         <!--Specifies whether or not the broadcaster only effects Sims with line-of-sight to the broadcasting object.-->
       </ReactorLineOfSight>
       <ReactOnRepeatedEntry value="True">
