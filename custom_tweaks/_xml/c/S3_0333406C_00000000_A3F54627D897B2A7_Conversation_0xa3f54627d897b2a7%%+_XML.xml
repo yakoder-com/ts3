@@ -75,7 +75,7 @@
     <kMaxTimeToTalkAboutActionAfterFinishing value="60">
       <!--The max time (in Sim minutes) you can talk to a Sim about the action he was performing after he finished it-->
     </kMaxTimeToTalkAboutActionAfterFinishing>
-    <kMaxTimeToJoinConversation value="30">
+    <kMaxTimeToJoinConversation value="15">
       <!--Range: 0 to float.MaxValue.  Description:  The time, in minutes, a sim will wait to join a conversation.-->
     </kMaxTimeToJoinConversation>
     <kMinimumLikingForFamilyOrientedSocials value="60">
