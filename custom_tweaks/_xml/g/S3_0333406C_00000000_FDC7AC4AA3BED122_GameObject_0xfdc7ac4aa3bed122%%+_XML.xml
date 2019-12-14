@@ -43,7 +43,7 @@
     <kAutonomyMultiplierForJoiningInWithOthers value="1.8">
       <!--When object supports more than one actor, this is the multiplier on the autonomy score to encourage people to act together.-->
     </kAutonomyMultiplierForJoiningInWithOthers>
-    <kAutonomyMultiplierForJoiningInWithDislikedSim value="0.1">
+    <kAutonomyMultiplierForJoiningInWithDislikedSim value="0.05">
       <!--When object being used by a sim who the actor dislikes, autonomy will multiply the score to pick this object by this factor. This should be significantly less than 1-->
     </kAutonomyMultiplierForJoiningInWithDislikedSim>
     <kKleptoRespawnTimeDays value="8">
