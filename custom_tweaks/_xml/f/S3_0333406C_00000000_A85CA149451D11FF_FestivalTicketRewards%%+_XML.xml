@@ -313,7 +313,7 @@
   <LocName>EP08/CatalogObjects/Name:springRiderSeason</LocName>
   <Description>EP08/CatalogObjects/Description:springRiderSeason</Description>
   <TicketCost>25</TicketCost>
-  <Season>Spring</Season>
+  <Season>Spring, Summer</Season>
  </RewardData>
 <RewardData>
   <MedatorName>teddybearSeasonSnowman</MedatorName>
