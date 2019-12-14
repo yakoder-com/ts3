@@ -34,7 +34,7 @@
     <kCeilingClipThreshold value="0.02">
       <!--Positive float - vertical distance, such that (if indoors) objects whose bounding boxes come within this vertical distance of the floor above are counted as clipping the ceiling.-->
     </kCeilingClipThreshold>
-    <kRadiusForCommonInteractionObjects value="20">
+    <kRadiusForCommonInteractionObjects value="15">
       <!--Range:  1 - ???  Description:  Radius in meters a Sim looks for an object to run a common interaction on.-->
     </kRadiusForCommonInteractionObjects>
     <kSitAdditionalPercentPerComfyPoint value="0.04">
