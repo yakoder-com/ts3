@@ -11,7 +11,7 @@
 			<ATRA val="Workaholic" />
 			<ATREQ val="BotAngryModeHiddenTrait,SentienceChip" />
 			<ATE val="FamilyOriented" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 		</AA>
 		<Jazz>
 			<Graph val="social_generic" suite="Accuse" data="BaseGame" x="Bad" y="Bad" />
@@ -44,7 +44,7 @@
 			<ATRA val="NoSenseOfHumor" />
 			<ATREQ val="EvilChip,BotAngryModeHiddenTrait" />
 			<ATE val="MeanSpirited,EvilChip" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 		</AA>
 		<Jazz>
 			<Graph val="social_generic" suite="Accuse" data="BaseGame" x="Bad" y="Bad" />
@@ -79,7 +79,7 @@
 			<ATRA val="Childish" />
 			<ATREQ val="EvilChip,BotAngryModeHiddenTrait" />
 			<ATE val="DislikesChildren,MeanSpirited,EvilChip" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 		</AA>
 		<Jazz>
 			<Graph val="social_generic" suite="Accuse" data="BaseGame" x="Bad" y="Bad" />
@@ -178,7 +178,7 @@
 			<ATR val="Unflirty" />
 			<ATREQ val="CapacityToLoveChip" />
 			<ATE val="Flirty" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 		</AA>
 		<Jazz>
 			<Graph val="social_generic" suite="Accuse" data="BaseGame" x="Bad" y="Bad" />
