@@ -3852,7 +3852,7 @@
 			<AGE x="T,Y,A,E" y="T,Y,A,E" />
 			<ATREQ val="Proper" />
 			<ATE val="Proper" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 		</AA>
 		<Jazz>
 			<Graph val="social_generic" suite="Impropriety" data="EP7" x="Neutral" y="Neutral" />
