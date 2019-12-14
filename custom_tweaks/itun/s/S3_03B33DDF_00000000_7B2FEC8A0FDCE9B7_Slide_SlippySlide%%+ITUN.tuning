@@ -29,9 +29,6 @@
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
 				<Change type="Fun" advertised="75" locked="True" actual="75" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="TraitChildish" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="TraitLovesTheOutdoors" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="TraitImaginaryFriend" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="BeAtPoolParty" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="WinterAppropriateness" advertised="-500" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="SummerAppropriateness" advertised="20" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
