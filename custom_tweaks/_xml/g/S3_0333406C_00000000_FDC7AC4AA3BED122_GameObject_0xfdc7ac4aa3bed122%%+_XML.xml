@@ -25,7 +25,7 @@
     <kDailyDepreciation value="0.01">
       <!--Percentage of intial value an object depreciates each day (0-1).-->
     </kDailyDepreciation>
-    <kDepreciationLimit value="0.4">
+    <kDepreciationLimit value="0.5">
       <!--Maximum percentage of intial value an object can have due to depreciation (0-1).-->
     </kDepreciationLimit>
     <kInitialStoreDepreciation value="0.15">
