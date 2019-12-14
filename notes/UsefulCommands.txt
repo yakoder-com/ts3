@@ -41,5 +41,5 @@ vi $(git status | grep 'S3_' | sed 's/new file://' | sed 's/modified://' | awk '
 		:s/\([0-9]\+\)/\=printf("%.0f",str2float(submatch(1))*0.5)/
 	f) Multiplying all in a specific tag by 1.5 as a rounded int (ex: <HourlyPay>35</HourlyPay> to 53)
 		Note: it's only necessary to match the opening tag & numbers.
-		:%s/<HourlyPay>\([0-9\.]\+\)/\=printf("<HourlyPay>%.0f",str2float(submatch(1))*1.5)/
+		:%s/\(<HourlyPay>\)\([0-9\.]\+\)/\=printf("%s%.0f",submatch(1),str2float(submatch(2))*1.5)/
 
