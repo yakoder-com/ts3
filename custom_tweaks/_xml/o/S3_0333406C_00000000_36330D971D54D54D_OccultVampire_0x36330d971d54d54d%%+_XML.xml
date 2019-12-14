@@ -53,7 +53,7 @@
       <SpeciesToEffect value="Human">
         <!--List of species flags that this reaction broadcaster should broadcast to.  Valid entries are Human, Horse, Cat, Dog, LittleDog or a comma separated list of several of these.-->
       </SpeciesToEffect>
-      <ReactorCouldSeeCheck value="False">
+      <ReactorCouldSeeCheck value="True">
         <!--Specifies whether or not the broadcaster only effects Sims which pass a "could-see" check to the broadcasting object (i.e., they are not in their frontal vision cone but there are no objects between the two actors so the reactor could hypothetically see if they turned around).-->
       </ReactorCouldSeeCheck>
       <MountedSimsDoNonMountedBehavior value="False">
@@ -66,13 +66,13 @@
         <!--The MountedReactionType played by mounted horses and riders, instead of doing the normal behavior. If both enter and exit are set to none, mounted sims will not play a mounted reaction. What reaction to play when: [Entering the broadcaster (or initial pulse), exiting the broadcaster].-->
       </MountedReactionTypes>
     </kVampireReactionParams>
-    <kAskToTurnTooManyPeopleDistance value="5">
+    <kAskToTurnTooManyPeopleDistance value="2">
       <!--Range: Positive floats.  Description:  The distance check in which we see how many non-vampire Sims are close to the Vampire.-->
     </kAskToTurnTooManyPeopleDistance>
-    <kAskToTurnTooManyPeopleSimCount value="3">
+    <kAskToTurnTooManyPeopleSimCount value="1">
       <!--Range: Positive integers.  Description:  The minimum number of non-vampires within the radious of kAskToTurnTooManyPeopleDistance for the 'Ask To Turn' social to fail.-->
     </kAskToTurnTooManyPeopleSimCount>
-    <kNumVampireFruitsToGive value="3">
+    <kNumVampireFruitsToGive value="30">
       <!--How many vampire fruits a Sim will receive in their mailbox the day after being bit by a vampire.-->
     </kNumVampireFruitsToGive>
     <kBuffsToRemoveOnAddition value="ItsDark, Hunted, Weakened, AfraidOfTheDark, BadNightSleep, Chilly, CreepyGraveyard, Fatigued, Meal, Sore, UnevenCooking, WastedFood, Hungry, VeryHungry, Starving">
