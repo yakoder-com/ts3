@@ -25,7 +25,7 @@ grep -rail 'kSoundGainLowLevel' * | xargs -n 1 -I {} ../bin/cpchmodprint -n "{}"
 4) Ran in ./custom_tweaks, with recently added files (from above), this will (most of the time) open all the
 newly added files in vi for editing.
 
-vi $(git status | grep 'S3_' | awk '{print $1}' | xargs)
+vi $(git status | grep 'S3_' | sed 's/new file://' | sed 's/modified://' | awk '{print $1}' | xargs)
 
 
 5) Vim Math Commands
