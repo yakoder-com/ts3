@@ -78,7 +78,7 @@
     <kMaxTimeToJoinConversation value="15">
       <!--Range: 0 to float.MaxValue.  Description:  The time, in minutes, a sim will wait to join a conversation.-->
     </kMaxTimeToJoinConversation>
-    <kMinimumLikingForFamilyOrientedSocials value="60">
+    <kMinimumLikingForFamilyOrientedSocials value="45">
       <!--Range:  0 - 100  Description:  Minimum liking to do family oriented socials to non-blood related people that live outside your household-->
     </kMinimumLikingForFamilyOrientedSocials>
     <kMartialArtsSkillFightModifier value="0.125">
