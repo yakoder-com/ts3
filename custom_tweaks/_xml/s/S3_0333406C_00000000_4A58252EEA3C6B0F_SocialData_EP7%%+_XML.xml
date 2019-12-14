@@ -5101,7 +5101,7 @@
 			<ATRA val="Unflirty" />
 			<ATE val="HopelessRomantic,Flirty" />
 			<ALTR min="-19" max="100" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestLunaticBuff" />
 		</AA>
 		<Jazz>
@@ -5156,7 +5156,7 @@
 			<AGE x="T,Y,A,E" y="T,Y,A,E" />
 			<ATREQ val="EvilChip" />
 			<ATE val="MeanSpirited,HotHeaded,Evil" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestLunaticBuff" />
 		</AA>
 		<Jazz>
