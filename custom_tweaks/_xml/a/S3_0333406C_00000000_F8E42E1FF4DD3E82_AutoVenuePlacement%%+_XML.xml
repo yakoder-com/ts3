@@ -112,12 +112,6 @@
   <ProductVersion>EP5</ProductVersion>
  </TwinBrook>
 <TwinBrook>
-  <Venu_Name>kEP5_EquestrianCenterSmall</Venu_Name>
-  <Lot_Id>10106359237439431232</Lot_Id>
-  <Lot_Rotation>0</Lot_Rotation>
-  <ProductVersion>EP5</ProductVersion>
- </TwinBrook>
-<TwinBrook>
   <Venu_Name>kBigPark</Venu_Name>
   <Lot_Id>10106359237439431280</Lot_Id>
   <Lot_Address>17 Sweetwater Loop</Lot_Address>
@@ -202,20 +196,6 @@
   <Lot_Id>17694643159027341056</Lot_Id>
   <Lot_Address>357 4th Avenue</Lot_Address>
   <Lot_Rotation>180</Lot_Rotation>
-  <ProductVersion>EP6</ProductVersion>
- </Bridgeport>
-<Bridgeport>
-  <Venu_Name>kEP6_PerformanceClub</Venu_Name>
-  <Lot_Id>17694643161334620688</Lot_Id>
-  <Lot_Address>64 Applewood Lane</Lot_Address>
-  <Lot_Rotation>180</Lot_Rotation>
-  <ProductVersion>EP6</ProductVersion>
- </Bridgeport>
-<Bridgeport>
-  <Venu_Name>kEP6_PrivateVenue</Venu_Name>
-  <Lot_Id>17694643159120894064</Lot_Id>
-  <Lot_Address>34 1st Avenue</Lot_Address>
-  <Lot_Rotation>0</Lot_Rotation>
   <ProductVersion>EP6</ProductVersion>
  </Bridgeport>
 <Bridgeport>
