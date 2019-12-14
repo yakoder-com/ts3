@@ -31,7 +31,7 @@
 				<Change type="Social" advertised="20" locked="True" actual="20" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="LookAfterCat" advertised="250" locked="True" actual="250" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="LookAfterDog" advertised="250" locked="True" actual="250" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="ServoBotNanny" advertised="-200" locked="False" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="ServoBotNanny" advertised="-200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="BeMaid" advertised="-200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="BeButler" advertised="-200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="BeBonehilda" advertised="-200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
