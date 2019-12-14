@@ -1114,8 +1114,8 @@
   <BuffDescription>StrideOfPrideDescription</BuffDescription>
   <ThumbFilename>moodlet_strideofpride</ThumbFilename>
   <AxisEffected>Happy</AxisEffected>
-  <EffectValue>60</EffectValue>
-  <TimeoutLength>120</TimeoutLength>
+  <EffectValue>0</EffectValue>
+  <TimeoutLength>0</TimeoutLength>
   <CustomClassName>Sims3.Gameplay.ActorSystems.BuffStrideOfPride, Sims3GameplaySystems</CustomClassName>
  </BuffList>
 <BuffList>
@@ -1188,8 +1188,8 @@
   <BuffDescription>WalkOfShameDescription</BuffDescription>
   <ThumbFilename>moodlet_walkofshame</ThumbFilename>
   <AxisEffected>Happy</AxisEffected>
-  <EffectValue>-25</EffectValue>
-  <TimeoutLength>120</TimeoutLength>
+  <EffectValue>0</EffectValue>
+  <TimeoutLength>0</TimeoutLength>
   <PolarityOverride>Negative</PolarityOverride>
   <CustomClassName>Sims3.Gameplay.ActorSystems.BuffWalkOfShame,Sims3GameplaySystems</CustomClassName>
  </BuffList>
@@ -7776,7 +7776,7 @@
   <ThumbFilename>moodlet_sunburnt</ThumbFilename>
   <AxisEffected>Uncomfortable</AxisEffected>
   <EffectValue>-10</EffectValue>
-  <TimeoutLength>700</TimeoutLength>
+  <TimeoutLength>4320</TimeoutLength>
   <CustomClassName>Sims3.Gameplay.ActorSystems.BuffSunburnt,Sims3GameplaySystems</CustomClassName>
   <NeededTraitForRobot>Unknown</NeededTraitForRobot>
  </BuffList>
@@ -7789,7 +7789,7 @@
   <ThumbFilename>moodlet_gotanicetan</ThumbFilename>
   <AxisEffected>None</AxisEffected>
   <EffectValue>10</EffectValue>
-  <TimeoutLength>1400</TimeoutLength>
+  <TimeoutLength>10080</TimeoutLength>
   <CustomClassName>Sims3.Gameplay.ActorSystems.BuffSuntan,Sims3GameplaySystems</CustomClassName>
   <NeededTraitForRobot>Unknown</NeededTraitForRobot>
  </BuffList>
