@@ -3822,7 +3822,7 @@
 			<ATRA val="MeanSpirited,Loner" />
 			<ATREQ val="Proper,FriendlyChip" />
 			<ATE val="Friendly,Charismatic,FriendlyChip" />
-			<Available auto="False" udo="False" />
+			<Available auto="True" udo="False" />
 		</AA>
 		<Jazz>
 			<Graph val="social_intro_proper" data="EP7" x="Neutral" y="Neutral" jig="SocialJigTwoPerson" />
