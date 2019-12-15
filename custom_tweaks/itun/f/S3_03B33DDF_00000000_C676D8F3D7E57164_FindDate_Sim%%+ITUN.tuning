@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <base>
-	<Interaction name="Sims3.Gameplay.Objects.Electronics.Computer+BrowseDatingProfiles+Definition" />
-	<Object name="Sims3.Gameplay.Objects.Electronics.Computer" />
-	<CodeVersion name="EP8" considerCodeVersion="True" />
+	<Interaction name="Sims3.Gameplay.Actors.Sim+FindDate+Definition" />
+	<Object name="Sims3.Gameplay.Actors.Sim" />
+	<CodeVersion name="EP5" considerCodeVersion="True" />
 	<Current_Tuning>
 		<Disallow DisallowAutonomous="False" DisallowUserDirected="False" DisallowPlayerSim="False" />
 		<BaseAvailability>
@@ -12,20 +12,13 @@
 			<SkillThreshold SkillThresholdType="None" SkillThresholdValue="0" />
 			<Occult OccultRestrictionType="Ignore" OccultTypes="0x0" OccultTypesHumanAllowed="True" />
 			<CareerThreshold CareerThresholdType="Undefined" CareerThresholdValue="0" IncludePastCareers="False" />
-			<Lot AllowNonGreetedSimsIfObjectOutside="False" AllowNonGreetedSimsIfObjectOutsideUserDirected="False" AllowGreetedSims="True" AllowOnCommunityLots="True" AllowOnAllLots="False" />
+			<Lot AllowNonGreetedSimsIfObjectOutside="False" AllowNonGreetedSimsIfObjectOutsideUserDirected="False" AllowGreetedSims="False" AllowOnCommunityLots="True" AllowOnAllLots="False" />
 			<World RestrictionType="None" Types="" Names="" />
 			<Room AllowInTombRoomAutonomous="False" AllowEvenIfNotAllowedInRoomAutonomous="False" />
 			<Misc DisallowedIfPregnant="False" DisallowedFromInventory="False" />
 		</BaseAvailability>
-		<PosturePrecondition name="Sitting" value="1">
-			<Check name="InFrontOfSurfaceForTarget" />
-			<Check name="ChairScootedIntoSurface" />
-		</PosturePrecondition>
-		<PosturePrecondition name="Standing" value="1">
-			<Check name="TargetInInventory" />
-		</PosturePrecondition>
 		<Check type="All" value="0" />
-		<Tradeoff name="BrowseDatingProfiles">
+		<Tradeoff name="FindDate">
 			<Localization autoGenerate="True" />
 			<Time value="1" addRoute="True" />
 			<Exit funExit="False" stressExit="False" interruptible="False" />
@@ -35,7 +28,6 @@
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="TraitComputerWiz" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="" LastChange="" />
