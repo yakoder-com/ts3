@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <base>
-	<Interaction name="Sims3.Gameplay.Objects.Gardening.HarvestPlant+EatFromHarvestPlantPet+Definition" />
-	<Object name="Sims3.Gameplay.Objects.Gardening.HarvestPlant" />
+	<Interaction name="Sims3.Gameplay.Objects.FoodObjects.EatHarvestablePet+Definition" />
+	<Object name="Sims3.Gameplay.Objects.FoodObjects.Ingredient" />
 	<CodeVersion name="EP5" considerCodeVersion="True" />
 	<Current_Tuning>
 		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="False" />
 		<BaseAvailability>
-			<AgeSpeciesAvail AgeSpeciesValue="AH,EH,AC,EC,AD,ED,AL,EL,AB" />
+			<AgeSpeciesAvail AgeSpeciesValue="AH,EH,AC,EC,AD,ED,AL,EL,AB,AR" />
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
 			<MoodThreshold MoodThresholdType="None" MoodThresholdValue="0" />
 			<SkillThreshold SkillThresholdType="None" SkillThresholdValue="0" />
@@ -17,26 +17,22 @@
 			<Room AllowInTombRoomAutonomous="False" AllowEvenIfNotAllowedInRoomAutonomous="True" />
 			<Misc DisallowedIfPregnant="False" DisallowedFromInventory="False" />
 		</BaseAvailability>
-		<PosturePrecondition name="BeingRidden" value="0">
-		</PosturePrecondition>
-		<PosturePrecondition name="Standing" value="0">
-		</PosturePrecondition>
 		<Check type="All" value="0" />
-		<Tradeoff name="EatFromHarvestPlantPet">
+		<Tradeoff name="EatHarvestablePet">
 			<Localization autoGenerate="True" />
 			<Time value="1" addRoute="True" />
 			<Exit funExit="False" stressExit="False" interruptible="False" />
 			<RouteLeadIn allowed="False" />
 			<AskJoinInteraction joinable="False" />
 			<AllowAutonomousReinforcement allowPraise="False" allowScold="False" />
-			<ScoringFunction alwaysChooseBest="True" name="EatFromHarvestPlantPetScoringFunction" specificCommodity="Hunger" />
+			<ScoringFunction alwaysChooseBest="True" name="EatHarvestablePetScoringFunction" specificCommodity="Hunger" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="Hunger" advertised="-125" locked="False" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Hunger" advertised="-175" locked="False" actual="68" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitPiggyPet" advertised="-200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" toReinforce="True" />
 				<Change type="TraitNeatPet" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="RoleDeer" advertised="-60" locked="False" actual="60" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="RoleWildHorse" advertised="-40" locked="False" actual="40" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="RoleWildHorse" advertised="-20" locked="False" actual="20" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="RoleRaccoon" advertised="-200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="" LastChange="" />
