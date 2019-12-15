@@ -44,7 +44,7 @@
     <kSoilDryWaterLevel value="-50">
       <!--Range: -100.0f to 100.0f.  The water level under which the soil is set to it's dry visual state.-->
     </kSoilDryWaterLevel>
-    <kReviveSuccessChance value="70">
+    <kReviveSuccessChance value="85">
       <!--Range: 0.0f to 100.0f.  The percent chance of success when using the Revive interaction.  If the interaction fails, the plant is permanently destroyed.-->
     </kReviveSuccessChance>
     <kGreenThumbTalkToPlantTime value="5">
