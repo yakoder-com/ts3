@@ -84,16 +84,16 @@
       <!--Chance (between 0 and 1) that a plant on an NPC or Community Lot will progress (i.e. 'fake grow') to the next growth state at the update time each day.-->
     </kNextGrowthStateChanceForAutoGrowLots>
     <kDeadPlantBroadcastParams>
-      <PulseRadius value="3">
+      <PulseRadius value="0">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
       <AffectBroadcasterRoomOnly value="True">
         <!--Specifies whether or not the broadcaster effects object through walls that define an enclosed room boundary.-->
       </AffectBroadcasterRoomOnly>
-      <ReactorLineOfSight value="False">
+      <ReactorLineOfSight value="True">
         <!--Specifies whether or not the broadcaster only effects Sims with line-of-sight to the broadcasting object.-->
       </ReactorLineOfSight>
-      <PulseRepeatTime value="10">
+      <PulseRepeatTime value="-1">
         <!--A repeat time in sim minutes with which a Sim is pulsed with the OnEnter effects of the broadcaster as long as they reside within the broadcaster's range.  A value of -1 means the pulse never repeats.-->
       </PulseRepeatTime>
       <TimeToFullPulseExpansion value="0">
@@ -120,7 +120,7 @@
       <SpeciesToEffect value="Human">
         <!--List of species flags that this reaction broadcaster should broadcast to.  Valid entries are Human, Horse, Cat, Dog, LittleDog or a comma separated list of several of these.-->
       </SpeciesToEffect>
-      <ReactorCouldSeeCheck value="False">
+      <ReactorCouldSeeCheck value="True">
         <!--Specifies whether or not the broadcaster only effects Sims which pass a "could-see" check to the broadcasting object (i.e., they are not in their frontal vision cone but there are no objects between the two actors so the reactor could hypothetically see if they turned around).-->
       </ReactorCouldSeeCheck>
       <MountedSimsDoNonMountedBehavior value="False">
