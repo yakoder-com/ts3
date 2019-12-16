@@ -2,13 +2,13 @@
 <base>
   <Current_Tuning>
     <kTerrariumTuning>
-      <FillFoodCost value="15">
+      <FillFoodCost value="10">
         <!--How much it costs to fill the terrarium's food.-->
       </FillFoodCost>
-      <NumFoodServings value="8">
+      <NumFoodServings value="100">
         <!--How many times the pet can eat from a full food supply before it becomes empty.-->
       </NumFoodServings>
-      <IntervalToIncreaseDirtiness value="6">
+      <IntervalToIncreaseDirtiness value="8">
         <!--Interval, in Sim hours, at which we increase the dirty state, provided there are pets in the terrarium. Specify the dirtiness increase in the Cleanable tuning.-->
       </IntervalToIncreaseDirtiness>
       <ConeRouteAngleInFrontOfTerrarium value="1.178097">
