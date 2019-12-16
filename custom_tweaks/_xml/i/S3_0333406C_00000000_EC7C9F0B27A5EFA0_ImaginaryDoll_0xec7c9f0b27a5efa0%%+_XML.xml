@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kPlayMinutesBetweenRelationshipGain value="34">
+    <kPlayMinutesBetweenRelationshipGain value="17">
       <!--Float. How many Sim minutes between relationship gain.-->
     </kPlayMinutesBetweenRelationshipGain>
     <kPlayRelationshipGain value="2">
       <!--Float. How much relationship is gained per every kPlayMinutesBetweenRelatioshipGain minutes.-->
     </kPlayRelationshipGain>
-    <kRelationshipToddlerMax value="40">
+    <kRelationshipToddlerMax value="50">
       <!--Float. Max relationship in Toddler state.-->
     </kRelationshipToddlerMax>
     <kRelationshipMax value="100">
@@ -57,7 +57,7 @@
     <kDailyRelationshipLossDueToNeglect value="1.25">
       <!--Float. Amount of relationship lost per day with doll and imfr when neglected.-->
     </kDailyRelationshipLossDueToNeglect>
-    <kDaysBeforeRemindingPlayerToLetDollTurnLive value="2">
+    <kDaysBeforeRemindingPlayerToLetDollTurnLive value="4">
       <!--Int. Number of days between showing TNS reminding player to remove the doll from their inventory so it can turn live-->
     </kDaysBeforeRemindingPlayerToLetDollTurnLive>
   </Current_Tuning>
