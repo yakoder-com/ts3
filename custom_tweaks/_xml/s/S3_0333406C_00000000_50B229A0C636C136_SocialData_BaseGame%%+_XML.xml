@@ -15680,7 +15680,7 @@
 		<AA>
 			<AGE x="C,T,Y,A,E" y="C,T,Y,A,E" />
 			<ATREQ val="FriendlyChip,SentienceChip" />
-			<Available auto="False" udo="True" />
+			<Available auto="False" udo="False" />
 			<ProcTest key="TestInviteOver" />
 		</AA>
 		<Jazz>
