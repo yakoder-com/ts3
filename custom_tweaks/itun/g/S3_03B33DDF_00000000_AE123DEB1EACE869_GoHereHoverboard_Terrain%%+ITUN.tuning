@@ -30,7 +30,7 @@
 			<Output>
 				<Change type="Fun" advertised="5" locked="False" actual="30" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="SkillFuture" advertised="50" locked="False" actual="25" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="Energy" advertised="0" locked="False" actual="5" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Energy" advertised="0" locked="False" actual="2" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP11 - ThirdPass Tuning - Ryan Grant" LastChange="8/16/2013 3:29:50 PM" />
