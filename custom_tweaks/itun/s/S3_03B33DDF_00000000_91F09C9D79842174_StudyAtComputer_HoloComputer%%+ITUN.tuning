@@ -45,6 +45,7 @@
 				<Change type="BeInCoffeeShop" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="BeInNerdShop" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="RoleCafeteriaWaiter" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Energy" advertised="0" locked="False" actual="-2" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP11 - SecondPass Tuning - Ryan Grant" LastChange="4/22/2013 4:29:57 PM" />

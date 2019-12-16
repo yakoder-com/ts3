@@ -42,6 +42,7 @@
 				<Change type="TraitFairy" advertised="-75" locked="True" actual="-75" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="RoleCafeteriaWaiter" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="RoleLocationMerchant" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Energy" advertised="0" locked="False" actual="-2" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP11 - ThirdPass Tuning - Ryan Grant" LastChange="5/29/2013 5:42:31 PM" />

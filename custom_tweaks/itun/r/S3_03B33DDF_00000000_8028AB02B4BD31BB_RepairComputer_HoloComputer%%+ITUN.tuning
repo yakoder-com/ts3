@@ -45,6 +45,7 @@
 				<Change type="ServoBotHandiBot" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="RoleCafeteriaWaiter" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="RoleLocationMerchant" advertised="-200" locked="True" actual="-200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Energy" advertised="0" locked="False" actual="-2" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP11 - Third Pass Tuning - JoshLee" LastChange="7/17/2013 11:36:07 AM" />
