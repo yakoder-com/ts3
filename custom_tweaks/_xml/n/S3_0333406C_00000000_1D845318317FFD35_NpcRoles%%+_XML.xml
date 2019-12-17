@@ -201,7 +201,7 @@
   <RoleFillFrom>Townies</RoleFillFrom>
   <StartTime>14</StartTime>
   <EndTime>23</EndTime>
-  <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
+  <AvailableAgeSpecies>Y,A</AvailableAgeSpecies>
   <UniformMale>ambodyNPCTattoo01</UniformMale>
   <UniformFemale>afbodyNPCTattoo01</UniformFemale>
   <UniformMaleElder>embodyNPCTattoo01</UniformMaleElder>
@@ -215,7 +215,7 @@
   <RoleFillFrom>Residents</RoleFillFrom>
   <StartTime>10</StartTime>
   <EndTime>18</EndTime>
-  <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
+  <AvailableAgeSpecies>Y,A</AvailableAgeSpecies>
   <UniformMale>npcStylist_am</UniformMale>
   <UniformFemale>npcStylist_af</UniformFemale>
   <UniformMaleElder>npcStylist_em</UniformMaleElder>
@@ -233,7 +233,7 @@
   <RoleFillFrom>Townies</RoleFillFrom>
   <StartTime>0</StartTime>
   <EndTime>0</EndTime>
-  <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
+  <AvailableAgeSpecies>Y,A</AvailableAgeSpecies>
   <CanBeCelebrity>FALSE</CanBeCelebrity>
   <UseServobot>True</UseServobot>
   <UseHoverbot>True</UseHoverbot>
@@ -433,7 +433,7 @@
   <RoleFillFrom>Townies</RoleFillFrom>
   <StartTime>6</StartTime>
   <EndTime>1</EndTime>
-  <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
+  <AvailableAgeSpecies>Y,A</AvailableAgeSpecies>
   <CanBeCelebrity>FALSE</CanBeCelebrity>
   <UniformMale>am_role_barista</UniformMale>
   <UniformFemale>af_role_barista</UniformFemale>
