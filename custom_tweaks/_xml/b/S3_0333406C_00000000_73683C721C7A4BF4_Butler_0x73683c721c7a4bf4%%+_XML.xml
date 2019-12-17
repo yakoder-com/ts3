@@ -2,10 +2,10 @@
 <base>
   <Current_Tuning>
     <kServiceTuning>
-      <kMaxNumNPCsInPool value="1">
+      <kMaxNumNPCsInPool value="4">
         <!--Max num NPCs at once in service-->
       </kMaxNumNPCsInPool>
-      <kCost value="1200">
+      <kCost value="1500">
         <!--Cost of service-->
       </kCost>
       <kIsEmergencyService value="False">
@@ -42,7 +42,7 @@
     <kChanceGetGoodAdviceMoodlet value="75">
       <!--Chance you get the good advice moodlet when asking for advice from the butler-->
     </kChanceGetGoodAdviceMoodlet>
-    <kDelayBeforeArriving value="0.75">
+    <kDelayBeforeArriving value="0.5">
       <!--Length of time (in hours) that the butler waits before routing to lot-->
     </kDelayBeforeArriving>
   </Current_Tuning>
