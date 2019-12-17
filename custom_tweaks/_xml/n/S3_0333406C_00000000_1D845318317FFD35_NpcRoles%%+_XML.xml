@@ -73,18 +73,18 @@
 <RoleData>
   <WorldName>StarlightShores</WorldName>
   <RoleType>Tourist</RoleType>
-  <NumInMinSpec>3</NumInMinSpec>
-  <NumInMidSpec>8</NumInMidSpec>
-  <NumInMaxSpec>15</NumInMaxSpec>
+  <NumInMinSpec>1</NumInMinSpec>
+  <NumInMidSpec>4</NumInMidSpec>
+  <NumInMaxSpec>10</NumInMaxSpec>
   <StartTime>14</StartTime>
   <EndTime>3</EndTime>
  </RoleData>
 <RoleData>
   <WorldName>MoonlightFalls</WorldName>
   <RoleType>Tourist</RoleType>
-  <NumInMinSpec>3</NumInMinSpec>
-  <NumInMidSpec>10</NumInMidSpec>
-  <NumInMaxSpec>18</NumInMaxSpec>
+  <NumInMinSpec>1</NumInMinSpec>
+  <NumInMidSpec>4</NumInMidSpec>
+  <NumInMaxSpec>10</NumInMaxSpec>
   <StartTime>14</StartTime>
   <EndTime>3</EndTime>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
@@ -310,8 +310,8 @@
   <WorldType>Downtown</WorldType>
   <RoleType>Deer</RoleType>
   <NumInMinSpec>0</NumInMinSpec>
-  <NumInMidSpec>0</NumInMidSpec>
-  <NumInMaxSpec>0</NumInMaxSpec>
+  <NumInMidSpec>1</NumInMidSpec>
+  <NumInMaxSpec>2</NumInMaxSpec>
  </RoleData>
 <RoleData>
   <WorldName>AppaloosaPlains</WorldName>
@@ -333,9 +333,9 @@
   <MotivesAdded>RoleRaccoon</MotivesAdded>
   <MotivesToFreeze>Bladder, Hygiene, Social</MotivesToFreeze>
   <RoleFillFrom>CustomCreatedSim</RoleFillFrom>
-  <NumInMinSpec>1</NumInMinSpec>
-  <NumInMidSpec>1</NumInMidSpec>
-  <NumInMaxSpec>1</NumInMaxSpec>
+  <NumInMinSpec>0</NumInMinSpec>
+  <NumInMidSpec>0</NumInMidSpec>
+  <NumInMaxSpec>0</NumInMaxSpec>
   <StartTime>0</StartTime>
   <EndTime>0</EndTime>
   <AvailableAgeSpecies>AR</AvailableAgeSpecies>
