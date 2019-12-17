@@ -7,10 +7,10 @@
     <kMaxViewDistance value="20">
       <!--Range:  0 - ?  Description:  Max view distance-->
     </kMaxViewDistance>
-    <kBillReductionPercentage value="0.08">
+    <kBillReductionPercentage value="0.05">
       <!--Range:  0 - 1  Description:  Percent reduction of bills.  We only use the upgrade or the normal.  They do not work together. (.05 will reduce your total bills by 5%)-->
     </kBillReductionPercentage>
-    <kUpgradeBillReductionPercentage value="0.12">
+    <kUpgradeBillReductionPercentage value="0.10">
       <!--Range:  0 - 1  Description:  Percent reduction of bills if this object is upgrade.  We only use the upgrade or the normal.  They do not work together. (.05 will reduce your total bills by 5%)-->
     </kUpgradeBillReductionPercentage>
     <kUpgradeMoreEfficentTuning>
