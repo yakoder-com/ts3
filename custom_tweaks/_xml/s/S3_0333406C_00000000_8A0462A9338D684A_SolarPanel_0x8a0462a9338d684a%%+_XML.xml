@@ -7,27 +7,27 @@
     <kMaxViewDistance value="3">
       <!--Range:  0 - ?  Description:  Max view distance-->
     </kMaxViewDistance>
-    <kBillReductionPercentage value="0.02">
+    <kBillReductionPercentage value="0.025">
       <!--Range:  0 - 1  Description:  Percent reduction of bills.  We only use the upgrade or the normal.  They do not work together. (.05 will reduce your total bills by 5%)-->
     </kBillReductionPercentage>
-    <kUpgradeBillReductionPercentage value="0.03">
+    <kUpgradeBillReductionPercentage value="0.05">
       <!--Range:  0 - 1  Description:  Percent reduction of bills if this object is upgrade.  We only use the upgrade or the normal.  They do not work together. (.05 will reduce your total bills by 5%)-->
     </kUpgradeBillReductionPercentage>
     <kUpgradeMoreEfficentTuning>
-      <UpgradeTime value="180">
+      <UpgradeTime value="90">
         <!--The amount of time it takes to do the upgrade in minutes-->
       </UpgradeTime>
       <SkillGainRate value="3600">
         <!--Skill points gained when for one upgrade.  We figure out your progress from 0-1 and multiply by this to give you skill points.-->
       </SkillGainRate>
-      <BadFailureChance value="20">
+      <BadFailureChance value="0">
         <!--Range: 0 to 100 float, The chance IF a regular failure occurs, that it is a bad failure-->
       </BadFailureChance>
       <ShouldShockInPuddle value="False">
         <!--Set to True if the object should shock the Sim if sim is standing in a puddle during upgrade.  False otherwise-->
       </ShouldShockInPuddle>
     </kUpgradeMoreEfficentTuning>
-    <kMaxSolarPanelNumber value="10">
+    <kMaxSolarPanelNumber value="20">
       <!--Range:  0 - 1  Description:  Number of windmills that can contribute to bill reduction.-->
     </kMaxSolarPanelNumber>
   </Current_Tuning>

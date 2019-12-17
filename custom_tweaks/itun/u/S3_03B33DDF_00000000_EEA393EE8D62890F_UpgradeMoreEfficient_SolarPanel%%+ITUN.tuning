@@ -26,6 +26,7 @@
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
+				<Change type="TraitEnvironmentallyConscious" advertised="300" locked="True" actual="300" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" />
