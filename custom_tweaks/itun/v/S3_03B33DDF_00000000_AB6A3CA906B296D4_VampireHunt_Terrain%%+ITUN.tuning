@@ -29,7 +29,7 @@
 			<Output>
 				<Change type="Hunger" advertised="50" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="Fun" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="Evil" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitEvil" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="VampireThirst" advertised="100" locked="False" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitVampire" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
