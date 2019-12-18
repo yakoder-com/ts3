@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <base>
-	<Interaction name="Sims3.Gameplay.Objects.CookingObjects.PicnicBasket+CleanUp+Definition" />
-	<Object name="Sims3.Gameplay.Objects.CookingObjects.PicnicBasket" />
+	<Interaction name="Sims3.Gameplay.Objects.CookingObjects.FoodTray_CleanUp+Definition" />
+	<Object name="Sims3.Gameplay.Objects.CookingObjects.FoodTray" />
 	<CodeVersion name="BaseGame" considerCodeVersion="False" />
 	<Current_Tuning>
 		<Disallow DisallowAutonomous="False" DisallowUserDirected="False" DisallowPlayerSim="False" />
@@ -18,26 +18,29 @@
 			<Room AllowInTombRoomAutonomous="False" AllowEvenIfNotAllowedInRoomAutonomous="False" />
 			<Misc DisallowedIfPregnant="False" DisallowedFromInventory="False" />
 		</BaseAvailability>
+		<Check type="InappropriateForVisitor" value="1.5" />
 		<Check type="All" value="0" />
-		<Tradeoff name="CleanUp">
-			<Localization autoGenerate="True" />
+		<Tradeoff name="FoodTray_CleanUp">
+			<Localization autoGenerate="False" />
 			<Time value="1" addRoute="True" />
 			<Exit funExit="False" stressExit="False" interruptible="False" />
 			<RouteLeadIn allowed="True" />
 			<AskJoinInteraction joinable="False" />
 			<AllowAutonomousReinforcement allowPraise="False" allowScold="False" />
-			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
+			<ScoringFunction alwaysChooseBest="True" name="CleaningScoringFunction" specificCommodity="None" />
 			<ActionTopic name="Thank For Cleaning" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="Fun" advertised="-10" locked="True" actual="-10" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Dirtiness" advertised="10" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitNeat" advertised="100" locked="True" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 				<Change type="TraitPerfectionist" advertised="100" locked="True" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
-				<Change type="BeMaid" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="BeButler" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="BeBonehilda" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="ServoBotCleaner" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeMaid" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeButler" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BabysitterClean" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeBonehilda" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeResortMaintenance" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="ServoBotCleaner" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
-	<Notes Notes="" DesignerNotes="EP11 - First Pass - Chris" LastChange="6/14/2013 5:58:04 PM" />
+	<Notes Notes="" DesignerNotes="EP11 - First Pass - Chris" LastChange="6/14/2013 6:02:35 PM" />
 	</Current_Tuning>
 </base>
