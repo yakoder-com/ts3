@@ -34,11 +34,11 @@
 				<Change type="Dirtiness" advertised="30" locked="False" actual="0" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitNeat" advertised="100" locked="True" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 				<Change type="TraitPerfectionist" advertised="100" locked="True" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
-				<Change type="BeMaid" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="BeButler" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="BeBonehilda" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="BeResortMaintenance" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="ServoBotCleaner" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeMaid" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeButler" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeBonehilda" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeResortMaintenance" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="ServoBotCleaner" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP11 - First Pass Tuning - Joshlee" LastChange="7/23/2013 4:46:33 PM" />

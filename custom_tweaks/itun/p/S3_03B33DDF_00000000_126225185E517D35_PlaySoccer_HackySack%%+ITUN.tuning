@@ -30,7 +30,7 @@
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="TraitInfluenceSocialite" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitInfluenceSocialite" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="Fun" advertised="20" locked="False" actual="40" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="Energy" advertised="0" locked="False" actual="-20" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="SkillInfluenceSocialite" advertised="0" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />

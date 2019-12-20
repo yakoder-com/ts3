@@ -33,12 +33,12 @@
 				<Change type="TraitFamilyOriented" advertised="100" locked="True" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 				<Change type="TraitPerfectionist" advertised="100" locked="True" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 				<Change type="Dirtiness" advertised="30" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="BeMaid" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="BeButler" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeMaid" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeButler" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="BeInLaundromat" advertised="100" locked="True" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitEnvironmentallyConscious" advertised="250" locked="True" actual="250" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
-				<Change type="BeBonehilda" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="ServoBotCleaner" advertised="200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="BeBonehilda" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="ServoBotCleaner" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="Ep11 - First Tuning Pass - JoshLee" LastChange="9/4/2013 2:12:13 PM" />
