@@ -2,85 +2,111 @@
 <base>
   <Current_Tuning>
     <kRabbitHoleTuning>
-      <EnvironmentMotiveScore value="0" />
-      <MapTagFilterType value="None">
+      <EnvironmentMotiveScore value="75" />
+      <MapTagFilterType value="Work">
         <!--Filter type for this maptag- should be some combination of work and activities. See MapTagFilterType in MapTagController.cs.-->
       </MapTagFilterType>
-      <CameraPitchOnRabbithole value="-35">
+      <CameraPitchOnRabbithole value="-60">
         <!--Sets the camera pitch whenever this rabbithole is the target of a lerp-->
       </CameraPitchOnRabbithole>
-      <CameraZoomOnRabbithole value="40">
+      <CameraZoomOnRabbithole value="100">
         <!--Sets the camera xoom whenever this rabbithole is the target of a lerp-->
       </CameraZoomOnRabbithole>
-      <kInvestCost value="0">
-        <!--Description:  How much it costs to invest part of the rabbithole-->
-      </kInvestCost>
-      <kBuyoutCost value="0">
-        <!--Description:  How much it costs to buy out the rabbithole-->
-      </kBuyoutCost>
-      <kInvestmentReturnPerWeek value="0">
-        <!--Description:  Amount of money per week that this rabbithole makes at the investment level-->
-      </kInvestmentReturnPerWeek>
-      <kBuyoutReturnPerWeek value="0">
-        <!--Description:  Money the rabbithole makes per week when you buy it out-->
-      </kBuyoutReturnPerWeek>
-      <kInvestmentMaxHoldingAmount value="0">
-        <!--Description:  Max amount the rabbithole can hold (from investments) when youre at the investment level-->
-      </kInvestmentMaxHoldingAmount>
-      <kBuyoutMaxHoldingAmount value="0">
-        <!--Description:  Max amount the rabbithole can hold (from investments) when it's bought out-->
-      </kBuyoutMaxHoldingAmount>
-      <kCanInvestHere value="False">
+      <kCanInvestHere value="True">
         <!--Description:  Whether or not you can invest in this rabbithole, if it's false all the other investing tuning is ignored-->
       </kCanInvestHere>
-      <kNpcExitFreq value="3">
+      <kInvestCost value="200">
+        <!--Description:  How much it costs to invest part of the rabbithole-->
+      </kInvestCost>
+      <kBuyoutCost value="1000">
+        <!--Description:  How much it costs to buy out the rabbithole-->
+      </kBuyoutCost>
+      <kInvestmentReturnPerWeek value="50">
+        <!--Description:  Amount of money per week that this rabbithole makes at the investment level-->
+      </kInvestmentReturnPerWeek>
+      <kBuyoutReturnPerWeek value="200">
+        <!--Description:  Money the rabbithole makes per week when you buy it out-->
+      </kBuyoutReturnPerWeek>
+      <kInvestmentMaxHoldingAmount value="500">
+        <!--Description:  Max amount the rabbithole can hold (from investments) when youre at the investment level-->
+      </kInvestmentMaxHoldingAmount>
+      <kBuyoutMaxHoldingAmount value="3000">
+        <!--Description:  Max amount the rabbithole can hold (from investments) when it's bought out-->
+      </kBuyoutMaxHoldingAmount>
+      <kNpcExitFreq value="15">
         <!--Range:  ???  Description:  Exit frequency in minutes for NPC sims leaving this rabbit hole.-->
       </kNpcExitFreq>
-      <kNighttimeLightSunsetDelta value="24">
-        <!--Hour delta from world defined sunset at which nighttime rabbithole lights are used. 24 or greater means no visual states are used.-->
-      </kNighttimeLightSunsetDelta>
-      <kDaytimeLightSunriseDelta value="0">
+      <kDaytimeLightSunriseDelta value="5">
         <!--Hour delta from world defined sunrise at which daytime rabbithole lights are used. 24 or greater means no visual states are used.-->
       </kDaytimeLightSunriseDelta>
-      <kPreventLotPurchase value="False">
+      <kNighttimeLightSunsetDelta value="23">
+        <!--Hour delta from world defined sunset at which nighttime rabbithole lights are used. 24 or greater means no visual states are used.-->
+      </kNighttimeLightSunsetDelta>
+      <kPreventLotPurchase value="True">
         <!--if you can't purchase the lot if it has a rabbithole of this type on it-->
       </kPreventLotPurchase>
-      <kHasMaptag value="False">
+      <kHasMaptag value="True">
         <!--if it has a maptag-->
       </kHasMaptag>
       <kReplaceLotMaptag value="True">
         <!--if replaces the lot maptag-->
       </kReplaceLotMaptag>
     </kRabbitHoleTuning>
-    <kExploreMinBetweenEvents value="20">
-      <!--Explore: Minimum amount of time between events.-->
-    </kExploreMinBetweenEvents>
-    <kExploreMaxBetweenEvents value="50">
-      <!--Explore: Maximum amount of time between events.-->
-    </kExploreMaxBetweenEvents>
-    <kExploreHorrifiedMaulingChance value="25">
-      <!--Explore: Percent chance if Sim is horrified that it's from a bear mauling.-->
-    </kExploreHorrifiedMaulingChance>
-    <kExploreItemChanceRGM value="35">
-      <!--Explore: Percent chance for a random rock, gem or metal.  If the items do not add up to 100, the remaining chance will be fore a rubber duck.-->
-    </kExploreItemChanceRGM>
-    <kExploreItemChanceSeed value="35">
-      <!--Explore: Percent chance for a random seed.  If the items do not add up to 100, the remaining chance will be fore a rubber duck.-->
-    </kExploreItemChanceSeed>
-    <kExploreItemChanceBook value="20">
-      <!--Explore: Percent chance for random book.  If the items do not add up to 100, the remaining chance will be fore a rubber duck.-->
-    </kExploreItemChanceBook>
+    <kRestaurantTuning>
+      <OpenTime value="11">
+        <!--The time the restaurant opens.-->
+      </OpenTime>
+      <CloseTime value="23">
+        <!--The time the restaurant closes.-->
+      </CloseTime>
+      <EarlyBirdTime value="18">
+        <!--The time the restaurant has early bird special. Set to -1 if never.-->
+      </EarlyBirdTime>
+      <EarlyBirdDiscount value="0.8">
+        <!--Discount when eating dinner for the early bird special.-->
+      </EarlyBirdDiscount>
+      <BreakfastLunchBrunchCost value="20">
+        <!--Cost per sim of breakfast/lunch/brunch.-->
+      </BreakfastLunchBrunchCost>
+      <DinnerCost value="30">
+        <!--Cost per sim for dinner.-->
+      </DinnerCost>
+      <DessertCost value="12">
+        <!--Cost per sim for dessert.-->
+      </DessertCost>
+      <DrinksCost value="10">
+        <!--Cost per sim for drinks.-->
+      </DrinksCost>
+      <EatLength value="30">
+        <!--Eat interaction length in sim minutes.-->
+      </EatLength>
+      <DrinkLength value="20">
+        <!--Drink interaction length in sim minutes.-->
+      </DrinkLength>
+      <DessertLength value="45">
+        <!--Stay for dessert interaction length in sim minutes.-->
+      </DessertLength>
+      <MinRelationshipDiningCompanions value="15">
+        <!--Minimum amount of added relationship with people you eat with.-->
+      </MinRelationshipDiningCompanions>
+      <MaxRelationshipDiningCompanions value="25">
+        <!--Maximium amount of added relationship with people you eat with.-->
+      </MaxRelationshipDiningCompanions>
+      <ClothingStyle value="Everyday">
+        <!--Appropriate clothing style for dining at this venue.-->
+      </ClothingStyle>
+    </kRestaurantTuning>
     <kVisitRabbitHoleTuning>
       <VisitLength value="60">
         <!--Visit length in minutes.-->
       </VisitLength>
-      <VisitBoredomChanceChild value="10">
+      <VisitBoredomChanceChild value="25">
         <!--Visit chance for boredom child.-->
       </VisitBoredomChanceChild>
-      <VisitBoredomChanceTeen value="5">
+      <VisitBoredomChanceTeen value="50">
         <!--Visit chance for boredom teen.-->
       </VisitBoredomChanceTeen>
-      <VisitBoredomChanceAdult value="2">
+      <VisitBoredomChanceAdult value="10">
         <!--Visit chance for boredom adult/edler.-->
       </VisitBoredomChanceAdult>
       <VisitWooHooLength value="0">
@@ -98,9 +124,12 @@
       <VisitTourGroupLTRGain value="2">
         <!--Amount of LTR gain between people on a tour group every X minutes-->
       </VisitTourGroupLTRGain>
-      <VisitTourGroupMinutesLTR value="20">
+      <VisitTourGroupMinutesLTR value="5">
         <!--Frequency of LTR gain while on a tour group-->
       </VisitTourGroupMinutesLTR>
+      <WooHooingCommodity value="">
+        <!--Social STC after WooHooing.-->
+      </WooHooingCommodity>
       <WooHooingSTCIncrement value="0">
         <!--The STC increment after WooHooing.-->
       </WooHooingSTCIncrement>
@@ -113,27 +142,6 @@
       <WooHooingSocialDelta value="0">
         <!--The Social delta while WooHooing.-->
       </WooHooingSocialDelta>
-      <WooHooingCommodity value="">
-        <!--Social STC after WooHooing.-->
-      </WooHooingCommodity>
     </kVisitRabbitHoleTuning>
-    <kFieldTripPerformanceIncrease value="20">
-      <!--How much careerPerformace increase per hour on a field trip-->
-    </kFieldTripPerformanceIncrease>
-    <kFieldTripFunIncrease value="30">
-      <!--How much fun a sim gains per hour on a field trip-->
-    </kFieldTripFunIncrease>
-    <kGhostSpawnDelay value="10">
-      <!--Frequency in minutes of ghost spawn check-->
-    </kGhostSpawnDelay>
-    <kGhostSpawnChance value="0.1">
-      <!--chance of ghost spawn check-->
-    </kGhostSpawnChance>
-    <kFieldTripTNSPercentages value="0.33, 0.66">
-      <!--At what percentage points of the field trip should do a TNS-->
-    </kFieldTripTNSPercentages>
-    <kExploreGenieLampChance value="3">
-      <!--Explore: Percent chance if Sim find Genie Lamp.  If the items do not add up to 100, the remaining chance will be fore a rubber duck.-->
-    </kExploreGenieLampChance>
   </Current_Tuning>
 </base>

@@ -65,16 +65,16 @@
       <VisitBoredomChanceAdult value="10">
         <!--Visit chance for boredom adult/edler.-->
       </VisitBoredomChanceAdult>
-      <VisitWooHooLength value="25">
+      <VisitWooHooLength value="0">
         <!--Visit woohoo length in minutes.-->
       </VisitWooHooLength>
-      <VisitWooHooCheckForCaught value="5">
+      <VisitWooHooCheckForCaught value="1">
         <!--Visit woohoo check for being caught every X minutes.-->
       </VisitWooHooCheckForCaught>
-      <VisitWooHooChanceForCaught value="2">
+      <VisitWooHooChanceForCaught value="100">
         <!--Visit woohoo chance of being caught when 'VisitWooHooCheckForCaught' is hit.-->
       </VisitWooHooChanceForCaught>
-      <VisitTryForBabySuccessRate value="50">
+      <VisitTryForBabySuccessRate value="0">
         <!--Visit try for baby chance of success.-->
       </VisitTryForBabySuccessRate>
       <VisitTourGroupLTRGain value="2">
@@ -83,19 +83,19 @@
       <VisitTourGroupMinutesLTR value="20">
         <!--Frequency of LTR gain while on a tour group-->
       </VisitTourGroupMinutesLTR>
-      <WooHooingCommodity value="Amorous">
+      <WooHooingCommodity value="">
         <!--Social STC after WooHooing.-->
       </WooHooingCommodity>
-      <WooHooingSTCIncrement value="25">
+      <WooHooingSTCIncrement value="0">
         <!--The STC increment after WooHooing.-->
       </WooHooingSTCIncrement>
-      <WooHooingLTRIncrement value="5">
+      <WooHooingLTRIncrement value="0">
         <!--The LTR increment after WooHooing.-->
       </WooHooingLTRIncrement>
-      <WooHooingFunDelta value="80">
+      <WooHooingFunDelta value="0">
         <!--The Fun delta while WooHooing.-->
       </WooHooingFunDelta>
-      <WooHooingSocialDelta value="125">
+      <WooHooingSocialDelta value="0">
         <!--The Social delta while WooHooing.-->
       </WooHooingSocialDelta>
     </kVisitRabbitHoleTuning>

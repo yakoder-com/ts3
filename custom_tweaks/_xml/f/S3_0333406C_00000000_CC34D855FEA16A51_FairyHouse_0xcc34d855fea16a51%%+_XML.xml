@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kTryForBabySuccessChance value="50">
+    <kTryForBabySuccessChance value="0">
       <!--Range:  0 - 100  Description:  The base chance that Try for Baby is successful-->
     </kTryForBabySuccessChance>
     <kMaxOccupancy value="8" />
@@ -88,7 +88,7 @@
     <kSoundGainFxLevel value="1">
       <!--Gain value for playing party sound effects. Positive float. Range [0, 1]. Initial GPE Default 1.0f-->
     </kSoundGainFxLevel>
-    <kLTRIncreaseOnWoohoo value="5">
+    <kLTRIncreaseOnWoohoo value="0">
       <!--Positive number that will be added to LTR on Woohoo interactions-->
     </kLTRIncreaseOnWoohoo>
   </Current_Tuning>
