@@ -16622,7 +16622,7 @@
   <Icon>w_goto_a_lounge_ep7</Icon>
   <MapTagIcon>hud_mt_i_lounge_ep7</MapTagIcon>
   <OneShotMotives>Social,Fun</OneShotMotives>
-  <ContinuousMotive>None</ContinuousMotive>
+  <ContinuousMotive>BeInCocktailLounge</ContinuousMotive>
   <HowLongSimsWaitOutsideBeforeEntering>0</HowLongSimsWaitOutsideBeforeEntering>
   <MinLength>1</MinLength>
   <MaxLength>3</MaxLength>
