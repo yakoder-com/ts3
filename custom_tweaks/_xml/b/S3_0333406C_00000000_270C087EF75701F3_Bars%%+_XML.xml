@@ -3745,6 +3745,111 @@
 <Venues>
   <AvailableDrinks>StarrySea</AvailableDrinks>
  </Venues>
+<Venues>
+  <Venue>HiddenVenue</Venue>
+  <PriceMultiplier>3.1</PriceMultiplier>
+  <PriceCapMultiplier>12</PriceCapMultiplier>
+  <ChanceOfOrderingDataDrink>0.15</ChanceOfOrderingDataDrink>
+  <ChanceOfOrderingMoodDrink>0.5</ChanceOfOrderingMoodDrink>
+  <AvailableDrinks>LiquidCourage</AvailableDrinks>
+  <AvailableFood>AutumnSalad</AvailableFood>
+  <IsPizzaAvailable>False</IsPizzaAvailable>
+  <FoodQualityMinimum>VeryNice</FoodQualityMinimum>
+  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
+  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
+  <QualityMinimum>VeryNice</QualityMinimum>
+  <QualityMaximum>Perfect</QualityMaximum>
+  <HourlyPay>128</HourlyPay>
+  <SkillMinimum>8</SkillMinimum>
+  <SkillAnimationMinimum>7</SkillAnimationMinimum>
+  <SkillAnimationMaximum>10</SkillAnimationMaximum>
+  <BartenderUniform>bartenderCocktailCeleb</BartenderUniform>
+  <PianistUniform>NPCPianistHighEnd</PianistUniform>
+  <UniformProductVersion>EP3</UniformProductVersion>
+ </Venues>
+<Venues>
+  <AvailableDrinks>FlamingWaylon</AvailableDrinks>
+  <AvailableFood>CheesePlate</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>HogansDeepFriedJuice</AvailableDrinks>
+  <AvailableFood>OlivePlatter</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BadReferee</AvailableDrinks>
+  <AvailableFood>ShrimpCocktail</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>WinningStreak</AvailableDrinks>
+  <AvailableFood>Crepes</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>NaughtyCheerleader</AvailableDrinks>
+  <AvailableFood>FrogsLegs</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>CherryCasanova</AvailableDrinks>
+  <AvailableFood>GrilledSalmon</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>StomachChurner</AvailableDrinks>
+  <AvailableFood>AutumnSalad</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>SaucySicilian</AvailableDrinks>
+  <AvailableFood>Ratatouille</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>Shillelagh</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>TombstoneTipple</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BigMistake</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>MorcubusMolotov</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>Kneecapper</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>LlamaHead</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BabyCandy</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BlackMood</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>FallenAngel</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>DeepDespair</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>DeathflowerDrops</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>RedWater</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>SanguineSlush</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>PlasmaPunch</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>Rehydrant</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>EctoplasmicResidue</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>DissolvedSand</AvailableDrinks>
+ </Venues>
 <Ingredients>
   <Key></Key>
   <NameModifier></NameModifier>
