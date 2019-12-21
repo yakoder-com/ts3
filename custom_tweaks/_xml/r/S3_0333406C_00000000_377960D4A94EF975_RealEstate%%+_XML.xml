@@ -331,10 +331,4 @@
   <WeeklyIncomes>0,0,0</WeeklyIncomes>
   <UpgradeValues>0,0,0</UpgradeValues>
  </Venues>
-<Venues>
-  <VenueType>kEP6_HiddenVenue</VenueType>
-  <BaseCost>55000</BaseCost>
-  <WeeklyIncomes>6500,17000,30000</WeeklyIncomes>
-  <UpgradeValues>55000,95000,175000</UpgradeValues>
- </Venues>
 </RealEstate>
