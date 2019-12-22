@@ -748,7 +748,7 @@
   <PriceMultiplier>1</PriceMultiplier>
   <PriceCapMultiplier>4</PriceCapMultiplier>
   <HourOpen>11</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <HappyHourStart>17</HappyHourStart>
   <HappyHourEnd>19</HappyHourEnd>
   <HappyHourPriceModifier>0.75</HappyHourPriceModifier>
@@ -797,7 +797,7 @@
   <PriceMultiplier>0.9</PriceMultiplier>
   <PriceCapMultiplier>3</PriceCapMultiplier>
   <HourOpen>11</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <HappyHourStart>19</HappyHourStart>
   <HappyHourEnd>21</HappyHourEnd>
   <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
@@ -839,7 +839,7 @@
   <PriceMultiplier>1</PriceMultiplier>
   <PriceCapMultiplier>3</PriceCapMultiplier>
   <HourOpen>11</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <HappyHourStart>18</HappyHourStart>
   <HappyHourEnd>20</HappyHourEnd>
   <HappyHourPriceModifier>0.5</HappyHourPriceModifier>
@@ -881,7 +881,7 @@
   <PriceMultiplier>3</PriceMultiplier>
   <PriceCapMultiplier>10</PriceCapMultiplier>
   <HourOpen>14</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.4</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>FengShuiFountain</AvailableDrinks>
@@ -924,7 +924,7 @@
   <PriceMultiplier>3.1</PriceMultiplier>
   <PriceCapMultiplier>12</PriceCapMultiplier>
   <HourOpen>14</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.15</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.5</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>LiquidCourage</AvailableDrinks>
@@ -981,7 +981,7 @@
   <PriceMultiplier>3.5</PriceMultiplier>
   <PriceCapMultiplier>14</PriceCapMultiplier>
   <HourOpen>14</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.2</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.6</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>AristocraticGimlet</AvailableDrinks>
@@ -1024,7 +1024,7 @@
   <PriceMultiplier>2</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
   <HourOpen>17</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.2</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>KTHXBYE</AvailableDrinks>
@@ -1065,7 +1065,7 @@
   <PriceMultiplier>2.2</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
   <HourOpen>17</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.25</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>FlamingFlotsam</AvailableDrinks>
@@ -1107,7 +1107,7 @@
   <PriceMultiplier>2</PriceMultiplier>
   <PriceCapMultiplier>7</PriceCapMultiplier>
   <HourOpen>17</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.25</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>PinkBunny</AvailableDrinks>
@@ -1302,7 +1302,7 @@
   <PriceMultiplier>0.9</PriceMultiplier>
   <PriceCapMultiplier>3</PriceCapMultiplier>
   <HourOpen>10</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <HappyHourStart>19</HappyHourStart>
   <HappyHourEnd>24</HappyHourEnd>
   <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
@@ -1491,7 +1491,7 @@
   <PriceMultiplier>1.25</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
   <HourOpen>10</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <HappyHourStart>19</HappyHourStart>
   <HappyHourEnd>24</HappyHourEnd>
   <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
@@ -3040,7 +3040,7 @@
   <PriceMultiplier>1.35</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
   <HourOpen>8</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <HappyHourStart>14</HappyHourStart>
   <HappyHourEnd>18</HappyHourEnd>
   <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
@@ -3107,7 +3107,7 @@
   <PriceMultiplier>1</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
   <HourOpen>10</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <HappyHourStart>19</HappyHourStart>
   <HappyHourEnd>1</HappyHourEnd>
   <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
@@ -3703,7 +3703,7 @@
   <PriceMultiplier>1.25</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
   <HourOpen>9</HourOpen>
-  <HourClose>6</HourClose>
+  <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.5</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>HogansDeepFriedJuice</AvailableDrinks>
