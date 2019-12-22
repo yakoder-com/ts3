@@ -923,12 +923,14 @@
   <Venue>CocktailLoungeVampire</Venue>
   <PriceMultiplier>3.1</PriceMultiplier>
   <PriceCapMultiplier>12</PriceCapMultiplier>
-  <HourOpen>14</HourOpen>
-  <HourClose>4</HourClose>
+  <HappyHourStart>20</HappyHourStart>
+  <HappyHourEnd>24</HappyHourEnd>
+  <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
   <ChanceOfOrderingDataDrink>0.15</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.5</ChanceOfOrderingMoodDrink>
   <AvailableDrinks>LiquidCourage</AvailableDrinks>
   <AvailableFood>AutumnSalad</AvailableFood>
+  <IsPizzaAvailable>False</IsPizzaAvailable>
   <FoodQualityMinimum>VeryNice</FoodQualityMinimum>
   <FoodQualityMaximum>Perfect</FoodQualityMaximum>
   <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
@@ -939,24 +941,99 @@
   <SkillAnimationMinimum>7</SkillAnimationMinimum>
   <SkillAnimationMaximum>10</SkillAnimationMaximum>
   <BartenderUniform>bartenderCocktailVamp</BartenderUniform>
-  <PianistUniform>NPCPianistLowEnd</PianistUniform>
+  <PianistUniform>NPCPianistHighEnd</PianistUniform>
   <UniformProductVersion>EP3</UniformProductVersion>
  </Venues>
 <Venues>
-  <AvailableDrinks>BlackMood</AvailableDrinks>
-  <AvailableFood>Ratatouille</AvailableFood>
+  <AvailableDrinks>KozuiKooler</AvailableDrinks>
+  <AvailableFood>HotWings</AvailableFood>
  </Venues>
 <Venues>
-  <AvailableDrinks>FallenAngel</AvailableDrinks>
-  <AvailableFood>CheesePlate</AvailableFood>
- </Venues>
-<Venues>
-  <AvailableDrinks>DeepDespair</AvailableDrinks>
+  <AvailableDrinks>ZenZinger</AvailableDrinks>
   <AvailableFood>OlivePlatter</AvailableFood>
  </Venues>
 <Venues>
-  <AvailableDrinks>DeathflowerDrops</AvailableDrinks>
+  <AvailableDrinks>KyotoMyHeart</AvailableDrinks>
   <AvailableFood>ShrimpCocktail</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>DeepDespair</AvailableDrinks>
+  <AvailableFood>Burrito</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>AristocraticGimlet</AvailableDrinks>
+  <AvailableFood>Taco</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>KTHXBYE</AvailableDrinks>
+  <AvailableFood>BloodFruitChowder</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BuckwheatShooter</AvailableDrinks>
+  <AvailableFood>ClamChowder</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>FlamingWaylon</AvailableDrinks>
+  <AvailableFood>CheesePlate</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>WinningStreak</AvailableDrinks>
+  <AvailableFood>Crepes</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>NaughtyCheerleader</AvailableDrinks>
+  <AvailableFood>FrogsLegs</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>CherryCasanova</AvailableDrinks>
+  <AvailableFood>GrilledSalmon</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>StomachChurner</AvailableDrinks>
+  <AvailableFood>AutumnSalad</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>SaucySicilian</AvailableDrinks>
+  <AvailableFood>Ratatouille</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>TombstoneTipple</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BigMistake</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>MorcubusMolotov</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>SapphireSamurai</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>HogansDeepFriedJuice</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BadReferee</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>Shillelagh</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>Kneecapper</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>LlamaHead</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BabyCandy</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BlackMood</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>FallenAngel</AvailableDrinks>
+ </Venues>
+<Venues>
+  <AvailableDrinks>DeathflowerDrops</AvailableDrinks>
  </Venues>
 <Venues>
   <AvailableDrinks>RedWater</AvailableDrinks>
@@ -2841,28 +2918,41 @@
  </Venues>
 <Venues>
   <Venue>RebelHangout</Venue>
-  <PriceMultiplier>3.1</PriceMultiplier>
-  <PriceCapMultiplier>12</PriceCapMultiplier>
-  <HappyHourStart>20</HappyHourStart>
-  <HappyHourEnd>24</HappyHourEnd>
+  <PriceMultiplier>1.25</PriceMultiplier>
+  <PriceCapMultiplier>6</PriceCapMultiplier>
+  <HappyHourStart>17</HappyHourStart>
+  <HappyHourEnd>21</HappyHourEnd>
   <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
-  <ChanceOfOrderingDataDrink>0.15</ChanceOfOrderingDataDrink>
-  <ChanceOfOrderingMoodDrink>0.5</ChanceOfOrderingMoodDrink>
-  <AvailableDrinks>LiquidCourage</AvailableDrinks>
-  <AvailableFood>AutumnSalad</AvailableFood>
+  <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
+  <ChanceOfOrderingMoodDrink>0.2</ChanceOfOrderingMoodDrink>
+  <AvailableDrinks>FlamingWaylon</AvailableDrinks>
+  <AvailableFood>Yoghurt</AvailableFood>
   <IsPizzaAvailable>False</IsPizzaAvailable>
-  <FoodQualityMinimum>VeryNice</FoodQualityMinimum>
-  <FoodQualityMaximum>Perfect</FoodQualityMaximum>
-  <DrinkQualityMaximum>Perfect</DrinkQualityMaximum>
+  <FoodQualityMinimum>Neutral</FoodQualityMinimum>
+  <FoodQualityMaximum>Outstanding</FoodQualityMaximum>
+  <DrinkQualityMaximum>Outstanding</DrinkQualityMaximum>
   <QualityMinimum>VeryNice</QualityMinimum>
-  <QualityMaximum>Perfect</QualityMaximum>
-  <HourlyPay>128</HourlyPay>
-  <SkillMinimum>8</SkillMinimum>
-  <SkillAnimationMinimum>7</SkillAnimationMinimum>
+  <QualityMaximum>Outstanding</QualityMaximum>
+  <HourlyPay>27</HourlyPay>
+  <SkillMinimum>6</SkillMinimum>
+  <SkillAnimationMinimum>4</SkillAnimationMinimum>
   <SkillAnimationMaximum>10</SkillAnimationMaximum>
-  <BartenderUniform>bartenderCocktailCeleb</BartenderUniform>
-  <PianistUniform>NPCPianistHighEnd</PianistUniform>
-  <UniformProductVersion>EP3</UniformProductVersion>
+ </Venues>
+<Venues>
+  <AvailableDrinks>TombstoneTipple</AvailableDrinks>
+  <AvailableFood>EP9Bagel</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>BigMistake</AvailableDrinks>
+  <AvailableFood>EP9Muffin</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>MorcubusMolotov</AvailableDrinks>
+  <AvailableFood>EP9SnackPopcorn</AvailableFood>
+ </Venues>
+<Venues>
+  <AvailableDrinks>SapphireSamurai</AvailableDrinks>
+  <AvailableFood>EP9SnackCurryWurst</AvailableFood>
  </Venues>
 <Venues>
   <AvailableDrinks>KozuiKooler</AvailableDrinks>
@@ -2891,87 +2981,6 @@
 <Venues>
   <AvailableDrinks>BuckwheatShooter</AvailableDrinks>
   <AvailableFood>ClamChowder</AvailableFood>
- </Venues>
-<Venues>
-  <AvailableDrinks>FlamingWaylon</AvailableDrinks>
-  <AvailableFood>CheesePlate</AvailableFood>
- </Venues>
-<Venues>
-  <AvailableDrinks>WinningStreak</AvailableDrinks>
-  <AvailableFood>Crepes</AvailableFood>
- </Venues>
-<Venues>
-  <AvailableDrinks>NaughtyCheerleader</AvailableDrinks>
-  <AvailableFood>FrogsLegs</AvailableFood>
- </Venues>
-<Venues>
-  <AvailableDrinks>CherryCasanova</AvailableDrinks>
-  <AvailableFood>GrilledSalmon</AvailableFood>
- </Venues>
-<Venues>
-  <AvailableDrinks>StomachChurner</AvailableDrinks>
-  <AvailableFood>AutumnSalad</AvailableFood>
- </Venues>
-<Venues>
-  <AvailableDrinks>SaucySicilian</AvailableDrinks>
-  <AvailableFood>Ratatouille</AvailableFood>
- </Venues>
-<Venues>
-  <AvailableDrinks>TombstoneTipple</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>BigMistake</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>MorcubusMolotov</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>SapphireSamurai</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>HogansDeepFriedJuice</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>BadReferee</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>Shillelagh</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>Kneecapper</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>LlamaHead</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>BabyCandy</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>BlackMood</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>FallenAngel</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>DeathflowerDrops</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>RedWater</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>SanguineSlush</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>PlasmaPunch</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>Rehydrant</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>EctoplasmicResidue</AvailableDrinks>
- </Venues>
-<Venues>
-  <AvailableDrinks>DissolvedSand</AvailableDrinks>
  </Venues>
 <Venues>
   <Venue>UniversityHangout</Venue>
