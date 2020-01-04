@@ -923,8 +923,10 @@
   <Venue>CocktailLoungeVampire</Venue>
   <PriceMultiplier>3.1</PriceMultiplier>
   <PriceCapMultiplier>12</PriceCapMultiplier>
-  <HappyHourStart>20</HappyHourStart>
-  <HappyHourEnd>24</HappyHourEnd>
+  <HourOpen>14</HourOpen>
+  <HourClose>4</HourClose>
+  <HappyHourStart>18</HappyHourStart>
+  <HappyHourEnd>20</HappyHourEnd>
   <HappyHourPriceModifier>0.6</HappyHourPriceModifier>
   <ChanceOfOrderingDataDrink>0.15</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.5</ChanceOfOrderingMoodDrink>
@@ -1100,7 +1102,7 @@
   <Venue>DanceClubRave</Venue>
   <PriceMultiplier>2</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
-  <HourOpen>17</HourOpen>
+  <HourOpen>16</HourOpen>
   <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.2</ChanceOfOrderingMoodDrink>
@@ -1141,7 +1143,7 @@
   <Venue>DanceClubPool</Venue>
   <PriceMultiplier>2.2</PriceMultiplier>
   <PriceCapMultiplier>6</PriceCapMultiplier>
-  <HourOpen>17</HourOpen>
+  <HourOpen>16</HourOpen>
   <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.25</ChanceOfOrderingMoodDrink>
@@ -1183,7 +1185,7 @@
   <Venue>DanceClubLiveMusic</Venue>
   <PriceMultiplier>2</PriceMultiplier>
   <PriceCapMultiplier>7</PriceCapMultiplier>
-  <HourOpen>17</HourOpen>
+  <HourOpen>16</HourOpen>
   <HourClose>4</HourClose>
   <ChanceOfOrderingDataDrink>0.1</ChanceOfOrderingDataDrink>
   <ChanceOfOrderingMoodDrink>0.25</ChanceOfOrderingMoodDrink>
