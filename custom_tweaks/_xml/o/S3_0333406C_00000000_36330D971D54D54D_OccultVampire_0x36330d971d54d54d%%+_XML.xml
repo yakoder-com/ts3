@@ -81,10 +81,10 @@
     <kBuffsToRemoveOnRemoval value="HeatingUp, TooMuchSun, SanguineSnack, Sated, VampiricVigor, MadlyThirsty, Thirsty, VeryThirsty">
       <!--Buffs to remove when a vampire returns to normal Sim status.-->
     </kBuffsToRemoveOnRemoval>
-    <kHypnoticGazeSuccessChance value="60">
+    <kHypnoticGazeSuccessChance value="90">
       <!--Range: 0-100-->
     </kHypnoticGazeSuccessChance>
-    <kHypnoticGazeBackfireChance value="30">
+    <kHypnoticGazeBackfireChance value="0">
       <!--Range: 0-100.  If Hypnotic Gaze fails, the Vampire has this percent chance of getting Dazed-->
     </kHypnoticGazeBackfireChance>
     <kLifetimeTurnsRequired value="5">
