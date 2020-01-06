@@ -10,7 +10,7 @@
     <kDelayBeforeArriving value="0">
       <!--Length of time (in hours) that deliverer waits before routing to lot-->
     </kDelayBeforeArriving>
-    <kDelayBeforeLeaving value="0">
+    <kDelayBeforeLeaving value="0.01">
       <!--Length of time (in hours) that deliverer waits before leaving the lot, after his work is done-->
     </kDelayBeforeLeaving>
     <kExtraWaitTimeAfterSocializing value="0.15">
@@ -33,7 +33,7 @@
         <!--Whether or not the service always tries to send the same NPC to a specific household-->
       </kAlwaysTryToSendSameSim>
     </kServiceTuning>
-    <kChanceOfMailmanBeingAngry value="0.1">
+    <kChanceOfMailmanBeingAngry value="0.2">
       <!--Make the mailman angry. Positive float. Range [0, 1]. Initial GPE default 0.2f-->
     </kChanceOfMailmanBeingAngry>
   </Current_Tuning>
