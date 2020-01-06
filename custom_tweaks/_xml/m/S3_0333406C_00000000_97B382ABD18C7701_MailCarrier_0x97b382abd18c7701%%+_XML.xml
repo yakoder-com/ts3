@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kStartTime value="7">
+    <kStartTime value="10">
       <!--Start time for mail carrier to arrive (in hours)-->
     </kStartTime>
-    <kEndTime value="8">
+    <kEndTime value="11">
       <!--End time for mail carrier to leave (in hours)-->
     </kEndTime>
-    <kDelayBeforeArriving value=".1">
+    <kDelayBeforeArriving value="0">
       <!--Length of time (in hours) that deliverer waits before routing to lot-->
     </kDelayBeforeArriving>
-    <kDelayBeforeLeaving value="0.05">
+    <kDelayBeforeLeaving value="0">
       <!--Length of time (in hours) that deliverer waits before leaving the lot, after his work is done-->
     </kDelayBeforeLeaving>
     <kExtraWaitTimeAfterSocializing value="0.15">

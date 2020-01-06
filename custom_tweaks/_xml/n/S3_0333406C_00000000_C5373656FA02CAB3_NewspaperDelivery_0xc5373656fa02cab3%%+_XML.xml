@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kDelayBeforeArriving value=".1">
+    <kDelayBeforeArriving value="0">
       <!--Length of time (in hours) that deliverer waits before routing to lot-->
     </kDelayBeforeArriving>
-    <kDelayBeforeLeaving value=".05">
+    <kDelayBeforeLeaving value="0">
       <!--Length of time (in hours) that deliverer waits before leaving the lot, after his work is done-->
     </kDelayBeforeLeaving>
     <kStartTime value="6">
@@ -20,7 +20,7 @@
       <kMaxNumNPCsInPool value="2">
         <!--Max num NPCs at once in service-->
       </kMaxNumNPCsInPool>
-      <kCost value="0">
+      <kCost value="5">
         <!--Cost of service-->
       </kCost>
       <kIsEmergencyService value="False">

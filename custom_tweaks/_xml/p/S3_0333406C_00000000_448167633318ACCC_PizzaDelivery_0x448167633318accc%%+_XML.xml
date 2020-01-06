@@ -7,7 +7,7 @@
     <kDelayBeforeArriving value="0.1">
       <!--Length of time (in hours) that pizza delivery guy waits before routing to lot-->
     </kDelayBeforeArriving>
-    <kDelayBeforeLeaving value=".15">
+    <kDelayBeforeLeaving value="0.15">
       <!--Length of time (in hours) that pizza delivery guy waits before leaving the lot, after the Receive Pizza interaction-->
     </kDelayBeforeLeaving>
     <kServiceTuning>
