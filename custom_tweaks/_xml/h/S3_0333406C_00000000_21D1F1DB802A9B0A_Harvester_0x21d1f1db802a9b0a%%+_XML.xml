@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kSuctionIntervalTime value="0.17">
+    <kSuctionIntervalTime value="0.05">
       <!--Range:  0+  Description:  The interval, in Sim minutes, between suctioning objects-->
     </kSuctionIntervalTime>
     <kSuctionRadius value="20">
       <!--Range:  0+  Description:  The radius of action of the Harvester-->
     </kSuctionRadius>
-    <kSuctionShakeDuration value="0.17">
+    <kSuctionShakeDuration value="0.05">
       <!--Range:  0+  Description:  The time an object shakes before being suctioned by the Harvester-->
     </kSuctionShakeDuration>
     <kSuctionFailChanceMinimum value="0.05">
