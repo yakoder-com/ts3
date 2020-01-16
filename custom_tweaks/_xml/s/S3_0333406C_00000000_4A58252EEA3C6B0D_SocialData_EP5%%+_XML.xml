@@ -174,7 +174,7 @@
 		<AD val="0x00003040">
 		</AD>
 		<AA>
-			<AGE x="CH,AH,EH,CC,AC,EC,CD,AD,ED,CL,AL,EL" y="C,T,Y,A,E,CH,AH,EH,CC,AC,EC,CD,AD,ED,CL,AL,EL" />
+			<AGE x="CH,AH,EH,CC,AC,EC,CD,AD,ED,CL,AL,EL" y="CH,AH,EH,CC,AC,EC,CD,AD,ED,CL,AL,EL" />
 			<ATRA val="AggressivePet" />
 			<ATE val="FriendlyPet" />
 			<ALTR min="0" max="100" />
