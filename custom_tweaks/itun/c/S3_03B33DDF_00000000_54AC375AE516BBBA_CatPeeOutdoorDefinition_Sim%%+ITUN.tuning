@@ -30,7 +30,7 @@
 			<Output>
 				<Change type="Bladder" advertised="100" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitPiggyPet" advertised="-200" locked="True" actual="-200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
-				<Change type="TraitNeatPet" advertised="200" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" toReinforce="True" />
+				<Change type="TraitNeatPet" advertised="100" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" toReinforce="True" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP5 - Verified - Veronica" LastChange="8/30/2011 7:47:22 PM" />
