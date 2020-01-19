@@ -33,8 +33,8 @@
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
 				<Change type="Social" advertised="50" locked="True" actual="50" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="TraitFamilyOriented" advertised="200" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
-				<Change type="LookAfterBabyOrToddler" advertised="200" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="TraitFamilyOriented" advertised="100" locked="True" actual="100" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
+				<Change type="LookAfterBabyOrToddler" advertised="100" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="ServoBotNanny" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="BeMaid" advertised="-200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="BeButler" advertised="-200" locked="False" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
