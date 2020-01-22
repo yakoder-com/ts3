@@ -103,7 +103,7 @@
         <SkillGainRate value="3600">
           <!--Skill points gained when for one upgrade.  We figure out your progress from 0-1 and multiply by this to give you skill points.-->
         </SkillGainRate>
-        <BadFailureChance value="50">
+        <BadFailureChance value="17">
           <!--Range: 0 to 100 float, The chance IF a regular failure occurs, that it is a bad failure-->
         </BadFailureChance>
         <ShouldShockInPuddle value="True">
@@ -113,7 +113,7 @@
       <MinChanceOfElectrocution value="0">
         <!--Minimum percent chance between 0 and 100 that the sim will get electrocuted when doing a repair.  Should only be set > 0 for electrical objects. Occurs when skill level > = RepairComplexity-->
       </MinChanceOfElectrocution>
-      <MaxChanceOfElectrocution value="5">
+      <MaxChanceOfElectrocution value="2">
         <!--Maximum percent chance between 0 and 100 that the sim will get electrocuted when doing a repair.  Should only be set > 0 for electrical objects. Occurs at skill level 0.-->
       </MaxChanceOfElectrocution>
     </kRepairableTuning>
