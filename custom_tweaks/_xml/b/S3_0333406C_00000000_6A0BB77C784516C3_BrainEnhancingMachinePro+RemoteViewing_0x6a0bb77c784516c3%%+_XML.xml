@@ -7,7 +7,7 @@
     <kMaxTimesToLoop value="3">
       <!--Range:  0-100  Description:  Number of times the loop should occur-->
     </kMaxTimesToLoop>
-    <kSocialNetworkingGainsPerSuccess value="0">
+    <kSocialNetworkingGainsPerSuccess value="25">
       <!--Description:  Social Networking gain on successful loop-->
     </kSocialNetworkingGainsPerSuccess>
   </Current_Tuning>
