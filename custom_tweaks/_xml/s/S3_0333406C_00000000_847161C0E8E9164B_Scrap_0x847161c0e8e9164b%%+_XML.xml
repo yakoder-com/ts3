@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kScrapUnitValue value="2">
+    <kScrapUnitValue value="1">
       <!--How many Simoleons a single unit of scrap is worth-->
     </kScrapUnitValue>
     <kNumScrapForMedModel value="7">
