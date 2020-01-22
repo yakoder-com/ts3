@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kNumScrapsForFull value="250">
+    <kNumScrapsForFull value="500">
       <!--Number of scraps the workbench must have to show the 'Full' visual state-->
     </kNumScrapsForFull>
-    <kRestockNumScraps value="10, 50, 100">
+    <kRestockNumScraps value="25, 125, 250">
       <!--Each restock sub pie menu option for restocking N scraps. You can have as many as you like-->
     </kRestockNumScraps>
-    <kMinutesPerInventDiceRoll value="30">
+    <kMinutesPerInventDiceRoll value="15">
       <!--Number of Sim minutes between checks for a invent result-->
     </kMinutesPerInventDiceRoll>
     <kInventNumTicketsNothing value="100,85,95,95,94,94,93,93,92,91,91">
@@ -16,13 +16,13 @@
     <kInventNumTicketsFire value="0,3,3,3,3,2,2,2,2,2,2">
       <!--Number of tickets the 'Fire' result has for each Inventing skill level 0-10-->
     </kInventNumTicketsFire>
-    <kInventNumTicketsElectrocution value="0,3,3,3,2,2,2,2,1,1,1">
+    <kInventNumTicketsElectrocution value="0,1,1,1,1,1,1,1,0,0,0">
       <!--Number of tickets the 'Electrocution' result has for each Inventing skill level 0-10-->
     </kInventNumTicketsElectrocution>
     <kInventNumTicketsDiscovery value="5,30,27,19,18,18,17,16,16,15,14">
       <!--Number of tickets the 'Discover something' result has for each Inventing skill level 0-10-->
     </kInventNumTicketsDiscovery>
-    <kShowFinalModelPercent value="0.9">
+    <kShowFinalModelPercent value="0.75">
       <!--Range: 0-1 Desc: Completion percent at which to show the real invention model-->
     </kShowFinalModelPercent>
     <kHandinessSkillGainRateDuringMake value="2">
@@ -70,10 +70,10 @@
     <kCheapToyTimeBoost value="0.5">
       <!--Range:  0 - 1 Additive Description:  Percent of total time you want to reduce when making a cheap toy-->
     </kCheapToyTimeBoost>
-    <kScrapCostMultiplyer value="2.75">
+    <kScrapCostMultiplyer value="1.15">
       <!--Cost Multiplier for restock interaction.  N units cost N * kScrapUnitValue * kScrapCostMultiplyer-->
     </kScrapCostMultiplyer>
-    <kNumScrapToStartWith value="64">
+    <kNumScrapToStartWith value="125">
       <!--Number of scraps a brand new invention workebench should start with-->
     </kNumScrapToStartWith>
   </Current_Tuning>
