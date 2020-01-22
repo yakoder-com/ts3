@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kSkillsThatCanBeIncreased value="Cooking, StreetArt, Fishing, Gardening, Guitar, Handiness, Painting, Writing, Charisma, MartialArts, Photography, Nectar, Inventing, Sculpting, BassGuitar, Drums, Piano">
+    <kSkillsThatCanBeIncreased value="Cooking, Fishing, Gardening, Guitar, Handiness, Painting, Writing, Charisma, MartialArts, Photography, Nectar, Inventing, Sculpting, BassGuitar, Drums, Piano, LaserHarp, Logic, Science, SocialNetworking, Bartending, BotBuilding, Chess, Dancing, ClubDancing, ScubaDiving">
       <!--Range:  Trait Names; Traits that can be increased by Brain Enhancements-->
     </kSkillsThatCanBeIncreased>
     <kSkillLevelToGain value="1">
