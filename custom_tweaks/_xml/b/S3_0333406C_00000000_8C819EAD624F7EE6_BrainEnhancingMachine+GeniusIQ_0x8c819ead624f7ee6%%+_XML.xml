@@ -4,7 +4,7 @@
     <kInteractionRunTime value="20">
       <!--Range:  0-100  Description:  Time the interaction should take to run in sim minutes-->
     </kInteractionRunTime>
-    <kNerdInfluenceBoost value="250">
+    <kNerdInfluenceBoost value="750">
       <!--Description:  How much of a boost should the Nerd skill get.-->
     </kNerdInfluenceBoost>
   </Current_Tuning>
