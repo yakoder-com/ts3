@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kBaseChanceToFail value="0.12">
+    <kBaseChanceToFail value="0.04">
       <!--Range:  0-1  Description:  Percentage chance to fail.-->
     </kBaseChanceToFail>
-    <kFailChanceReducedPerLevel value="0.01">
+    <kFailChanceReducedPerLevel value="0.03">
       <!--Range:  0-1  Description:  Percentage chance to fail reduced per level of skill.-->
     </kFailChanceReducedPerLevel>
-    <kReuseCooldown value="360">
+    <kReuseCooldown value="120">
       <!--Range:  0 - 100  Description:  Cooldown in sim minutes between uses.-->
     </kReuseCooldown>
     <kRepairableTuning>
-      <HoursUnbreakable value="24">
+      <HoursUnbreakable value="72">
         <!--How long until the object is allowed to check for breakage after being fixed or purchased.-->
       </HoursUnbreakable>
-      <StartPercentChanceBreak value="5">
+      <StartPercentChanceBreak value="1">
         <!--Starting chance of object breaking when its used.-->
       </StartPercentChanceBreak>
       <PercentChanceBreakIncrease value="1">
