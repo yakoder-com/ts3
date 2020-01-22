@@ -52,19 +52,19 @@
     <kAlienHouseholdLatestVisitHour value="3">
       <!--The latest hour of the day we'll try to send an alien.  The window is from midnight to this value.  Default value is 3, meaning we'll try to send an alien a random time from 12am - 3am.-->
     </kAlienHouseholdLatestVisitHour>
-    <kAlienHouseholdVisitChanceActive value="0.02">
+    <kAlienHouseholdVisitChanceActive value="0.01">
       <!--The base chance an alien will visit the active household.-->
     </kAlienHouseholdVisitChanceActive>
-    <kAlienHouseholdVisitChanceActiveHighLTRMod value="0.08">
+    <kAlienHouseholdVisitChanceActiveHighLTRMod value="0.04">
       <!--If a particular alien has a hight LTR with a member of the active household, this will be added to the base chance.-->
     </kAlienHouseholdVisitChanceActiveHighLTRMod>
     <kAlienHouseholdVisitChanceActiveSpaceRockMod value="0.15">
       <!--If the active household as at least kAlienHouseholdSpaceRocksForBonus space rocks, this will be added to the base chance.-->
     </kAlienHouseholdVisitChanceActiveSpaceRockMod>
-    <kAlienHouseholdHighLTRThreshold value="40">
+    <kAlienHouseholdHighLTRThreshold value="80">
       <!--An LTR between a Sim and an alien that is >= to this value will be considered 'High LTR'.-->
     </kAlienHouseholdHighLTRThreshold>
-    <kAlienHouseholdSpaceRocksForBonus value="5">
+    <kAlienHouseholdSpaceRocksForBonus value="10">
       <!--The number of space rocks the active household must have on their lot to receive the kAlienHouseholdVisitChanceActiveSpaceRockMod.-->
     </kAlienHouseholdSpaceRocksForBonus>
     <kAlienHouseholdVisitChanceRandom value="0.20">
@@ -76,7 +76,7 @@
     <kAlienHouseholdHandinessSkill value="7, 7">
       <!--A new member of the alien household will start with their handiness skill within this range.-->
     </kAlienHouseholdHandinessSkill>
-    <kAbductionBaseChance value="0.01">
+    <kAbductionBaseChance value="0.005">
       <!--The base chance we will try to abduct a Sim from the active household on a nightly basis.-->
     </kAbductionBaseChance>
     <kAbductionTelescopeBonus value="0">
