@@ -16,7 +16,7 @@
     <kLTRGain value="11">
       <!--Range:    Description:  LTR value active sims will gain when npc leaves happy-->
     </kLTRGain>
-    <kNumHoursBeforeWorkToLeaveGroup value="4">
+    <kNumHoursBeforeWorkToLeaveGroup value="3">
       <!--Range:  float  Description:  Number Hours until work beofe sim leaves group-->
     </kNumHoursBeforeWorkToLeaveGroup>
     <kMinEnergyBeforeLeavingGroup value="-50">
@@ -37,13 +37,13 @@
     <kRadiusToFollowLeader value="3">
       <!--Range:  float  Description:  Radius sim will follow leader-->
     </kRadiusToFollowLeader>
-    <kMinMustRemainInGroup value="60">
+    <kMinMustRemainInGroup value="30">
       <!--Range:  float (minutes)  Description:  if sim leaves the group before this time, sim will leave unhappy-->
     </kMinMustRemainInGroup>
     <kMinTillShowingTnsAgain value="90">
       <!--Range:  Greater than 0  Description:  Minutes before showing tns when joining-->
     </kMinTillShowingTnsAgain>
-    <kMinTillUnhappySimCanGroupAgain value="2880">
+    <kMinTillUnhappySimCanGroupAgain value="720">
       <!--Range:  In Minutes  Description:  How much time must pass before sim a can group with another sim Bif sim B had left unhappy-->
     </kMinTillUnhappySimCanGroupAgain>
     <kNumSimBeforeLonerQuits value="4">
