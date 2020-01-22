@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kVisitLengthRange value="90, 120">
+    <kVisitLengthRange value="30, 120">
       <!--The alien's visit will last a random number of Sim minutes between these two values.-->
     </kVisitLengthRange>
     <kNonActiveHouseholdSpaceRocks value="2, 3">
@@ -10,7 +10,7 @@
     <kBrainPowerRange value="75, 100">
       <!--The alien's brain power motive will be set to a value within this range.  This is to prevent the motive from being to low upon arrival and the alien constantly restoring their brain power.-->
     </kBrainPowerRange>
-    <kNonActiveHouseholdMaxSpaceRocks value="4">
+    <kNonActiveHouseholdMaxSpaceRocks value="40">
       <!--If a lot already has this many space rocks, we will not create more.-->
     </kNonActiveHouseholdMaxSpaceRocks>
   </Current_Tuning>
