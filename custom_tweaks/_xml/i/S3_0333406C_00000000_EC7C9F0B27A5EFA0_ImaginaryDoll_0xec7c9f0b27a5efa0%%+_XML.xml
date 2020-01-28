@@ -16,22 +16,22 @@
     <kRelationshipThresholdToNameDoll value="0">
       <!--Float. Relationship threshold before being able to name toy.-->
     </kRelationshipThresholdToNameDoll>
-    <kChanceGenderOfDollWillMatchOwner value="0.75">
+    <kChanceGenderOfDollWillMatchOwner value="0.92">
       <!--Float. If player never sets gender on toy, this is the change it'll end up the same gender on going live.-->
     </kChanceGenderOfDollWillMatchOwner>
     <kRelationshipThresholdToTurnLive value="30">
       <!--Float. Amount of relationship needed for doll to go Live when owner turns into a child.-->
     </kRelationshipThresholdToTurnLive>
-    <kWarpTime value="23.5">
+    <kWarpTime value="22.5">
       <!--Float, 24hr format. Earliest hour the doll can warp.-->
     </kWarpTime>
-    <kWarpTimeWindowLength value="2">
+    <kWarpTimeWindowLength value="1.5">
       <!--Float. How long the warp time window is open for. E.g. if kWarpTime is 23.5 (11:30pm) and this is 2, the doll will warp sometime between 11:30pm to 1:30am-->
     </kWarpTimeWindowLength>
-    <kOwnerBedDesirability value="10">
+    <kOwnerBedDesirability value="20">
       <!--Float. Object desirability of owner's bed. The larger this number (> 1), the more likely the imaginary doll will warp to the owner's bed.-->
     </kOwnerBedDesirability>
-    <kUsingOwnedDollAutonomyMultiplier value="5">
+    <kUsingOwnedDollAutonomyMultiplier value="10">
       <!--Float. Autonomy Multiplier on Play With/Sing To when the Sim owns the doll.-->
     </kUsingOwnedDollAutonomyMultiplier>
     <kTurnRealCameraLerpParams>
