@@ -54,7 +54,7 @@
     <kOpportunityCheckTimes value="10, 22">
       <!--Float range. Range of hours in a day that the opportunity for turning imaginary friend real will be added (or attempted to).-->
     </kOpportunityCheckTimes>
-    <kDailyRelationshipLossDueToNeglect value="1.25">
+    <kDailyRelationshipLossDueToNeglect value="0.83">
       <!--Float. Amount of relationship lost per day with doll and imfr when neglected.-->
     </kDailyRelationshipLossDueToNeglect>
     <kDaysBeforeRemindingPlayerToLetDollTurnLive value="4">
