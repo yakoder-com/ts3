@@ -68,7 +68,7 @@
   <GUID>EP4_Occult_ImaginaryFriendPotion1</GUID>
   <Icon>w_talk_about_i_friend,EP4</Icon>
   <CompletionEvent>kMailedImaginaryFriendRgm</CompletionEvent>
-  <ChanceToGetOnPhone>500</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>1000</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
@@ -87,7 +87,7 @@
   <GUID>EP4_Occult_CreateImaginaryFriendOffspring</GUID>
   <Icon>placeholder</Icon>
   <CompletionEvent>kCreatedImaginaryFriendOffspring</CompletionEvent>
-  <ChanceToGetOnPhone>20</ChanceToGetOnPhone>
+  <ChanceToGetOnPhone>40</ChanceToGetOnPhone>
   <OpportunityType>Location</OpportunityType>
   <Target>RabbitHole</Target>
   <TargetData>ScienceLab</TargetData>
