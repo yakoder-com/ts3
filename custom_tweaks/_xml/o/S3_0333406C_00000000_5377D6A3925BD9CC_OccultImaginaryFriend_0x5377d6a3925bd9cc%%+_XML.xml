@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kChanceToGetImaginaryDollsOnChildBirth value="0.75">
+    <kChanceToGetImaginaryDollsOnChildBirth value="1.00">
       <!--Float. Likelihood of getting dolls on childbirth.-->
     </kChanceToGetImaginaryDollsOnChildBirth>
     <kHowCloseToStayToOwner value="15">
@@ -10,7 +10,7 @@
     <kRelationshipThresholdBeforeConsideredNeglected value="-25">
       <!--Float. Relationship threshold for the doll to turn Live when owner wakes up in the morning.-->
     </kRelationshipThresholdBeforeConsideredNeglected>
-    <kLeaveMeAloneLtrLoss value="5">
+    <kLeaveMeAloneLtrLoss value="1">
       <!--Float. LTR hit for doing Leave Me Alone.-->
     </kLeaveMeAloneLtrLoss>
     <kRelationshipThresholdBeforeCanTurnFriendReal value="80">
@@ -19,13 +19,13 @@
     <kRequiredRgmForPotion value="Rainbow">
       <!--RockGemMetal enum. The RGM that the player needs to send to the science lab to get a potion.-->
     </kRequiredRgmForPotion>
-    <kCostToPurchaseImaginaryFriend value="4500">
+    <kCostToPurchaseImaginaryFriend value="3000">
       <!--Int. Cost of imaginary friend potion at the science lab if player has the opportunity that lets them do so.-->
     </kCostToPurchaseImaginaryFriend>
-    <kTimeToPurchaseImaginaryFriend value="45">
+    <kTimeToPurchaseImaginaryFriend value="22">
       <!--float. Time a Sim spends in the science lab when purchasing an imaginary friend potion.-->
     </kTimeToPurchaseImaginaryFriend>
-    <kTimeToCreateOffspring value="60">
+    <kTimeToCreateOffspring value="30">
       <!--float. Time a Sim spends in the science lab when creating offspring.-->
     </kTimeToCreateOffspring>
     <kOwnerIsCrazyReactionBroadcasterParams>
