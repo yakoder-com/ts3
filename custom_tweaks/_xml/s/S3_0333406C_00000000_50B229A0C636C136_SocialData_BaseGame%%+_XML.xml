@@ -25641,7 +25641,7 @@
 			<RHS com="Friendly" state="">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="VampireOfferToTurnSuccess" />
+				<RPROC pebu="" peau="VampireOfferToTurnFailure" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -25656,7 +25656,7 @@
 			<RHS com="Amorous" state="">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="VampireOfferToTurnSuccess" />
+				<RPROC pebu="" peau="VampireOfferToTurnFailure" />
 				<TUN />
 				<Topic />
 			</RHS>
