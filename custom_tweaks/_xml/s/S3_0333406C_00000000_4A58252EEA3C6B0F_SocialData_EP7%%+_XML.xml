@@ -868,7 +868,7 @@
 			<AGE x="T,Y,A,E" y="T,Y,A,E" />
 			<ATRA val="Proper" />
 			<ATREQ val="LycanthropyWerewolf" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestSimIsAWerewolfAndCanBite" />
 		</AA>
 		<Jazz>
@@ -1107,7 +1107,7 @@
 		<AA>
 			<AGE x="T,Y,A,E" y="T,Y,A,E" />
 			<ATR val="LycanthropyHuman,VampireHiddenTrait,WitchHiddenTrait,FairyHiddenTrait,MummyHiddenTrait,FrankensteinHiddenTrait,GenieHiddenTrait,ImaginaryFriendHiddenTrait" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestSimAskingForWerewolfCurse" />
 		</AA>
 		<Jazz>
