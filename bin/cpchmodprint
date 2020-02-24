@@ -1,4 +1,43 @@
 #!/bin/bash
 
-cp $1 $2 $3 && chmod 644 $3 && printf "%q\n" $2
+#note: cygwin/winACL doesn't like group permissions set
+modlev=604
+
+#note: no trailing slash!
+destbase=../custom_tweaks
+
+printf_params='%q\n'
+
+if [[ $# -eq 3 ]]; then
+    cp_param=$1
+    src=$2
+    dest=$3
+    if [[ "${src:0:2}" != "./" ]]; then
+        src="./${src}"
+    fi
+    cp ${cp_param} ${src} ${dest} && chmod ${modlev} ${dest} && printf "${printf_params}" ${src}
+elif [[ $# -eq 2 ]]; then
+    src=$1
+    dest=$2
+    if [[ "${src:0:2}" != "./" ]]; then
+        src="./${src}"
+    fi
+    cp -n ${src} ${dest} && chmod ${modlev} ${dest} && printf "${printf_params}" ${src}
+elif [[ $# -eq 1 ]]; then
+    if [[ "$(basename ${PWD})" != "GameplayData" ]]; then
+        echo "Aborting. PWD is not 'GameplayData'"
+        exit 1
+    fi
+
+    src=$1
+    if [[ "${src:0:2}" != "./" ]]; then
+        src="./${src}"
+    fi
+    cp -n $1 ${destbase}/$1 && chmod ${modlev} ${destbase}/$1 && printf "${printf_params}" $1
+else
+    echo "Usage: [cp_param] src [dest]"
+    echo "cp_param defaults to '-n' if not provided"
+    echo "'src' should begin with './'"
+    echo "'dest' defaults to '${destbase}' prefixed onto 'src'"
+fi
 
