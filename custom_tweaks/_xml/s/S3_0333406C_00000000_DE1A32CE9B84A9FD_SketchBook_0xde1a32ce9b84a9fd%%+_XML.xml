@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kTimeToCompleteSketchInMinutes value="45">
+    <kTimeToCompleteSketchInMinutes value="30">
       <!--Amount of Time in Sim Minutes that it takes to complete a sketch-->
     </kTimeToCompleteSketchInMinutes>
     <kSketchNudeBroadcasterParams>
       <PulseRadius value="20">
         <!--The effect range of the broadcaster in meters.-->
       </PulseRadius>
-      <AffectBroadcasterRoomOnly value="False">
+      <AffectBroadcasterRoomOnly value="True">
         <!--Specifies whether or not the broadcaster effects object through walls that define an enclosed room boundary.-->
       </AffectBroadcasterRoomOnly>
-      <ReactorLineOfSight value="False">
+      <ReactorLineOfSight value="True">
         <!--Specifies whether or not the broadcaster only effects Sims with line-of-sight to the broadcasting object.-->
       </ReactorLineOfSight>
-      <ReactorCouldSeeCheck value="False">
+      <ReactorCouldSeeCheck value="True">
         <!--Specifies whether or not the broadcaster only effects Sims which pass a "could-see" check to the broadcasting object (i.e., they are not in their frontal vision cone but there are no objects between the two actors so the reactor could hypothetically see if they turned around).-->
       </ReactorCouldSeeCheck>
-      <PulseRepeatTime value="1">
+      <PulseRepeatTime value="-1">
         <!--A repeat time in sim minutes with which a Sim is pulsed with the OnEnter effects of the broadcaster as long as they reside within the broadcaster's range.  A value of -1 means the pulse never repeats.-->
       </PulseRepeatTime>
       <TimeToFullPulseExpansion value="0">
         <!--The time in sim minutes over which the broadcaster range expands from 0 meters to the PulseRadius (the broadcaster range is instantaneously set to PulseRadius if zero minutes is specified).-->
       </TimeToFullPulseExpansion>
-      <TimeDuration value="-1">
+      <TimeDuration value="15">
         <!--DO NOT TUNE a value of -1 unless you speak with the GPE first.  A value of -1 means that the broadcaster pulses until manually deleted by the scripter.  Otherwise it is the lifetime in sim minutes after which the broadcaster is deleted.-->
       </TimeDuration>
       <InteractionProhibitsOverlay value="False">
