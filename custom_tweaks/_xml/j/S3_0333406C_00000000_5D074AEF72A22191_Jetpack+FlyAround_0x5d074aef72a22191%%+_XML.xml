@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kNormalDuration value="35">
+    <kNormalDuration value="12">
       <!--FlyAround will normally last this long, in Sim Minutes-->
     </kNormalDuration>
     <kConfidentFutureSkillLevel value="4">
@@ -10,10 +10,10 @@
     <kMaxDeathChance value="0">
       <!--Death chance will never go higher than this. Range: 0-100-->
     </kMaxDeathChance>
-    <kFailChance value="50, 45, 40, 35, 30, 15, 10, 5, 3, 0, 0">
+    <kFailChance value="17, 15, 13, 12, 10, 5, 3, 2, 1, 0, 0">
       <!--Percent chance of normal (non-fatal) failure, by future skill level-->
     </kFailChance>
-    <kNauseousChance value="90, 80, 70, 50, 20, 10, 0, 0, 0, 0, 0">
+    <kNauseousChance value="30, 27, 23, 17, 7, 3, 0, 0, 0, 0, 0">
       <!--Percent chance of getting the Nauseous buff, by future skill level-->
     </kNauseousChance>
     <kFirstTimeDeathChance value="0">
