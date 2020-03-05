@@ -6,17 +6,10 @@ Got tired of dealing with thousands of conflicting tuning mods, so decided to ju
 Figured exporting all the original xml files from the GameplayData.package file (patch revision 1.67) was hard enough, and couldn't find it out there anywhere, so thought I'd toss it up here for anyone else still playing this thing.
 
 ## Directories (Folders)
-GH = link to folder if viewing on GitHub
-GL = link to folder if viewing on GitLab
-BB = link to folder if viewing on BitBucket
-* GameplayData ([GH](./GameplayData)) ([GL](./GameplayData)) ([BB](./GameplayData))
-    A full extract of TS3's GameplayData.package (with all EPs, but not all 'stuff' packs)
-* bin ([GH](./tree/master/bin)) ([GL](./-/tree/master/bin)) ([BB](./src/master/bin))
-    bash scripts - TODO: write docs for these (and, well, more than just the one)
-* custom_tweaks ([GH](./tree/master/custom_tweaks)) ([GL](./-/tree/master/custom_tweaks)) ([BB](./src/master/custom_tweaks))
-    Where my tuning changes exist - this is probably what you want to start with
-* notes ([GH](./tree/master/notes)) ([GL](./-/tree/master/notes)) ([BB](./src/master/notes))
-    notes, but not quite documentation
+* [GameplayData](./GameplayData): A full extract of TS3's GameplayData.package (with all EPs, but not all 'stuff' packs)
+* [bin](./bin): bash scripts - TODO: write docs for these (and, well, more than just the one)
+* [custom_tweaks](./custom_tweaks): Where my tuning changes exist - **this is probably what you want to start with**
+* [notes](./notes): notes, but not quite documentation
 
 ## References
 
