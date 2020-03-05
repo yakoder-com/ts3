@@ -12,9 +12,12 @@ Figured exporting all the original xml files from the GameplayData.package file 
 * [Nraas Packer](https://nraas.net/community/Packer) ([github source](https://github.com/jonwarren/NRaas/tree/master/NRaasPacker))
 
 ### Sites
+* https://www.nraas.net/
 * http://modthesims.info/
 * http://simswiki.info/
 * http://simlogical.com/
 * http://simsasylum.com/tfm/
 * https://nonasims.wordpress.com/
+* https://www.carls-sims-3-guide.com/
+* https://www.loverslab.com/
 
