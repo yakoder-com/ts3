@@ -2112,7 +2112,7 @@
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
 				<RPROC pebu="AddHighestInfluence" peau="OnKiss" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="GreatKisser" y="GreatKisser" />
 				<Topic />
@@ -2373,7 +2373,7 @@
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
 				<RPROC pebu="BeforeFirstKiss" peau="OnReboundKiss" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="" y="GreatKisser" />
 				<Topic />
@@ -2436,7 +2436,7 @@
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
 				<RPROC pebu="AddRebelInfluence" peau="OnCinnamonKiss" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="GreatKisser" y="GreatKisser" />
 				<Topic />
@@ -2594,7 +2594,7 @@
 				<Anim />
 				<Buff />
 				<RPROC pebu="AddRebelInfluence" peau="OnSpicyWooHoo" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="120" />
 				<Topic />
 			</RHS>
@@ -3715,7 +3715,7 @@
 				<Anim />
 				<Buff />
 				<RPROC pebu="" peau="OnWooHoo" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="120" />
 				<Topic />
 			</RHS>

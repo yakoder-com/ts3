@@ -3141,7 +3141,7 @@
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
 				<RPROC pebu="" peau="OnKiss" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="GreatKisser" y="GreatKisser" />
 				<Topic />

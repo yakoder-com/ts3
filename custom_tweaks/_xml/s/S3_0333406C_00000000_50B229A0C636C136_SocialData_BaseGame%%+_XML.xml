@@ -12839,7 +12839,7 @@
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
 				<RPROC pebu="BeforeFirstKiss" peau="OnKiss" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="" y="GreatKisser" />
 				<Topic />
@@ -16445,7 +16445,7 @@
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
 				<RPROC pebu="" peau="OnKiss" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="GreatKisser" y="GreatKisser" />
 				<Topic />
@@ -16610,7 +16610,7 @@
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
 				<RPROC pebu="" peau="OnKiss" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="GreatKisser" y="GreatKisser" />
 				<Topic />
@@ -17105,7 +17105,7 @@
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
 				<RPROC pebu="" peau="OnKiss" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="GreatKisser" y="GreatKisser,Flirty" />
 				<Topic />
@@ -23934,7 +23934,7 @@
 			<RHS com="Amorous" state="">
 				<Anim />
 				<Buff />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN />
 				<Trait x="" y="HopelessRomantic,Flirty" />
 				<Topic />
@@ -24365,7 +24365,7 @@
 				<Anim />
 				<Buff />
 				<RPROC pebu="" peau="OnWooHoo" />
-				<LTRBits val="0x00002002" />
+				<LTRBits val="0x00002000" />
 				<TUN val="120" />
 				<Topic />
 			</RHS>
