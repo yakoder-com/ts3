@@ -4,7 +4,7 @@
 	<Object name="Sims3.Gameplay.Core.Lot" />
 	<CodeVersion name="BaseGame" considerCodeVersion="False" />
 	<Current_Tuning>
-		<Disallow DisallowAutonomous="False" DisallowUserDirected="False" DisallowPlayerSim="False" />
+		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="False" />
 		<BaseAvailability>
 			<AgeSpeciesAvail AgeSpeciesValue="B,P,C,T,Y,A,E,CH,AH,EH,CC,AC,EC,CD,AD,ED,CL,AL,EL" />
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
