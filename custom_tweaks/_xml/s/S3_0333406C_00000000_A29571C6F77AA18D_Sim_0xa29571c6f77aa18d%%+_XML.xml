@@ -408,7 +408,7 @@
     <kLifeTimeRewardInheritanceMax value="35000">
       <!--The max amount of money a Sim will receive when they purchase the Inheritance Life Time Reward.-->
     </kLifeTimeRewardInheritanceMax>
-    <kTimeForHairToGrowBack value="3">
+    <kTimeForHairToGrowBack value="7">
       <!--Range:  0+  Description:  The time, in Sim days, it takes for body hair to grow back-->
     </kTimeForHairToGrowBack>
     <kBoardingSchoolLTRIncreaseInPositiveContext value="1.7">
