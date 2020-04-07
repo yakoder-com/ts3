@@ -384,7 +384,7 @@
     <kMotiveTuningScoreForWorld value="10">
       <!--How high the motive tuning scores when World is specified-->
     </kMotiveTuningScoreForWorld>
-    <sOutfitAgeRulesFirefighting value="HumanYoungAdult, HumanAdult, HumanElder">
+    <sOutfitAgeRulesFirefighting value="HumanYoungAdult, HumanAdult">
       <!--Valid Ages that can wear Fire fighting-->
     </sOutfitAgeRulesFirefighting>
     <sOutfitAgeRulesMakeover value="HumanChild, HumanTeen, HumanYoungAdult, HumanAdult, HumanElder">
