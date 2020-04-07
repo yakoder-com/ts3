@@ -498,13 +498,13 @@
     <kFutureSimJetpackChance value="30">
       <!--Percent chance a Future sim will have a Jetpack, if they don't have a Hoverboard.(0:100)-->
     </kFutureSimJetpackChance>
-    <kChanceToRun value="0.4">
-      <!--Chances of a Servobot running froma human.-->
+    <kChanceToRun value="0.3">
+      <!--Chances of a Servobot running from a human.-->
     </kChanceToRun>
     <kChanceToFaint value="0.3">
       <!--Chances of a Servobot fainting from a human.-->
     </kChanceToFaint>
-    <kChanceToTremble value="1.0">
+    <kChanceToTremble value="0.3">
       <!--Chances of a Servobot trembling from a human.-->
     </kChanceToTremble>
     <kFutureSimHolodiscChance value="30">
