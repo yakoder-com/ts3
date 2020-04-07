@@ -178,7 +178,7 @@
     <kCryingBabyPulseTime value="20">
       <!--Range: Sim minutes.  Description:  Sim minutes for pulse of crying baby.-->
     </kCryingBabyPulseTime>
-    <sDotProductThresholdForGroupTalk value="-0.26">
+    <sDotProductThresholdForGroupTalk value="-0.33">
       <!--Range: -1 to 1.  Description:  Min dot-product for Sims to be able to group-talk with each other. Make this more negative to make it more lenient, more positive to make it more restrictive.-->
     </sDotProductThresholdForGroupTalk>
     <kChanceOfReadingBookRatherThanNewsaperWhenReadingOutdoors value="10">
