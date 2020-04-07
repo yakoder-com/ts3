@@ -507,7 +507,7 @@
     <kChanceToTremble value="1.0">
       <!--Chances of a Servobot trembling from a human.-->
     </kChanceToTremble>
-    <kFutureSimHolodiscChance value="50">
+    <kFutureSimHolodiscChance value="30">
       <!--Percent chance a Future sim will have a Holo Disc.(0:100)-->
     </kFutureSimHolodiscChance>
     <kFutureSimHolocomputerChance value="75">
