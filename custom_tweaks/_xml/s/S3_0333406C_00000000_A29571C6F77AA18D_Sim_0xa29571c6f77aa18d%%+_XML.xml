@@ -375,7 +375,7 @@
     <kTypicalNumHoursToSleep value="8">
       <!--Range:  0-24  Description:  Number of hours before wakeuptime at which Sims will start to consider it time to go to bed-->
     </kTypicalNumHoursToSleep>
-    <kLTRMinWhenBeingMerged value="30">
+    <kLTRMinWhenBeingMerged value="40">
       <!--Minimum LTR liking value for members of a household after a merge-->
     </kLTRMinWhenBeingMerged>
     <sOutfitAgeRulesMartialArts value="HumanTeen, HumanYoungAdult, HumanAdult, HumanElder">
