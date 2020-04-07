@@ -181,7 +181,7 @@
     <sDotProductThresholdForGroupTalk value="-0.33">
       <!--Range: -1 to 1.  Description:  Min dot-product for Sims to be able to group-talk with each other. Make this more negative to make it more lenient, more positive to make it more restrictive.-->
     </sDotProductThresholdForGroupTalk>
-    <kChanceOfReadingBookRatherThanNewsaperWhenReadingOutdoors value="10">
+    <kChanceOfReadingBookRatherThanNewsaperWhenReadingOutdoors value="50">
       <!--Unit: percentage (0 to 100).  Description:  Chance of reading a book (rather than reading a newspaper) when NPC is reading something outdoors -->
     </kChanceOfReadingBookRatherThanNewsaperWhenReadingOutdoors>
     <kInitialLikingValueForRoomies value="20">
