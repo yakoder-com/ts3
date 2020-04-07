@@ -148,7 +148,7 @@
     <kGroupTalkLTRIncreaseInPositiveContext value="1">
       <!--Unit: commodity (-100 to 100).  Description:  Amount that LTR Liking changes during one social in GroupTalk when in a positive context-->
     </kGroupTalkLTRIncreaseInPositiveContext>
-    <kGroupTalkSocialIncreaseFromGroupChat value="30">
+    <kGroupTalkSocialIncreaseFromGroupChat value="15">
       <!--Unit: commodity (-100 to 100).  Description:  How much social motive increases after a GroupTalk conversation -->
     </kGroupTalkSocialIncreaseFromGroupChat>
     <kGroupTalkMaxResponseTime value="4">
