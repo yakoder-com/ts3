@@ -49,7 +49,7 @@
     <kRomanceUseLikingGate value="-19">
       <!--Range: -100 to 100.  Description: If the relationship value between two Sims is higher than this tunable, they will agree to relax or sleep in the same bed.-->
     </kRomanceUseLikingGate>
-    <kWooHooUseLikingGate value="40">
+    <kWooHooUseLikingGate value="50">
       <!--Range: -100 to 100.  Description: If the relationship value between two Sims is higher than this tunable, they will agree to relax or sleep in the same bed.-->
     </kWooHooUseLikingGate>
     <kMotiveTuningScoreForAge value="2">
