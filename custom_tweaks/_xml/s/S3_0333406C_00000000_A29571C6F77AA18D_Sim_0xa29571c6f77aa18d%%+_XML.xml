@@ -489,7 +489,7 @@
     <sRemoveOuterwearCannotChangeIntoCategories value="Outerwear, Naked">
       <!--When we remove outerwear, if the previous outfit category is set to any of these categories, we will use everyday instead. Used to prevent sims from going from outerwear to naked or outerwear to outerwear. ALWAYS keep Outerwear in this list.-->
     </sRemoveOuterwearCannotChangeIntoCategories>
-    <kNumberOfPlanAttemptsForStuckSim value="5">
+    <kNumberOfPlanAttemptsForStuckSim value="3">
       <!--The number of attempts to try and plan a route for testing if a Sim is Stuck-->
     </kNumberOfPlanAttemptsForStuckSim>
     <kFutureSimHoverboardChance value="30">
