@@ -294,7 +294,7 @@
     <kMaxStandBackFromDoorDistance value="4">
       <!--Maximum distance from door to stand-back after ringing on doorbell-->
     </kMaxStandBackFromDoorDistance>
-    <kChanceOfDisplayingTargetForRemoteChat value="0.25">
+    <kChanceOfDisplayingTargetForRemoteChat value="0.50">
       <!--Range: [0, 1] Chance of displaying the image of the target when chatting remotely-->
     </kChanceOfDisplayingTargetForRemoteChat>
     <kBabyToddlerLikingThresholdToAllowInteractionsWithStrangers value="30">
