@@ -133,7 +133,7 @@
     <kMaxGroupTalkLookAtSpeakerTime value="3">
       <!--Unit: Sim minutes.  Description:  Max time a listener looks at the speaker during group talk-->
     </kMaxGroupTalkLookAtSpeakerTime>
-    <kGroupTalkProportionOfTimeListenerIgnoresSpeaker value="0">
+    <kGroupTalkProportionOfTimeListenerIgnoresSpeaker value="5">
       <!--Unit: Percentage (0-100).  Description:  Proportion of time that the listener ignores the speaker during a group talk-->
     </kGroupTalkProportionOfTimeListenerIgnoresSpeaker>
     <kGroupTalkProportionOfTimeListenerPlaysAnimation value="35">
