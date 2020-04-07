@@ -88,7 +88,7 @@
     <kToddlerWalkFallCryConsiderTime value="3">
       <!--Number of Sim minutes a toddler will consider what to do before either crying or continuing their route.-->
     </kToddlerWalkFallCryConsiderTime>
-    <kToddlerWalkFallCryChance value="50">
+    <kToddlerWalkFallCryChance value="33">
       <!--Percent chance that a toddler will cry instead of completing their route after falling.-->
     </kToddlerWalkFallCryChance>
     <kToddlerWalkFallMinRouteLength value="5">
