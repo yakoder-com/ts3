@@ -372,7 +372,7 @@
     <kSimLoopSleepTicksWhenAutonomyDisabled value="20">
       <!--The number of ticks that we delay in the main Sim loop.-->
     </kSimLoopSleepTicksWhenAutonomyDisabled>
-    <kTypicalNumHoursToSleep value="8">
+    <kTypicalNumHoursToSleep value="7">
       <!--Range:  0-24  Description:  Number of hours before wakeuptime at which Sims will start to consider it time to go to bed-->
     </kTypicalNumHoursToSleep>
     <kLTRMinWhenBeingMerged value="40">
