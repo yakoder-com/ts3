@@ -25454,7 +25454,7 @@
 		<AA>
 			<AGE x="Y,A,E" y="Y,A,E" />
 			<ATR val="PlantSim" />
-			<Available auto="False" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestAskToTurn" />
 		</AA>
 		<Jazz>
@@ -25483,14 +25483,14 @@
 				<Topic />
 			</RHS>
 			<LHS com="Friendly" val="72" ProcTest="VampireCanTurnSim">
-				<LLTR min="40" />
+				<LLTR min="50" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />
 				<MAYBE />
 			</LHS>
 			<LHS com="Amorous" val="73" ProcTest="VampireCanTurnSim">
-				<LLTR min="40" key="Partner" is="True" />
+				<LLTR min="50" key="Partner" is="True" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />
@@ -25534,12 +25534,12 @@
 	<Action key="Vampire Drink" com="Amorous">
 		<Text key="VampireDrink" pvt="VampireDrinkPassive" />
 		<AD val="0x00000218">
-			<Misc ITLA="50" />
+			<Misc ITLA="25" />
 		</AD>
 		<AA>
 			<AGE x="Y,A,E" y="Y,A,E" />
 			<ATREQ val="VampireHiddenTrait" />
-			<Available auto="True" udo="False" />
+			<Available auto="True" udo="True" />
 			<ProcTest key="TestVampireDrink" />
 		</AA>
 		<Jazz>
@@ -25631,7 +25631,7 @@
 		<AA>
 			<AGE x="Y,A,E" y="Y,A,E" />
 			<ATREQ val="VampireHiddenTrait" />
-			<Available auto="False" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestVampireOfferToTurn" />
 		</AA>
 		<Jazz>
@@ -25641,7 +25641,7 @@
 			<RHS com="Friendly" state="">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="VampireOfferToTurnFailure" />
+				<RPROC pebu="" peau="VampireOfferToTurnSuccess" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -25656,7 +25656,7 @@
 			<RHS com="Amorous" state="">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="VampireOfferToTurnFailure" />
+				<RPROC pebu="" peau="VampireOfferToTurnSuccess" />
 				<TUN />
 				<Topic />
 			</RHS>
