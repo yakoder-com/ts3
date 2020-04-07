@@ -483,7 +483,7 @@
     <kChanceInsaneSimIgnoreOuterwearRules value="50">
       <!--Range:  0+  Description:  Change 0-100 that when choosing to switch to outerwear, insane sims will ignore the change rules.-->
     </kChanceInsaneSimIgnoreOuterwearRules>
-    <kChanceRandomGenOuterwearHasWinterGloves value="65">
+    <kChanceRandomGenOuterwearHasWinterGloves value="75">
       <!--Range:  0+  Description:  Change 0-100 that when creating a random outerwear for a sim, the sim will get gloves appropriate for outerwear.-->
     </kChanceRandomGenOuterwearHasWinterGloves>
     <sRemoveOuterwearCannotChangeIntoCategories value="Outerwear, Naked">
