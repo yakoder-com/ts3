@@ -190,7 +190,7 @@
     <kClothingChangeHoursPlayerChoiceIsSticky value="0">
       <!--How many hours a player-directed clothing change overrides low-priority autonomous clothing changes.-->
     </kClothingChangeHoursPlayerChoiceIsSticky>
-    <kClothingChangeHoursBeforeSleep value="-50">
+    <kClothingChangeHoursBeforeSleep value="2">
       <!--Leaving a bed or bath, if it is this many hours or fewer before bedtime, a Sim will change into Sleepwear.-->
     </kClothingChangeHoursBeforeSleep>
     <kClothingChangeHoursBeforeWork value="3">
