@@ -396,7 +396,7 @@
     <kMinCelebrityLevelForLimo value="7">
       <!--The min celebrity level that will always give the sim a limo when need a car.-->
     </kMinCelebrityLevelForLimo>
-    <kGoToVirtualHomeAfterSocialInteractionScore value="15">
+    <kGoToVirtualHomeAfterSocialInteractionScore value="30">
       <!--Score for autonomously going to virtual home if you are in the same lot and have socialized with someone.-->
     </kGoToVirtualHomeAfterSocialInteractionScore>
     <kMotiveTuningScoreForSpecies value="5">
