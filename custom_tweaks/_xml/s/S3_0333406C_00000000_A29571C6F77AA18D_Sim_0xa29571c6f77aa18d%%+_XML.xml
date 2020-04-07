@@ -40,7 +40,7 @@
     <kLookAtInterestingnessForNewSim value="100">
       <!--Range: 0 to 100.  Description: How interesting is a newly-arrived Sim to look at-->
     </kLookAtInterestingnessForNewSim>
-    <kNapAvailabilityHoursBeforeWakeupTime value="14">
+    <kNapAvailabilityHoursBeforeWakeupTime value="10">
       <!--Range: 0.0f to 24.0f.  Description:  This tunable determines the minimum number of hours between the current time and the Sim's wakeup time for the Nap interaction to be selectable on the chair.  This uses the Sim's current job's wakeup time (or the default wakeup time, if the Sim has no job).-->
     </kNapAvailabilityHoursBeforeWakeupTime>
     <kNapLengthInMinutes value="120">
