@@ -193,10 +193,10 @@
     <kClothingChangeHoursBeforeSleep value="2">
       <!--Leaving a bed or bath, if it is this many hours or fewer before bedtime, a Sim will change into Sleepwear.-->
     </kClothingChangeHoursBeforeSleep>
-    <kClothingChangeHoursBeforeWork value="3">
+    <kClothingChangeHoursBeforeWork value="4">
       <!--Leaving a bed or bath, if it is this many hours or fewer before work, a Sim will change into career outfit.-->
     </kClothingChangeHoursBeforeWork>
-    <kClothingChangeHoursBeforeParty value="3">
+    <kClothingChangeHoursBeforeParty value="4">
       <!--Leaving a bed or bath, if it is this many hours or fewer before a party, a Sim will change into partywear.-->
     </kClothingChangeHoursBeforeParty>
     <kClothingChangeNighttimeStarts value="24">
