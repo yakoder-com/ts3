@@ -318,7 +318,7 @@
     <ToddlerMotiveDistressMinutes value="7">
       <!--Range: Sim mintues.  Description:  Number of Sim minutes a toddler will cry in first level of motive distress (Tired, Very Hungry, Lonely, etc.)-->
     </ToddlerMotiveDistressMinutes>
-    <kIdleTimeAmount value="10">
+    <kIdleTimeAmount value="5">
       <!--Time, in minutes, to wait before perfoming idle checks after an interaction has finished.-->
     </kIdleTimeAmount>
     <kUnflirtyTraitRomanceUseLikingGate value="40">
