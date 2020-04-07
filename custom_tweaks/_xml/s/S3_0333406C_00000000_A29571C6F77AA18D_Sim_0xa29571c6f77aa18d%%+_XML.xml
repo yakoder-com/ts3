@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kDefaultWakeupTime value="6">
+    <kDefaultWakeupTime value="8">
       <!--Range: 0.0f to 24.0f.  Description:  If a Sim does not have a career, this tunable dictates the default wakeup time of the Sim.  This variable is not currently used in the code, by design.-->
     </kDefaultWakeupTime>
     <kDistanceForSocials value="5">
