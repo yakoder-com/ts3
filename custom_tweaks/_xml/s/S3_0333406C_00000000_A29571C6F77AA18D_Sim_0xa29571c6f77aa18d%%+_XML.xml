@@ -414,7 +414,7 @@
     <kBoardingSchoolLTRIncreaseInPositiveContext value="1.7">
       <!--Unit: commodity (-100 to 100).  Description:  This value is used instead of kGroupTalkLTRIncreaseInPositiveContext if one of the Sims is in boarding school-->
     </kBoardingSchoolLTRIncreaseInPositiveContext>
-    <kBoardingSchoolAlmaMaterPercentChance value="0.4">
+    <kBoardingSchoolAlmaMaterPercentChance value="0.25">
       <!--Range: 0.0 - 1.0.  If a Sim needs to have an alma mater assigned, this is the percent chance we will try to assign a boarding school alma mater based off of the Sim's traits.-->
     </kBoardingSchoolAlmaMaterPercentChance>
     <sOutfitAgeRulesBridle value="AllHorsesMask">
