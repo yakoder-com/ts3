@@ -513,7 +513,7 @@
     <kFutureSimHolocomputerChance value="75">
       <!--Percent chance a Future sim will have a Holo Computer.(0:100)-->
     </kFutureSimHolocomputerChance>
-    <kFutureSimLaserharpChance value="30">
+    <kFutureSimLaserharpChance value="10">
       <!--Percent chance a Future sim will have a Laser Harp.(0:100)-->
     </kFutureSimLaserharpChance>
   </Current_Tuning>
