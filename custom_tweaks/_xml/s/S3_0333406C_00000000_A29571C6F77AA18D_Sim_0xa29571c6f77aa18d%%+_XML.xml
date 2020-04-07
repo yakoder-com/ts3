@@ -411,7 +411,7 @@
     <kTimeForHairToGrowBack value="7">
       <!--Range:  0+  Description:  The time, in Sim days, it takes for body hair to grow back-->
     </kTimeForHairToGrowBack>
-    <kBoardingSchoolLTRIncreaseInPositiveContext value="1.7">
+    <kBoardingSchoolLTRIncreaseInPositiveContext value="1.1">
       <!--Unit: commodity (-100 to 100).  Description:  This value is used instead of kGroupTalkLTRIncreaseInPositiveContext if one of the Sims is in boarding school-->
     </kBoardingSchoolLTRIncreaseInPositiveContext>
     <kBoardingSchoolAlmaMaterPercentChance value="0.25">
