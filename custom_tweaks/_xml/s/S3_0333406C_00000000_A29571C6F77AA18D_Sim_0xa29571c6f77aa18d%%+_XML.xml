@@ -330,7 +330,7 @@
     <sOutfitAgeRulesAthletic value="HumanChild, HumanTeen, HumanYoungAdult, HumanAdult, HumanElder">
       <!--Valid Ages that can wear Athletic Clothing-->
     </sOutfitAgeRulesAthletic>
-    <sOutfitAgeRulesCareer value="HumanChild, HumanTeen, HumanYoungAdult, HumanAdult, HumanElder">
+    <sOutfitAgeRulesCareer value="HumanChild, HumanTeen, HumanYoungAdult, HumanAdult">
       <!--Valid Ages that can wear Career Clothing-->
     </sOutfitAgeRulesCareer>
     <sOutfitAgeRulesEveryday value="HumanAgeMask, AllAnimalsMask">
