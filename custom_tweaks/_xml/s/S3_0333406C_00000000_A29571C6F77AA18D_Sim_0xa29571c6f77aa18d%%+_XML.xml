@@ -139,7 +139,7 @@
     <kGroupTalkProportionOfTimeListenerPlaysAnimation value="35">
       <!--Unit: Percentage (0-100).  Description:  Proportion of time that the listener plays a responding animation (should be quite low, or he will appear too hectic)-->
     </kGroupTalkProportionOfTimeListenerPlaysAnimation>
-    <kGroupTalkProportionOfTimeSpeakerTalks value="65">
+    <kGroupTalkProportionOfTimeSpeakerTalks value="50">
       <!--Unit: Percentage (0-100).  Description:  Proportion of time that the speaker talks during the conversation-->
     </kGroupTalkProportionOfTimeSpeakerTalks>
     <kGroupTalkLTRDecreaseInNegativeContext value="-0.5">
