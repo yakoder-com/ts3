@@ -462,7 +462,7 @@
     <kAskToBeProtectedTraits value="BookWorm, Clumsy, Coward, FamilyOriented, HopelessRomantic, Loser, OverEmotional">
       <!--Traits which allow a sim to Ask to be Protected-->
     </kAskToBeProtectedTraits>
-    <kMakePromiseToProtectTraits value="Brave, Daredevil, Good, FamilyOriented, HopelessRomantic, BroodingTrait">
+    <kMakePromiseToProtectTraits value="Brave, Daredevil, Good, FamilyOriented">
       <!--Traits which allow a sim to Make Promise to Protect-->
     </kMakePromiseToProtectTraits>
     <kConfessToWatchingWhileSleepingTraits value="Daredevil, FamilyOriented, HopelessRomantic, Inappropriate, Insane, Loser, BroodingTrait">
