@@ -402,10 +402,10 @@
     <kMotiveTuningScoreForSpecies value="5">
       <!--How high the motive tuning scores when Species is specified-->
     </kMotiveTuningScoreForSpecies>
-    <kLifeTimeRewardInheritanceMin value="30000">
+    <kLifeTimeRewardInheritanceMin value="25000">
       <!--The minimum amount of money a Sim will receive when they purchase the Inheritance Life Time Reward.-->
     </kLifeTimeRewardInheritanceMin>
-    <kLifeTimeRewardInheritanceMax value="35000">
+    <kLifeTimeRewardInheritanceMax value="75000">
       <!--The max amount of money a Sim will receive when they purchase the Inheritance Life Time Reward.-->
     </kLifeTimeRewardInheritanceMax>
     <kTimeForHairToGrowBack value="7">
