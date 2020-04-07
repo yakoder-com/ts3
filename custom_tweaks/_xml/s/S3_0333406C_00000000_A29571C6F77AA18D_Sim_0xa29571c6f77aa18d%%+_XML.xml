@@ -202,7 +202,7 @@
     <kClothingChangeNighttimeStarts value="24">
       <!--Going outside, a Sim won't change out of sleepwear if it is after this hour.-->
     </kClothingChangeNighttimeStarts>
-    <kClothingChangeNighttimeEnds value="9">
+    <kClothingChangeNighttimeEnds value="6">
       <!--Going outside, a Sim won't change out of sleepwear if it is before this hour.-->
     </kClothingChangeNighttimeEnds>
     <kReactToInappropriateClothingBroadcasterTuning>
