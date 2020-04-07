@@ -390,7 +390,7 @@
     <sOutfitAgeRulesMakeover value="HumanChild, HumanTeen, HumanYoungAdult, HumanAdult, HumanElder">
       <!--Valid Ages that can wear Makeover-->
     </sOutfitAgeRulesMakeover>
-    <sOutfitAgeRulesSkinnyDipTowel value="HumanTeen,HumanYoungAdult, HumanAdult, HumanElder">
+    <sOutfitAgeRulesSkinnyDipTowel value="HumanTeen, HumanYoungAdult, HumanAdult, HumanElder">
       <!--Valid Ages that can wear Skinny Dipping Towel-->
     </sOutfitAgeRulesSkinnyDipTowel>
     <kMinCelebrityLevelForLimo value="7">
