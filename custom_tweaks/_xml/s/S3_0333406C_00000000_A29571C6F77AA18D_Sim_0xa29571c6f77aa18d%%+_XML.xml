@@ -261,7 +261,7 @@
     <kTeenBreakCurfewHour value="1">
       <!--Hour of the day when a teen is considered breaking curfew (should be between curfew start and end-->
     </kTeenBreakCurfewHour>
-    <kMinRelationshipToRestoreGhost value="50">
+    <kMinRelationshipToRestoreGhost value="40">
       <!--The minimum relationship you must have with a dead sim to restore their ghost.-->
     </kMinRelationshipToRestoreGhost>
     <kMaxNumNPCBooks value="2">
