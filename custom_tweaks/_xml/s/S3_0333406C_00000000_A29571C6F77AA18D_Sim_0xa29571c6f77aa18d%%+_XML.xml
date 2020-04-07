@@ -13,7 +13,7 @@
     <kMinDistanceFromDoorWhenGoingIntoYard value="2">
       <!--Minimum distance from door to route towards when going out into yard-->
     </kMinDistanceFromDoorWhenGoingIntoYard>
-    <kMaxDistanceFromDoorWhenGoingIntoYard value="5">
+    <kMaxDistanceFromDoorWhenGoingIntoYard value="10">
       <!--Maximum distance from door to route towards when going out into yard-->
     </kMaxDistanceFromDoorWhenGoingIntoYard>
     <kMinDistanceFromDoorWhenVisiting value="1.5">
