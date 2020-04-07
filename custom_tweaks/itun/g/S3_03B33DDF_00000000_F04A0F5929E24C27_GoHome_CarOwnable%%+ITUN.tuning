@@ -22,8 +22,8 @@
 		</PosturePrecondition>
 		<Check type="All" value="0" />
 		<Tradeoff name="GoHome">
-			<Localization autoGenerate="True" />
-			<Time value="1" addRoute="True" />
+			<Localization autoGenerate="False" />
+			<Time value="4" addRoute="False" />
 			<Exit funExit="False" stressExit="False" interruptible="False" />
 			<RouteLeadIn allowed="True" />
 			<AskJoinInteraction joinable="False" />
