@@ -8705,7 +8705,6 @@
   <MaxLength>3</MaxLength>
   <RichMultiplier>3</RichMultiplier>
   <EncouragedTraits>Charismatic:2;CommitmentIssues:4;Evil,2;Flirty,4;GreatKisser:4;HopelessRomantic,2;PartyAnimal,2;Attractive,4;MidLifeCrisis:2;Carefree:2;EyeCandy:4;NoJealousy:4;InappropriateButInAGoodWay:2;StoneHearted:2;VampireHiddenTrait,2;MasterOfSeduction:4;CleanSlate:2;AboveRepoach:2;SocialButterfly:2;NightOwlTrait:2;Irresistible:4;Exhibitionist:4;ExhibitionistReward:4;WooHooer:4;Slut:4;Cheater:4</EncouragedTraits>
-  <EncouragedTraits>InfluenceRebel,5;InfluenceSocialite,2;InfluenceNerd,2</EncouragedTraits>
 <ExcludingTraits>Insane,Loser,NeverNude,Pyromaniac,Slob,Unflirty,MummyHiddenTrait,FrankensteinHiddenTrait,VomitMachinePet,NoisyPet,DestructivePet,LycanthropyHuman,LycanthropyWerewolf,RobotHiddenTrait,HoverBot,BipedBot,StinkySim,DescendantHiddenTrait,WooHooLess</ExcludingTraits>
   <EncouragedSkills>Charisma,Dancing,ClubDancing,Bartending,Bubbles,WooHoo,Exhibition,Corrupted</EncouragedSkills>
   <CelebrityMultipliers>1,1,2,3,4</CelebrityMultipliers>
