@@ -21092,6 +21092,7 @@
   <CommercialLotSubType>kEP2_FireStation</CommercialLotSubType>
   <CodeVersion>EP2</CodeVersion>
   <WorldName>NonShipping,SunsetValley,RiverView,Egypt,China,France,TwinBrook,NewDowntownWorld,Ep3FocusTestWorld,Ep3PerformanceTestWorld,StarlightShores,MoonlightFalls,DOT06,DOT07,DOT08,DOT09,DOT10,DOT11,DOT12,DOT13,DOT14,DOT15,IslaParadiso</WorldName>
+  <CanWorkOutOn>True</CanWorkOutOn>
  </CommuntiyTypes>
 <CommuntiyTypes>
   <LocalizedNameKey>Junkyard</LocalizedNameKey>
@@ -21287,13 +21288,14 @@
   <CommercialLotSubType>kEP7_PotionShopConsignmentStore</CommercialLotSubType>
   <AutoPlaceable>True</AutoPlaceable>
   <CodeVersion>EP7</CodeVersion>
+  <CanWorkOutOn>False</CanWorkOutOn>
  </CommuntiyTypes>
 <CommuntiyTypes>
   <LocalizedNameKey>WerewolfBar</LocalizedNameKey>
   <CommercialLotSubType>kEP7_WerewolfBar</CommercialLotSubType>
   <AutoPlaceable>True</AutoPlaceable>
   <CodeVersion>EP7</CodeVersion>
-  <CanWorkOutOn>True</CanWorkOutOn>
+  <CanWorkOutOn>False</CanWorkOutOn>
  </CommuntiyTypes>
 <CommuntiyTypes>
   <LocalizedNameKey>Mausoleum</LocalizedNameKey>
