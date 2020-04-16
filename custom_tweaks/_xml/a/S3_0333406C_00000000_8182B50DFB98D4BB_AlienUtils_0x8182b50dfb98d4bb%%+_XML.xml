@@ -58,7 +58,7 @@
     <kAlienHouseholdVisitChanceActiveHighLTRMod value="0.04">
       <!--If a particular alien has a hight LTR with a member of the active household, this will be added to the base chance.-->
     </kAlienHouseholdVisitChanceActiveHighLTRMod>
-    <kAlienHouseholdVisitChanceActiveSpaceRockMod value="0.15">
+    <kAlienHouseholdVisitChanceActiveSpaceRockMod value="0.0">
       <!--If the active household as at least kAlienHouseholdSpaceRocksForBonus space rocks, this will be added to the base chance.-->
     </kAlienHouseholdVisitChanceActiveSpaceRockMod>
     <kAlienHouseholdHighLTRThreshold value="80">
@@ -76,7 +76,7 @@
     <kAlienHouseholdHandinessSkill value="7, 7">
       <!--A new member of the alien household will start with their handiness skill within this range.-->
     </kAlienHouseholdHandinessSkill>
-    <kAbductionBaseChance value="0.005">
+    <kAbductionBaseChance value="0.0">
       <!--The base chance we will try to abduct a Sim from the active household on a nightly basis.-->
     </kAbductionBaseChance>
     <kAbductionTelescopeBonus value="0">
