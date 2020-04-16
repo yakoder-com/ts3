@@ -26,13 +26,13 @@
 		<Tradeoff name="ReadNewspaper">
 			<Localization autoGenerate="True" />
 			<Time value="1" addRoute="True" />
-			<Exit funExit="True" stressExit="False" interruptible="False" />
+			<Exit funExit="False" stressExit="False" interruptible="False" />
 			<RouteLeadIn allowed="True" />
 			<AskJoinInteraction joinable="False" />
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="Action Read Newspaper" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="Fun" advertised="10" locked="True" actual="10" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Fun" advertised="50" locked="True" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitBookworm" advertised="200" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 				<Change type="TraitGenius" advertised="200" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="True" updateAboveAndBelowZero="Either" />
 			</Output>
