@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kWaitTimeBeforeUpdatingBreakage value="10, 10">
+    <kWaitTimeBeforeUpdatingBreakage value="5, 30">
       <!--Range in sim minutes before breakage is updated for the object.  Randomly selected between these two values.-->
     </kWaitTimeBeforeUpdatingBreakage>
-    <kTimeBetweenUpdatingBreakage value="15, 15">
+    <kTimeBetweenUpdatingBreakage value="5, 30">
       <!--Range in sim minutes between updating breakage.  Randomly selected after each breakage update.-->
     </kTimeBetweenUpdatingBreakage>
-    <kWhackedOutScratchTimeMinMax value="5, 10">
+    <kWhackedOutScratchTimeMinMax value="30, 60">
       <!--[Min,Max] Num Sim Mins cat with 'whacked out' buff should do this interaction instead of normal amount of time. Actual will be randomly picked between the 2-->
     </kWhackedOutScratchTimeMinMax>
-    <kScratchTimeMinMax value="45, 60">
+    <kScratchTimeMinMax value="0, 15">
       <!--[Min,Max] Num Sim Mins Normal amount of time a cat will scratch this object for. Actual will be randomly picked between the 2-->
     </kScratchTimeMinMax>
     <kLargeDogScratchMinRoutingDistance value="0.85">
