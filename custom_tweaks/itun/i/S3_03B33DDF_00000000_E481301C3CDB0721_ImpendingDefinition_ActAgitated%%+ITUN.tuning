@@ -4,7 +4,7 @@
 	<Object name="Sims3.Gameplay.Actors.Sim" />
 	<CodeVersion name="EP11" considerCodeVersion="True" />
 	<Current_Tuning>
-		<Disallow DisallowAutonomous="False" DisallowUserDirected="True" DisallowPlayerSim="False" />
+		<Disallow DisallowAutonomous="True" DisallowUserDirected="True" DisallowPlayerSim="False" />
 		<BaseAvailability>
 			<AgeSpeciesAvail AgeSpeciesValue="C,T,Y,A,E" />
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
