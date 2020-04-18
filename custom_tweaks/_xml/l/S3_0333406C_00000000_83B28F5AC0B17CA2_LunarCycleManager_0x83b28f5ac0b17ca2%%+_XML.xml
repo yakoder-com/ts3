@@ -16,7 +16,7 @@
     <kChanceToSpawnZombie value="0">
       <!--Percent hance to spawn a zombie, at each check.  Range: 0-100-->
     </kChanceToSpawnZombie>
-    <kTimeBetweenZombieSpawnChecks value="90">
+    <kTimeBetweenZombieSpawnChecks value="120">
       <!--How often to check whether to spawn a zombie, during a full moon, in minutes-->
     </kTimeBetweenZombieSpawnChecks>
     <kAutoGreetZombies value="False">

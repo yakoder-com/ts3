@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kMaxStraysInWorld value="5">
+    <kMaxStraysInWorld value="3">
       <!--The max number of strays that are allowed in world at a given time.-->
     </kMaxStraysInWorld>
     <kActiveHouseholdMaxTimeBetweenVisists value="42">
       <!--The max number of hours between stray visits at the active household before one is forced.-->
     </kActiveHouseholdMaxTimeBetweenVisists>
-    <kActiveHouseholdVisitBaseChance value="0.015">
+    <kActiveHouseholdVisitBaseChance value="0.0">
       <!--The base chance a random stray pet will be grabbed from the pool to attempt a visit.-->
     </kActiveHouseholdVisitBaseChance>
-    <kActiveHouseholdVisitChanceHighLTR value="0.015">
+    <kActiveHouseholdVisitChanceHighLTR value="0.0">
       <!--When determing which pet to send to the active household, this is the chance we will send a stray with a tunably high LTR (if one exists).  If the chance fails or no valid strays are available a random stray will be sent.-->
     </kActiveHouseholdVisitChanceHighLTR>
     <kActiveHouseholdVisitLTRThreshold value="75">
@@ -25,7 +25,7 @@
     <kRandomLotVisitChance value="0.01">
       <!--The chance a random stray pet will be grabbed from the pool to visit a random lot.-->
     </kRandomLotVisitChance>
-    <kActiveHouseholdVisitChanceIncludeLowLTR value="0.015">
+    <kActiveHouseholdVisitChanceIncludeLowLTR value="0.0">
       <!--If not sending a hight LTR stray, this is the chance low LTR strays will be included in the list of potential strays.-->
     </kActiveHouseholdVisitChanceIncludeLowLTR>
     <kActiveHouseholdVisitLowLTRThreshold value="-75">

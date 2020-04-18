@@ -23,7 +23,7 @@
       <kIsRecurrent value="False">
         <!--Whether the service is recurrent (true) or one-off (false).  Recurrent services are the only type which can be cancelled through the phone dialog.-->
       </kIsRecurrent>
-      <kAlwaysTryToSendSameSim value="True">
+      <kAlwaysTryToSendSameSim value="False">
         <!--Whether or not the service always tries to send the same NPC to a specific household-->
       </kAlwaysTryToSendSameSim>
     </kServiceTuning>

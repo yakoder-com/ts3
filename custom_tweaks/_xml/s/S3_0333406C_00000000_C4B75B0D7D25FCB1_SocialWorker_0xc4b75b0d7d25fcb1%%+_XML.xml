@@ -5,7 +5,7 @@
       <!--Length of time (in hours) that SocialWorker waits before routing to lot. Default 0.5f-->
     </kDelayBeforeArriving>
     <kServiceTuning>
-      <kMaxNumNPCsInPool value="1">
+      <kMaxNumNPCsInPool value="2">
         <!--Max num NPCs at once in service-->
       </kMaxNumNPCsInPool>
       <kCost value="0">
@@ -17,7 +17,7 @@
       <kIsRecurrent value="False">
         <!--Whether the service is recurrent (true) or one-off (false).  Recurrent services are the only type which can be cancelled through the phone dialog.-->
       </kIsRecurrent>
-      <kAlwaysTryToSendSameSim value="True">
+      <kAlwaysTryToSendSameSim value="False">
         <!--Whether or not the service always tries to send the same NPC to a specific household-->
       </kAlwaysTryToSendSameSim>
     </kServiceTuning>

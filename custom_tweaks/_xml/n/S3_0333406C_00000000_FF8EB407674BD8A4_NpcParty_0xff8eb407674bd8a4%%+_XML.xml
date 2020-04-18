@@ -35,7 +35,7 @@
       <MinPartyTime value="2">
         <!--Min length of party (in hours): Sims will not leave until this many hours after they arrive (unless motive distress)-->
       </MinPartyTime>
-      <ChanceOfBringingFood value="35">
+      <ChanceOfBringingFood value="0">
         <!--Percentage chance of bringing food-->
       </ChanceOfBringingFood>
       <HourAtWhichChildrenGoHome value="22">

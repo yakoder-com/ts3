@@ -41,7 +41,7 @@
       <!--Money paid per meeting on a rabbithole. Positive int. Initial GPE default: 100.-->
     </kMoneyForHoldingMeetings>
     <kLevelForLimo value="8" />
-    <kEarliestTimeToHoldMeeting value="8">
+    <kEarliestTimeToHoldMeeting value="9">
       <!--Earliest hour to be able to start meeting at highest level. Range: [0, 23]. Units: Sim housrs. Initial GPE Default: 7f-->
     </kEarliestTimeToHoldMeeting>
     <kLatestTimeToHoldMeeting value="18">

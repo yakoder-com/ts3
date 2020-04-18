@@ -6,13 +6,13 @@
       <kInteractionSkillLevel value="0">
         <!--The level at which the Sim unlocks this gardening interaction.-->
       </kInteractionSkillLevel>
-      <kTimeMin value="1">
+      <kTimeMin value="0.5">
         <!--The time a Sim of maximum skill will take to complete the gardening interaction.-->
       </kTimeMin>
-      <kTimeMax value="2">
+      <kTimeMax value="1.5">
         <!--The time a Sim of minimum skill will take to complete the gardening interaction.-->
       </kTimeMax>
-      <kTimeBonusMinSkill value="1">
+      <kTimeBonusMinSkill value="4">
         <!--The minimum skill a Sim must obtain to get bonuses on the interaction time.  Until the Sim has greater skill than this value, they will always take kTimeMax.-->
       </kTimeBonusMinSkill>
     </kHarvestInteractionTuning>

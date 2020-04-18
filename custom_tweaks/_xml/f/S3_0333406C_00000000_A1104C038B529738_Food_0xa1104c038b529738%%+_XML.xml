@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kNumServingsForGroupMeal value="10">
+    <kNumServingsForGroupMeal value="12">
       <!--This is used to decide if your Sim runs to the toilet.-->
     </kNumServingsForGroupMeal>
-    <kNumServingsLeftWhenAppearsHalfDepleted value="5">
+    <kNumServingsLeftWhenAppearsHalfDepleted value="6">
       <!--The number of servings left on a serving object when it snaps to the half-eaten visualization.-->
     </kNumServingsLeftWhenAppearsHalfDepleted>
     <kBaseCookMinutesSingleServing value="10">

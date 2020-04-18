@@ -19,10 +19,10 @@
     <kMoodThresholdForSignificantlyAbove value="20">
       <!--If the Sim's mood is this much above the threshold, it counts as significantly above (and he will do extra enthusiastic cleaning or whatever)-->
     </kMoodThresholdForSignificantlyAbove>
-    <kMinJealousReactionDistance value="2">
+    <kMinJealousReactionDistance value="0">
       <!--Min route distance (in meters) that Sims route towards for JealousReaction-->
     </kMinJealousReactionDistance>
-    <kMaxJealousReactionDistance value="4">
+    <kMaxJealousReactionDistance value="0">
       <!--Max route distance (in meters) that Sims route towards for JealousReaction-->
     </kMaxJealousReactionDistance>
     <kDaysSimCannotAdopt value="5">
@@ -31,10 +31,10 @@
     <kBFFAutonomyMultiplier value="1.2">
       <!--Range:  Autonomy multiplier.  Description:  Additional autonomy multiplier when a BFF considers using an object that another BFF is using.-->
     </kBFFAutonomyMultiplier>
-    <kBFFDistanceForJealousy value="8">
+    <kBFFDistanceForJealousy value="1">
       <!--Range:  Distance.  Description:  Distance at which an ex-BFF will be jealous upon seeing the Sim make a new BFF.-->
     </kBFFDistanceForJealousy>
-    <kSnubbedLikingPenalty value="-20">
+    <kSnubbedLikingPenalty value="-5">
       <!--Range:  Negative floats.  Description:  Liking value that drops for a snubbed teen with all nearby teens.-->
     </kSnubbedLikingPenalty>
     <kSnubbedDistance value="8">
@@ -43,13 +43,13 @@
     <kSnubbedInsultingSTCAmount value="50">
       <!--Range:  Liking value.  Description:  How much nearby teens update the Insulting commodity after a snub.-->
     </kSnubbedInsultingSTCAmount>
-    <kMinAskToBehaveDistance value="2">
+    <kMinAskToBehaveDistance value="1">
       <!--Min route distance (in meters) that Sims route towards for AskToBehave-->
     </kMinAskToBehaveDistance>
-    <kMaxAskToBehaveDistance value="2">
+    <kMaxAskToBehaveDistance value="1">
       <!--Max route distance (in meters) that Sims route towards for AskToBehave-->
     </kMaxAskToBehaveDistance>
-    <kJealousyBetrayalMemoryDurationInHours value="48">
+    <kJealousyBetrayalMemoryDurationInHours value="1">
       <!--The time (in Sim hours) for which Sims will remember romantic betrayals and be angry-->
     </kJealousyBetrayalMemoryDurationInHours>
     <kDesireToSocializeWithBetrayer value="3000">
@@ -58,13 +58,13 @@
     <kLikingThresholdForMarriageAvailability value="40">
       <!--Range: Liking (-100 to 100). LTR threshold for Propose Marriage to be available-->
     </kLikingThresholdForMarriageAvailability>
-    <kMinHoursToHoldRelationshipState value="48">
+    <kMinHoursToHoldRelationshipState value="672">
       <!--Min number of sim hours before a relationship LTR state starts to decay-->
     </kMinHoursToHoldRelationshipState>
-    <kNumDaysAfterWhichZeroRelationshipIsDropped value="3">
+    <kNumDaysAfterWhichZeroRelationshipIsDropped value="30">
       <!--If a relationship is zero for this many days, it will be removed altogether-->
     </kNumDaysAfterWhichZeroRelationshipIsDropped>
-    <kFightLikingValue value="-20">
+    <kFightLikingValue value="-10">
       <!--Range:  Liking value.  Description:  Liking value below which the 'Fight' interaction becomes available.-->
     </kFightLikingValue>
     <kSlapLikingValue value="-10">
@@ -172,7 +172,7 @@
     <kInnerBeautyConversationMultiplyer value="0.25">
       <!--Chance a sim with Inner Beauty will want to join a group conversation multiplier. e.g. ConversationScore = ConversationScore * [multiplier]-->
     </kInnerBeautyConversationMultiplyer>
-    <kSocialMultiplierToTalkWithIrresistibleSims value="50">
+    <kSocialMultiplierToTalkWithIrresistibleSims value="20">
       <!--Range: 0 - 3. Scoring multiplier for Sims to talk with irresistible Sims-->
     </kSocialMultiplierToTalkWithIrresistibleSims>
   </Current_Tuning>

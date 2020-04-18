@@ -34,7 +34,7 @@
     <kSwimmingInPoolFunAmount value="20">
       <!--Range: Positive floats.  Description: Increase in fun per sim hour from swimming in pool posture.-->
     </kSwimmingInPoolFunAmount>
-    <kHungerMotiveDistressForSocialWorker value="-90">
+    <kHungerMotiveDistressForSocialWorker value="-100">
       <!--Range: Negative floats.  Description:  Once a child or below sim reaches this threshold for hunger, social worker will be requested.-->
     </kHungerMotiveDistressForSocialWorker>
     <kSocialMotiveDistressForSocialWorker value="-100">

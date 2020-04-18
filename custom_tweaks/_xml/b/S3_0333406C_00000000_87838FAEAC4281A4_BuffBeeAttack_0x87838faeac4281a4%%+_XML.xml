@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kBeeStingBuffChance value="50">
+    <kBeeStingBuffChance value="25">
       <!--Range:  0 - 100  Description:  Chance that the sim being attacked will gain the Bee Sting buff-->
     </kBeeStingBuffChance>
     <kBeeStingMoodScore value="-30">

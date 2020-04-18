@@ -5,22 +5,22 @@
       <!--The Distance sim will route to firecracker to pick it up.-->
     </kCarryRouteRadius>
     <kFireworksTuning>
-      <kMinMinutesBeforeLaunch value="5">
+      <kMinMinutesBeforeLaunch value="1">
         <!--The minimum number of Sim minutes between charges.-->
       </kMinMinutesBeforeLaunch>
-      <kMaxMinutesBeforeLaunch value="8">
+      <kMaxMinutesBeforeLaunch value="3">
         <!--The maximum number of Sim minutes between charges.-->
       </kMaxMinutesBeforeLaunch>
-      <kMinMinutesBetweenCharge value="3">
+      <kMinMinutesBetweenCharge value="1">
         <!--The minimum number of Sim minutes between charges.-->
       </kMinMinutesBetweenCharge>
-      <kMaxMinutesBetweenCharge value="6">
+      <kMaxMinutesBetweenCharge value="3">
         <!--The maximum number of Sim minutes between charges.-->
       </kMaxMinutesBetweenCharge>
       <kNumBoomsForExtravaganza value="4">
         <!--The number of Fireworks/Firecrackers sim must have in inventory to do Light all and Perform extravaganza Interaction-->
       </kNumBoomsForExtravaganza>
-      <kChanceOfLaunchFailure value="10">
+      <kChanceOfLaunchFailure value="5">
         <!--The percent chance the firework will 'fail' during the launch.-->
       </kChanceOfLaunchFailure>
       <kWatchMinDistanceFromFirework value="5">

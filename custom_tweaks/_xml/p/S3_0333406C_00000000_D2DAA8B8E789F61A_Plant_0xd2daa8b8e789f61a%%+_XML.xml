@@ -199,7 +199,7 @@
     <kOptimumFertilizerValue value="50">
       <!--How potent the Optimum Fertilized is-->
     </kOptimumFertilizerValue>
-    <kOptimumFertilizeDuration value="3">
+    <kOptimumFertilizeDuration value="2">
       <!--How long it takes to perform optimum fertilization-->
     </kOptimumFertilizeDuration>
   </Current_Tuning>

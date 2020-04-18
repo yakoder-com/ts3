@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kHoursToWaitForGreet value="0.01">
+    <kHoursToWaitForGreet value="0.001">
       <!--Hours the mascot will wait outside the player's house to be greeted-->
     </kHoursToWaitForGreet>
-    <kHoursToIdle value="0.01">
+    <kHoursToIdle value="0.001">
       <!--Hours the mascot will wait around the player's home after placing the welcome kit.-->
     </kHoursToIdle>
     <kCameraCenterOnLotTime value="2">

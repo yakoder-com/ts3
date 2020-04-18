@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kSimDaysToRememberUserRejection value="5">
+    <kSimDaysToRememberUserRejection value="14">
       <!--Range:  Sim days.  Description:  Number of Sim days we should remember that a user rejected an opportunity.-->
     </kSimDaysToRememberUserRejection>
     <kUserRejectedOpportunityWeightMultiplier value="0.25">

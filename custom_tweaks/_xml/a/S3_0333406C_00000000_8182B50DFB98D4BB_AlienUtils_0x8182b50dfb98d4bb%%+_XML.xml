@@ -49,7 +49,7 @@
     <kAlienHouseholdValidAges value="YoungAdult, Adult, Elder">
       <!--The valid ages for members of the alien household.-->
     </kAlienHouseholdValidAges>
-    <kAlienHouseholdLatestVisitHour value="3">
+    <kAlienHouseholdLatestVisitHour value="1">
       <!--The latest hour of the day we'll try to send an alien.  The window is from midnight to this value.  Default value is 3, meaning we'll try to send an alien a random time from 12am - 3am.-->
     </kAlienHouseholdLatestVisitHour>
     <kAlienHouseholdVisitChanceActive value="0.01">
@@ -79,13 +79,13 @@
     <kAbductionBaseChance value="0.0">
       <!--The base chance we will try to abduct a Sim from the active household on a nightly basis.-->
     </kAbductionBaseChance>
-    <kAbductionTelescopeBonus value="0">
+    <kAbductionTelescopeBonus value="0.0">
       <!--This value is added to kAbductionBaseChance if a member of the active household used a telescope.-->
     </kAbductionTelescopeBonus>
-    <kAbductionSpaceRockBonus value="0">
+    <kAbductionSpaceRockBonus value="0.0">
       <!--This value is added to kAbductionBaseChance for each space rock collected by an active household member.-->
     </kAbductionSpaceRockBonus>
-    <kAbductionMaxSpaceRockBonus value="0">
+    <kAbductionMaxSpaceRockBonus value="0.0">
       <!--This is the max bonus collecting space rocks can provide.-->
     </kAbductionMaxSpaceRockBonus>
     <kAbductionLength value="30">
@@ -94,7 +94,7 @@
     <kAbductionReactions value="Cry, FreakOut, Nauseous, WhyMe">
       <!--When the abductee returns to their house, they will play one of these reactions randomly.-->
     </kAbductionReactions>
-    <kAlienHouseholdVisitChanceOffspring value="0">
+    <kAlienHouseholdVisitChanceOffspring value="0.1">
       <!--If a particular alien has offspring in the active household, this will be added to the base chance.-->
     </kAlienHouseholdVisitChanceOffspring>
   </Current_Tuning>

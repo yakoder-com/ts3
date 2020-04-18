@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kChanceToHavePlantSimBaby value="1">
+    <kChanceToHavePlantSimBaby value="0.5">
       <!--Chance to have a Plant Sim baby-->
     </kChanceToHavePlantSimBaby>
     <kGoodTraits value="GreenThumb, LovesTheOutdoors, Athletic, Good">

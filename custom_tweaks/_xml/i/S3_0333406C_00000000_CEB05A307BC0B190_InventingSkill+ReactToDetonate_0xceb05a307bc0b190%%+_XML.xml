@@ -10,10 +10,10 @@
     <kStcValueFromDetonate value="-50">
       <!--Target STC value due to detonation-->
     </kStcValueFromDetonate>
-    <kMinRunAwayRadius value="5">
+    <kMinRunAwayRadius value="8">
       <!--Minimum Distance sim should run away from the object being detonated.-->
     </kMinRunAwayRadius>
-    <kMaxRunAwayRadius value="11">
+    <kMaxRunAwayRadius value="12">
       <!--Maximum Distance sim should run away from the object being detonated.-->
     </kMaxRunAwayRadius>
   </Current_Tuning>

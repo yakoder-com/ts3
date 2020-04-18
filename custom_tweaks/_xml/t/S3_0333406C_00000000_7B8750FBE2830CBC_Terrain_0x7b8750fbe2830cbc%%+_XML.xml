@@ -7,7 +7,7 @@
     <kPlayInOceanMaxJigDepth value="0.55">
       <!--Max depth in meters lowest depth the Jig can be in.  GPE default 1.-->
     </kPlayInOceanMaxJigDepth>
-    <kPlayInOceanLoopLength value="60">
+    <kPlayInOceanLoopLength value="20">
       <!--Time in sim minutes for play in water animation to loop.  GPE default 20.0.-->
     </kPlayInOceanLoopLength>
     <kPlayInOceanPlantSimWaterGain value="60">

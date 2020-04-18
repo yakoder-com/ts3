@@ -25,7 +25,7 @@
     <kOccupancyFluctuation value="0.1">
       <!--occupancy fluctuation-->
     </kOccupancyFluctuation>
-    <kMinOccupancy value="0.2">
+    <kMinOccupancy value="0.33">
       <!--Minimum occupancy percent-->
     </kMinOccupancy>
     <kMinPercentPrice value="3">

@@ -142,7 +142,7 @@
     <kBraveTraitExtinguishFireSpeedMultiplier value=".5">
       <!--Range: Positive floats under 1.0f.  Description: Brave Sims put out fires faster at a rate defined by this multiplier (less than 1.0f means time is shortened).-->
     </kBraveTraitExtinguishFireSpeedMultiplier>
-    <kBraveTraitSimExtinguishTime value="20">
+    <kBraveTraitSimExtinguishTime value="15">
       <!--Range: Positive floats.  Description:  Number of Sim minutes that a Brave Sim will put out fires before running to put self out.-->
     </kBraveTraitSimExtinguishTime>
     <kDaredevilTraitExtinguishFireSpeedMultiplier value="0.66">
@@ -537,7 +537,7 @@
     <kMeanTraitMoodPenaltyPerEnemy value="5">
       <!--Range:  Mood value.  Description:  Mood penalty per enemy that the MeanSpirited Trait Sim has.-->
     </kMeanTraitMoodPenaltyPerEnemy>
-    <kInappropriateTraitReactionRadius value="7">
+    <kInappropriateTraitReactionRadius value="1">
       <!--Range:  Tiles.  Description:  Tiles away that a host is from an inappropriate guest at which the host will play the 'react to inappropriate action' animation.  For example, if an inappropriate Sim takes a sponge bath and the host is X tiles away, this animation will trigger.-->
     </kInappropriateTraitReactionRadius>
     <kAmbitiousTraitPerformanceBonus value="2">

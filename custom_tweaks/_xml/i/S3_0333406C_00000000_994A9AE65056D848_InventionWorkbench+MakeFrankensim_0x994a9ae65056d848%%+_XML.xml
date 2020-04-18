@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kTimeToMakeFrankensim value="900">
+    <kTimeToMakeFrankensim value="240">
       <!--Amount of time it takes to make Frankensim-->
     </kTimeToMakeFrankensim>
   </Current_Tuning>

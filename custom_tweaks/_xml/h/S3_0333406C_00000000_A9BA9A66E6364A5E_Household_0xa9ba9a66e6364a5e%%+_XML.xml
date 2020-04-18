@@ -13,7 +13,7 @@
     <kNumServingsOnStartup value="3">
       <!--How many servings of level 0 ingredients each fridge gets on startup, or when the active household changes.-->
     </kNumServingsOnStartup>
-    <kHoursToCheckForSocialWorkerTrigger value="24">
+    <kHoursToCheckForSocialWorkerTrigger value="1000000">
       <!--Once we have shown a TNS saying that you need to take care of the kids, we wait for this duration and then check for the motive levels of all the kids. Units: Sim Hours. Positive float. Initial GPE Default: 4.-->
     </kHoursToCheckForSocialWorkerTrigger>
     <kHoursReTriggerRepoman value="4">

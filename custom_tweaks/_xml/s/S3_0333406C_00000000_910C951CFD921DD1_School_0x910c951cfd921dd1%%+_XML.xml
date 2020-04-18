@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kFieldTripChance value="0.5">
+    <kFieldTripChance value="0.25">
       <!--Chance of a field trip-->
     </kFieldTripChance>
     <kFieldTripDelayMinutes value="30">
@@ -19,10 +19,10 @@
     <kGraduationWaitLength value="60">
       <!--Range: Description: Time to wait for other graduates to show in minutes.-->
     </kGraduationWaitLength>
-    <kMinDaysBetweenChildFieldTripRequests value="2">
+    <kMinDaysBetweenChildFieldTripRequests value="5">
       <!--Minimum days between field trip requests-->
     </kMinDaysBetweenChildFieldTripRequests>
-    <kMinDaysBetweenTeenFieldTripRequests value="4">
+    <kMinDaysBetweenTeenFieldTripRequests value="10">
       <!--Minimum days between field trip requests-->
     </kMinDaysBetweenTeenFieldTripRequests>
     <kSnowDayTimeWindow value="8">

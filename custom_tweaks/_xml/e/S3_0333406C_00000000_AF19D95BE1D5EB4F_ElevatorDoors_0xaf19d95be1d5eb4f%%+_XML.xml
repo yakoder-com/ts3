@@ -40,7 +40,7 @@
     <kMaxSimsInElevatorLine value="12">
       <!--Maximum number of sims that should be waiting in line for the elevator.-->
     </kMaxSimsInElevatorLine>
-    <kElevatorDoorOpenTimeoutTime value="2">
+    <kElevatorDoorOpenTimeoutTime value="1">
       <!--The elevator door can sometimes remain open if a sim has cancelled their route in. This is the amount of time before the door will close on its own.-->
     </kElevatorDoorOpenTimeoutTime>
     <kWooHooFailWaitTime value="1, 1">

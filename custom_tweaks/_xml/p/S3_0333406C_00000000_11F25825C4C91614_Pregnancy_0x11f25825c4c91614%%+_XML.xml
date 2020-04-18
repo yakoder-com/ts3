@@ -7,7 +7,7 @@
     <kHourToStartWalkingPregnant value="40">
       <!--(24-60) Which hour of pregnancy the Sim begins to use pregnant locomotion-->
     </kHourToStartWalkingPregnant>
-    <kNumberOfPuddlesForWaterBreak value="2">
+    <kNumberOfPuddlesForWaterBreak value="3">
       <!--Number of puddles made by water break, set to 0 for no water break.-->
     </kNumberOfPuddlesForWaterBreak>
     <kPregnantDaysOff value="7">

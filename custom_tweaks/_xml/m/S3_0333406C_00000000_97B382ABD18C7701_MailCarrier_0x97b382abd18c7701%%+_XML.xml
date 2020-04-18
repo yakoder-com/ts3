@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kStartTime value="10">
+    <kStartTime value="14">
       <!--Start time for mail carrier to arrive (in hours)-->
     </kStartTime>
-    <kEndTime value="11">
+    <kEndTime value="15">
       <!--End time for mail carrier to leave (in hours)-->
     </kEndTime>
-    <kDelayBeforeArriving value="0">
+    <kDelayBeforeArriving value="0.15">
       <!--Length of time (in hours) that deliverer waits before routing to lot-->
     </kDelayBeforeArriving>
-    <kDelayBeforeLeaving value="0.01">
+    <kDelayBeforeLeaving value="0.15">
       <!--Length of time (in hours) that deliverer waits before leaving the lot, after his work is done-->
     </kDelayBeforeLeaving>
-    <kExtraWaitTimeAfterSocializing value="0.15">
+    <kExtraWaitTimeAfterSocializing value="0.5">
       <!--Extra time (in hours) to wait before leaving if the service NPC is socialized with-->
     </kExtraWaitTimeAfterSocializing>
     <kServiceTuning>
@@ -29,7 +29,7 @@
       <kIsRecurrent value="True">
         <!--Whether the service is recurrent (true) or one-off (false).  Recurrent services are the only type which can be cancelled through the phone dialog.-->
       </kIsRecurrent>
-      <kAlwaysTryToSendSameSim value="False">
+      <kAlwaysTryToSendSameSim value="True">
         <!--Whether or not the service always tries to send the same NPC to a specific household-->
       </kAlwaysTryToSendSameSim>
     </kServiceTuning>

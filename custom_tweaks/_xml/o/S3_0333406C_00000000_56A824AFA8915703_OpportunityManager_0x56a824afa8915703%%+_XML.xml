@@ -13,7 +13,7 @@
     <kNumLocationBasedOpportunities value="0">
       <!--The number of location-based opportunities to choose per week.-->
     </kNumLocationBasedOpportunities>
-    <kHourToChooseLocationBasedOpportunities value="8.2">
+    <kHourToChooseLocationBasedOpportunities value="11.2">
       <!--The hour of the day on Sunday to choose new location-based opportunities.-->
     </kHourToChooseLocationBasedOpportunities>
     <kGoToRouteRadius value="3">

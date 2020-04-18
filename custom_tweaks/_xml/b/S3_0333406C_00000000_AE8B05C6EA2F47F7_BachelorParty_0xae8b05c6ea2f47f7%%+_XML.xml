@@ -5,13 +5,13 @@
       <PreparationTime value="2">
         <!--How long the host will prepare before the party starts (in hours)-->
       </PreparationTime>
-      <PercentageChanceOfBringingAFriend value="0">
+      <PercentageChanceOfBringingAFriend value="25">
         <!--Percentage chance (0 to 100) of bringing a friend along to the party-->
       </PercentageChanceOfBringingAFriend>
       <MinPartyTime value="4">
         <!--Min length of party (in hours): Sims will not leave until this many hours after they arrive (unless motive distress)-->
       </MinPartyTime>
-      <ChanceOfBringingFood value="25">
+      <ChanceOfBringingFood value="0">
         <!--Percentage chance of bringing food-->
       </ChanceOfBringingFood>
       <HourAtWhichChildrenGoHome value="22">
@@ -40,7 +40,7 @@
     <kNumberOfPeopleRequiredForDancer value="4">
       <!--Range:  0+  Description:  The number of people necessary for a dancer to show up-->
     </kNumberOfPeopleRequiredForDancer>
-    <kAmountOfTimeRequiredBeforeDancer value="60">
+    <kAmountOfTimeRequiredBeforeDancer value="15">
       <!--Range:  0+  Description:  How long, in Sim minutes, before a dancer can show up-->
     </kAmountOfTimeRequiredBeforeDancer>
     <kAvailableOutfitCategories value="Formalwear">
@@ -55,7 +55,7 @@
     <kSpecialOutfitCount value="12">
       <!--Range:  0+  Description:  The number of available special outfits-->
     </kSpecialOutfitCount>
-    <kNumberOfPeopleRequiredForExtraDancer value="10">
+    <kNumberOfPeopleRequiredForExtraDancer value="6">
       <!--Range:  0+  Description:  The number of people necessary for an exta dancer to show up-->
     </kNumberOfPeopleRequiredForExtraDancer>
     <kIncreasedEffectivenesses value="AcceptingOfRomance, Romance, AcceptingOfHumor, Humor">
@@ -73,7 +73,7 @@
     <kUnderwearOutfitCount value="14">
       <!--Range:  0+  Description:  The number of available underwear outfits-->
     </kUnderwearOutfitCount>
-    <kMaximumAllowedJealousyLevel value="Medium">
+    <kMaximumAllowedJealousyLevel value="None">
       <!--Range:  JealousyLevel  Description:  The maximum jealousy level below which Sims will not react negatively to cheating Sims-->
     </kMaximumAllowedJealousyLevel>
   </Current_Tuning>

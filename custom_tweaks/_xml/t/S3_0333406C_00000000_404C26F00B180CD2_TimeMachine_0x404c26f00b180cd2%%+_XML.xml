@@ -131,7 +131,7 @@
     <kNumTimeTravelBooks value="10">
       <!--The number of time travel books defined in Books.xls.  Currently future and past books must have the same number.-->
     </kNumTimeTravelBooks>
-    <kBabyMadeChance value="55">
+    <kBabyMadeChance value="0">
       <!--Range: 0-100. Chance of getting a new Sim when trying for baby.-->
     </kBabyMadeChance>
     <kTimeTravelBuffMoodPositive value="20">

@@ -16,13 +16,13 @@
     <kQuotaThreshold value="0.1">
       <!--The percentage of our quota we can go over or under the quota to be considered done stealing. Should be between 0 and 1.-->
     </kQuotaThreshold>
-    <kChanceOfBurglar value="0.025">
+    <kChanceOfBurglar value="0.0">
       <!--The chance of a burglar appearing once everyone is asleep. Should be between 0 and 1.-->
     </kChanceOfBurglar>
     <kMaxHoursToShowUp value="4">
       <!--The max number of hours after the last sim goes to sleep a burgler will show up. Actual time will be randomly chosen between 0 and this value.-->
     </kMaxHoursToShowUp>
-    <kMinDaysBetweenBurgles value="28">
+    <kMinDaysBetweenBurgles value="4000">
       <!--The minimum number of days between burgles.-->
     </kMinDaysBetweenBurgles>
     <kBurglarReactionRelationshipHit value="-50">
@@ -31,7 +31,7 @@
     <kSimoleansForOnePercentIncrease value="20000">
       <!--For each kSimoleansForOnePercentIncrease dollars of household worth, the chance of a burglar spawning is increased by 1 percent.-->
     </kSimoleansForOnePercentIncrease>
-    <kMaxBurglarSpawnChance value="0.1">
+    <kMaxBurglarSpawnChance value="0.0">
       <!--The maximum chance of a burglar spawning. Range:[0,1]-->
     </kMaxBurglarSpawnChance>
     <kStealRouteRadius value="2">

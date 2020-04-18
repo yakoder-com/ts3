@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kHourItsTooLateToCall value="24">
+    <kHourItsTooLateToCall value="20">
       <!--Time of day it is too late to call-->
     </kHourItsTooLateToCall>
-    <kHourItsTooEarlyToCall value="6">
+    <kHourItsTooEarlyToCall value="8">
       <!--Time of day it is too early to call-->
     </kHourItsTooEarlyToCall>
-    <kHourItsOkayToCall value="6">
+    <kHourItsOkayToCall value="10">
       <!--Time of day it is okay to call-->
     </kHourItsOkayToCall>
   </Current_Tuning>

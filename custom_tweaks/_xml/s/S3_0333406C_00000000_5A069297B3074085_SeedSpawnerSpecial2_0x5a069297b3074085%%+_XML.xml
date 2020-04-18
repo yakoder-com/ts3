@@ -3,7 +3,7 @@
   <Current_Tuning>
     <kTuningSeedSpawner>
       <TuningObjectSpawner>
-        <MaxSpawnCapacity value="3">
+        <MaxSpawnCapacity value="5">
           <!--Max number of untaken objects that this Spawner can have in-world.-->
         </MaxSpawnCapacity>
         <SpawnFrequency value="10,20">
@@ -37,13 +37,13 @@
       <QualityRareMax value="Perfect">
         <!--When the Spawner is about to spawn a Rare seed, the seed's Quality is randomly chosen using a bell curve with this value as the maximum bound of the bell curve.-->
       </QualityRareMax>
-      <QualitySpecialMin value="Neutral">
+      <QualitySpecialMin value="Nice">
         <!--When the Spawner is about to spawn a Special seed, the seed's Quality is randomly chosen using a bell curve with this value as the minimum bound of the bell curve.-->
       </QualitySpecialMin>
-      <QualitySpecialMax value="Great">
+      <QualitySpecialMax value="Perfect">
         <!--When the Spawner is about to spawn a Special seed, the seed's Quality is randomly chosen using a bell curve with this value as the maximum bound of the bell curve.-->
       </QualitySpecialMax>
-      <ChanceOfAMushroom value="0">
+      <ChanceOfAMushroom value="0.1">
         <!--Chance that seed is really a mushroom.-->
       </ChanceOfAMushroom>
     </kTuningSeedSpawner>

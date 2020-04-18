@@ -68,10 +68,10 @@
         <!--Set to True if the object should shock the Sim if sim is standing in a puddle during upgrade.  False otherwise-->
       </ShouldShockInPuddle>
     </kUpgradeAutoWaterTuning>
-    <kAutoWaterTimeOfDay value="4">
+    <kAutoWaterTimeOfDay value="1">
       <!--(Positive float, time of day - initial GP default 5) Time of day that the sprinkler turns on automatically, if upgraded.-->
     </kAutoWaterTimeOfDay>
-    <kAutoWaterOffTimeOfDay value="7">
+    <kAutoWaterOffTimeOfDay value="3">
       <!--(Positive float, time of day - initial GP default 6) Time of day that the sprinkler should turn off automatically, if upgraded.-->
     </kAutoWaterOffTimeOfDay>
     <kProcessPeriod value="3">

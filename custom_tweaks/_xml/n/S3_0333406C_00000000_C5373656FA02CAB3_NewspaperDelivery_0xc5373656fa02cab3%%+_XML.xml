@@ -13,7 +13,7 @@
     <kEndTime value="7">
       <!--End time for maid to leave (in hours)-->
     </kEndTime>
-    <kExtraWaitTimeAfterSocializing value="0.15">
+    <kExtraWaitTimeAfterSocializing value="0.05">
       <!--Extra time (in hours) to wait before leaving if the service NPC is socialized with-->
     </kExtraWaitTimeAfterSocializing>
     <kServiceTuning>

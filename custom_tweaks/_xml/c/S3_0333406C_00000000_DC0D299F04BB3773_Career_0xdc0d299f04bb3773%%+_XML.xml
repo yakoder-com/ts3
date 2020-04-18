@@ -19,7 +19,7 @@
     <kWorkaholicTraitMissingWorkStressPerHour value="-15">
       <!--Should be negative: Amount of fun/stress a workaholic Sim loses per hour-->
     </kWorkaholicTraitMissingWorkStressPerHour>
-    <kNumHoursEarlyCanShowUpForWork value="2">
+    <kNumHoursEarlyCanShowUpForWork value="4">
       <!--The number of hours early a Sim can show up for work and wait outside-->
     </kNumHoursEarlyCanShowUpForWork>
     <kWaitOneDayBeforeStartingJob value="True">
@@ -61,7 +61,7 @@
     <kMinHoursBetweenShiftsAfterPromotion value="8">
       <!--If a Sim is promoted and their next shift starts in less time than this tunable, they will have the day off.-->
     </kMinHoursBetweenShiftsAfterPromotion>
-    <kSimMinutesToConsiderSkippingWork value="30">
+    <kSimMinutesToConsiderSkippingWork value="60">
       <!--The number of minutes after work was supposed to start to count the sim as skipping work.-->
     </kSimMinutesToConsiderSkippingWork>
     <kHolidayBonusDaysEmployeedRange value="1, 10">

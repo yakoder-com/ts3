@@ -18,7 +18,7 @@
         <!--Whether or not the service always tries to send the same NPC to a specific household-->
       </kAlwaysTryToSendSameSim>
     </kServiceTuning>
-    <kMinHungerBeforeStartCooking value="-40">
+    <kMinHungerBeforeStartCooking value="-10">
       <!--If any of the CTYAE Sims get below this hunger value, Butler starts cooking-->
     </kMinHungerBeforeStartCooking>
     <kTimeWaitBeforePutawayLeftovers value="90">
@@ -33,7 +33,7 @@
     <kUseObjectInSameRoomAsSleeperMultiplier value="0.0001">
       <!--Multiplier for interactions in a room where a sim is sleeping-->
     </kUseObjectInSameRoomAsSleeperMultiplier>
-    <kRelationshipLevelForQuit value="-45">
+    <kRelationshipLevelForQuit value="-50">
       <!--If Butler's relationship with any YAE falls below this level, he will quit-->
     </kRelationshipLevelForQuit>
     <kTimeCanStartCookBeforeSimWakes value="1.0">

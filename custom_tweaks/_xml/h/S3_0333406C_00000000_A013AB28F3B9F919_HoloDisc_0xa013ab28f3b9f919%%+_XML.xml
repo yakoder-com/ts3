@@ -4,7 +4,7 @@
     <kSpriteMoodThreshold value="10, 75">
       <!--Range: 0-100.  Description: Thresholds for the Sprite's mood [medium, high].-->
     </kSpriteMoodThreshold>
-    <kMoodDecayPerHour value="2.5">
+    <kMoodDecayPerHour value="0.5">
       <!--Range: Negative Float.  Description: Mood decay per hour.-->
     </kMoodDecayPerHour>
     <kSpriteNeedDuration value="2.0">

@@ -13,16 +13,16 @@
     <kExtraWaitTimeAfterSocializing value="0.25">
       <!--Extra time (in hours) to wait before leaving if the service NPC is socialized with-->
     </kExtraWaitTimeAfterSocializing>
-    <kMinCleaningTime value="2">
+    <kMinCleaningTime value="4">
       <!--Range: Hours. Min number of hours that maid will stay at the house-->
     </kMinCleaningTime>
     <kMaxCleaningTime value="7">
       <!--Range: Hours. Max number of hours that maid will stay at the house-->
     </kMaxCleaningTime>
-    <kEarliestTimeSimCanArrive value="9">
+    <kEarliestTimeSimCanArrive value="8">
       <!--The earliest time (in hours) the maid can arrive -->
     </kEarliestTimeSimCanArrive>
-    <kLatestTimeSimCanArrive value="10">
+    <kLatestTimeSimCanArrive value="12">
       <!--The latest time (in hours) that the maid can arrive-->
     </kLatestTimeSimCanArrive>
     <kDirtyObjectsForSecondMaid value="15">
@@ -41,11 +41,11 @@
       <kIsRecurrent value="True">
         <!--Whether the service is recurrent (true) or one-off (false).  Recurrent services are the only type which can be cancelled through the phone dialog.-->
       </kIsRecurrent>
-      <kAlwaysTryToSendSameSim value="False">
+      <kAlwaysTryToSendSameSim value="True">
         <!--Whether or not the service always tries to send the same NPC to a specific household-->
       </kAlwaysTryToSendSameSim>
     </kServiceTuning>
-    <kChanceToBeInappropriate value=".15">
+    <kChanceToBeInappropriate value=".25">
       <!--% chance that a Maid will be spawned with the Inappropriate trait.-->
     </kChanceToBeInappropriate>
     <kMaximimTimeToSpendBeingInappropriate value="30">

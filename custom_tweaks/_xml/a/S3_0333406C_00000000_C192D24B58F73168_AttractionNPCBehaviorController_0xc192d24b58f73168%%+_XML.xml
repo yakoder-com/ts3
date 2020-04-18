@@ -10,7 +10,7 @@
     <kAttractionGiftLetterMaxChancePerDay value="10">
       <!--Range: 0 - 100  Description: Max chance per day for an NPC to send an attraction gift/love letter.-->
     </kAttractionGiftLetterMaxChancePerDay>
-    <kDateHoursToCallAfterWork value="1, 3">
+    <kDateHoursToCallAfterWork value="1, 2">
       <!--Range: 0 - 100  Description: For date calls during work days, the time after the selectable sim leaves work in hours for the call to occur. Both in hours after finish time.-->
     </kDateHoursToCallAfterWork>
     <kAttractionDateRejectThreshold value="1">
