@@ -28,7 +28,7 @@
 			<ScoringFunction alwaysChooseBest="False" name="UseLitterBoxScoringFunction" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="Bladder" advertised="400" locked="False" actual="800" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
+				<Change type="Bladder" advertised="400" locked="False" actual="1000" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitPiggyPet" advertised="-10" locked="True" actual="-10" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitNeatPet" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" toReinforce="True" />
 			</Output>
