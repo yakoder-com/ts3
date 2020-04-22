@@ -12,6 +12,13 @@
  </Articles>
 <Articles>
   <Category>Local</Category>
+  <Name>SuperFruitsNewsStory</Name>
+  <Headline>SuperFruitsNewsHeadline</Headline>
+  <Body>SuperFruitsNews</Body>
+  <Priority>100</Priority>
+ </Articles>
+<Articles>
+  <Category>Local</Category>
   <Name>Marriage</Name>
   <Headline>MarriageHeadline01</Headline>
   <Body>MariageBody01</Body>
@@ -405,13 +412,6 @@
   <Body>InternationalBody10</Body>
   <Priority>5</Priority>
   <Auto>True</Auto>
- </Articles>
-<Articles>
-  <Category>Local</Category>
-  <Name>SuperFruitsNewsStory</Name>
-  <Headline>SuperFruitsNewsHeadline</Headline>
-  <Body>SuperFruitsNews</Body>
-  <Priority>100</Priority>
  </Articles>
 <Articles>
   <Category>Local</Category>
