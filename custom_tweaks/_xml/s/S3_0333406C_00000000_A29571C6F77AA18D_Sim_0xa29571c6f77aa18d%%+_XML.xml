@@ -465,7 +465,7 @@
     <kMakePromiseToProtectTraits value="Brave, Daredevil, Good, FamilyOriented">
       <!--Traits which allow a sim to Make Promise to Protect-->
     </kMakePromiseToProtectTraits>
-    <kConfessToWatchingWhileSleepingTraits value="Daredevil, FamilyOriented, HopelessRomantic, Inappropriate, Insane, Loser">
+    <kConfessToWatchingWhileSleepingTraits value="Inappropriate, Insane, Loser">
       <!--Traits which allow a sim to Confess to Watchingh you while you sleep-->
     </kConfessToWatchingWhileSleepingTraits>
     <sOutfitAgeRulesSuperNatural value="HumanToddler, HumanChild, HumanTeen, HumanYoungAdult, HumanAdult, HumanElder">
