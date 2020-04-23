@@ -15473,7 +15473,7 @@
 				<MAYBE />
 			</LHS>
 			<LHS com="Friendly" val="51" cp="1">
-				<LLTR min="10" />
+				<LLTR min="5" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />
@@ -19775,7 +19775,7 @@
 				<Topic />
 			</RHS>
 			<LHS com="Friendly" val="53" cp="1">
-				<LLTR min="40" />
+				<LLTR min="20" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait y="Evil" />
@@ -19795,7 +19795,7 @@
 				<MAYBE />
 			</LHS>
 			<LHS com="Friendly" val="51" cp="1">
-				<LLTR min="10" />
+				<LLTR min="5" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />
