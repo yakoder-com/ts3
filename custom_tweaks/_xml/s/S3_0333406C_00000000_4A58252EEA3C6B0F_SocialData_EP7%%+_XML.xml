@@ -5240,7 +5240,7 @@
 		</AD>
 		<AA>
 			<AGE x="T,Y,A,E" y="C,T,Y,A,E,CH,AH,EH,CC,AC,EC,CD,AD,ED,CL,AL,EL" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 			<ProcTest key="TestConfessToWatchingWhileSleeping" />
 		</AA>
 		<Jazz>
