@@ -26,7 +26,7 @@
 		<Check type="All" value="0" />
 		<Tradeoff name="BedSleep">
 			<Localization autoGenerate="False" />
-			<Time value="8" addRoute="False" />
+			<Time value="7" addRoute="False" />
 			<Exit funExit="False" stressExit="False" interruptible="False" />
 			<RouteLeadIn allowed="True" />
 			<AskJoinInteraction joinable="False" />
