@@ -26,7 +26,7 @@
       <AffectBroadcasterRoomOnly value="True">
         <!--Specifies whether or not the broadcaster effects object through walls that define an enclosed room boundary.-->
       </AffectBroadcasterRoomOnly>
-      <ReactorLineOfSight value="False">
+      <ReactorLineOfSight value="True">
         <!--Specifies whether or not the broadcaster only effects Sims with line-of-sight to the broadcasting object.-->
       </ReactorLineOfSight>
       <PulseRepeatTime value="1">
