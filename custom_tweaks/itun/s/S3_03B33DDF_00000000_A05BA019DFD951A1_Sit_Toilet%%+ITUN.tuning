@@ -20,7 +20,6 @@
 		</PosturePrecondition>
 		<PosturePrecondition name="CarryingChild" value="0">
 		</PosturePrecondition>
-		<Check type="InappropriateForVisitor" value="0" />
 		<Check type="All" value="0" />
 		<Tradeoff name="Sit">
 			<Localization autoGenerate="False" />

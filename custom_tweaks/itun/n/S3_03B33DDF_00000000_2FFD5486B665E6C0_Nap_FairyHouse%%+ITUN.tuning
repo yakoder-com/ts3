@@ -21,7 +21,6 @@
 			<Check name="IsTarget" />
 		</PosturePrecondition>
 		<Check type="SelfRegarding" value="2.9" />
-		<Check type="InappropriateForVisitor" value="2.9" />
 		<Check type="All" value="0" />
 		<Tradeoff name="Nap">
 			<Localization autoGenerate="False" />

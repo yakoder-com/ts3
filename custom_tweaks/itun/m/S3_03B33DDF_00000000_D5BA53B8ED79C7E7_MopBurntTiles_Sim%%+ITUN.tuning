@@ -17,7 +17,6 @@
 			<Room AllowInTombRoomAutonomous="False" AllowEvenIfNotAllowedInRoomAutonomous="False" />
 			<Misc DisallowedIfPregnant="False" DisallowedFromInventory="False" />
 		</BaseAvailability>
-		<Check type="InappropriateForVisitor" value="2.5" />
 		<Check type="All" value="0" />
 		<Tradeoff name="MopBurntTiles">
 			<Localization autoGenerate="False" />

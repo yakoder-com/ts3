@@ -21,7 +21,6 @@
 		</BaseAvailability>
 		<Check type="SelfRegarding" value="1.5" />
 		<Check type="RepairToilet" value="0" />
-		<Check type="InappropriateForVisitor" value="0" />
 		<Check type="All" value="0" />
 		<Tradeoff name="Repair">
 			<Localization autoGenerate="True" />

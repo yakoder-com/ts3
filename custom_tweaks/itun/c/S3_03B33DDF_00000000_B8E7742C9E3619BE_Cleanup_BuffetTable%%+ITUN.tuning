@@ -19,7 +19,6 @@
 			<Misc DisallowedIfPregnant="False" DisallowedFromInventory="False" />
 			<Seasons SnowLevelValue="-3" />
 		</BaseAvailability>
-		<Check type="InappropriateForVisitor" value="2.5" />
 		<Check type="All" value="0" />
 		<Tradeoff name="Cleanup">
 			<Localization autoGenerate="False" />

@@ -19,7 +19,6 @@
 		</BaseAvailability>
 		<PosturePrecondition name="Standing" value="1">
 		</PosturePrecondition>
-		<Check type="InappropriateForVisitor" value="1.5" />
 		<Check type="All" value="0" />
 		<Tradeoff name="NeatTraitCleanHouse">
 			<Localization autoGenerate="False" />

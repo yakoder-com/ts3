@@ -16,7 +16,6 @@
 			<Room AllowInTombRoomAutonomous="False" />
 			<Misc DisallowedIfPregnant="False" DisallowedFromInventory="False" />
 		</BaseAvailability>
-		<Check type="InappropriateForVisitor" value="1.5" />
 		<Check type="All" value="0" />
 		<Tradeoff name="FoodTray_Prepare">
 			<Localization autoGenerate="True" />

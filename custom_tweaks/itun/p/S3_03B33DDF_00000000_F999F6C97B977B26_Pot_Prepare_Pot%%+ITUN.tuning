@@ -18,7 +18,6 @@
 			<Misc DisallowedIfPregnant="False" DisallowedFromInventory="False" />
 		</BaseAvailability>
 		<Check type="SelfRegarding" value="1.5" />
-		<Check type="InappropriateForVisitor" value="1.5" />
 		<Check type="All" value="0" />
 		<Tradeoff name="Pot_Prepare">
 			<Localization autoGenerate="True" />

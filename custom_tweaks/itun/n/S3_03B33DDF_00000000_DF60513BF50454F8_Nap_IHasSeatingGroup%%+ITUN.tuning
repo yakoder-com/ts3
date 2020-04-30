@@ -24,7 +24,6 @@
 		<PosturePrecondition name="Standing" value="1">
 		</PosturePrecondition>
 		<Check type="SelfRegarding" value="2.9" />
-		<Check type="InappropriateForVisitor" value="2" />
 		<Check type="All" value="0" />
 		<Tradeoff name="Nap">
 			<Localization autoGenerate="True" />
