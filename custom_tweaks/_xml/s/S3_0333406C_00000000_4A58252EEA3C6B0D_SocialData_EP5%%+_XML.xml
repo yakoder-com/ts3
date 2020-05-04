@@ -2791,7 +2791,7 @@
 			<AGE x="CC,AC,EC" y="C,T,Y,A,E" />
 			<ATRA val="FriendlyPet" />
 			<ATE val="AggressivePet" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="True" />
 			<ParMen key="Mean" />
 		</AA>
 		<Jazz>
