@@ -1476,7 +1476,7 @@
 			<RHS com="Friendly" state="impressive">
 				<Anim />
 				<Buff />
-				<RPROC pebu="AddRebelInfluence" peau="OnRadicalIdeaFriendly" />
+				<RPROC pebu="" peau="OnRadicalIdeaFriendly" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -1536,21 +1536,21 @@
 				<EndStance x="Bad" y="" />
 				<Anim />
 				<Buff x="FeelingImportant" cus="BuffOnInsult" />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN />
 				<Topic />
 			</RHS>
 			<RHS com="Steamed" state="accept">
 				<Anim />
 				<Buff cus="BuffOnInsult" />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN />
 				<Topic />
 			</RHS>
 			<RHS com="Neutral" state="accept">
 				<Anim x="a2a_soc_Neutral_EnthuseAbout_Neutral_Neutral_x" y="a2a_soc_Neutral_EnthuseAbout_Neutral_Neutral_y" />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -1586,7 +1586,7 @@
 			<RHS com="Friendly" state="">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN val="80" />
 				<Topic />
 			</RHS>
@@ -1663,28 +1663,28 @@
 			<RHS com="Friendly" state="">
 				<Anim />
 				<Buff x="FeelingImportant" />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN val="80" />
 				<Topic />
 			</RHS>
 			<RHS com="Neutral" state="">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN />
 				<Topic />
 			</RHS>
 			<RHS com="Boring" state="">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN />
 				<Topic />
 			</RHS>
 			<RHS com="Insulting" state="">
 				<Anim y="a2a_soc_Neutral_ComplainAbout_Insulting_Neutral_y" />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -2435,7 +2435,7 @@
 			<RHS com="Amorous" state="accept">
 				<Anim />
 				<Buff x="FirstKiss" y="FirstKiss" />
-				<RPROC pebu="AddRebelInfluence" peau="OnCinnamonKiss" />
+				<RPROC pebu="" peau="OnCinnamonKiss" />
 				<LTRBits val="0x00002000" />
 				<TUN val="80" />
 				<Trait x="GreatKisser" y="GreatKisser" />
@@ -2593,7 +2593,7 @@
 			<RHS com="Amorous" state="accept">
 				<Anim />
 				<Buff />
-				<RPROC pebu="AddRebelInfluence" peau="OnSpicyWooHoo" />
+				<RPROC pebu="" peau="OnSpicyWooHoo" />
 				<LTRBits val="0x00002000" />
 				<TUN val="120" />
 				<Topic />
@@ -2979,14 +2979,14 @@
 			<RHS com="Friendly" state="Friendly">
 				<Anim />
 				<Buff />
-				<RPROC pebu="AddRebelInfluence" peau="AskForTestAnswersSuccess" />
+				<RPROC pebu="" peau="AskForTestAnswersSuccess" />
 				<TUN />
 				<Topic />
 			</RHS>
 			<RHS com="Neutral" state="Neutral">
 				<Anim />
 				<Buff />
-				<RPROC pebu="AddRebelInfluence" peau="AskForTestAnswersNeutral" />
+				<RPROC pebu="" peau="AskForTestAnswersNeutral" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -3048,14 +3048,14 @@
 			<RHS com="Friendly" state="Friendly">
 				<Anim />
 				<Buff />
-				<RPROC pebu="AddRebelInfluence" peau="OfferTestAnswersSuccess" />
+				<RPROC pebu="" peau="OfferTestAnswersSuccess" />
 				<TUN />
 				<Topic />
 			</RHS>
 			<RHS com="Neutral" state="Neutral">
 				<Anim />
 				<Buff />
-				<RPROC pebu="AddRebelInfluence" peau="OfferTestAnswersNeutral" />
+				<RPROC pebu="" peau="OfferTestAnswersNeutral" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -3270,14 +3270,14 @@
 			<RHS com="Friendly" state="impressive">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN val="80" />
 				<Topic />
 			</RHS>
 			<RHS com="Neutral" state="friendly">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -3327,14 +3327,14 @@
 			<RHS com="Friendly" state="FriendlyReaction">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN val="100" />
 				<Topic />
 			</RHS>
 			<RHS com="Neutral" state="NeutralReaction">
 				<Anim />
 				<Buff />
-				<RPROC pebu="" peau="AddRebelInfluence" />
+				<RPROC pebu="" peau="" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -5067,7 +5067,7 @@
 			<RHS com="Friendly" state="Friendly">
 				<Anim />
 				<Buff />
-				<RPROC pebu="BeforeShowOffNewGizmo" peau="ShowOffNewGizmoEventAndAddRebelInfluence" />
+				<RPROC pebu="BeforeShowOffNewGizmo" peau="ShowOffNewGizmoEvent" />
 				<TUN />
 				<Topic />
 			</RHS>
@@ -5175,14 +5175,14 @@
 			<RHS com="Friendly" state="Friendly">
 				<Anim />
 				<Buff />
-				<RPROC pebu="AddRebelInfluence" peau="SellTestAnswersSuccess" />
+				<RPROC pebu="" peau="SellTestAnswersSuccess" />
 				<TUN />
 				<Topic />
 			</RHS>
 			<RHS com="Neutral" state="Neutral">
 				<Anim />
 				<Buff />
-				<RPROC pebu="AddRebelInfluence" peau="SellTestAnswersNeutral" />
+				<RPROC pebu="" peau="SellTestAnswersNeutral" />
 				<TUN />
 				<Topic />
 			</RHS>
