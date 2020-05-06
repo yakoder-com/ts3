@@ -10,6 +10,10 @@
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
 			<MoodThreshold MoodThresholdType="None" MoodThresholdValue="0" />
 			<SkillThreshold SkillThresholdType="None" SkillThresholdValue="0" />
+			<RequiredTrait type="Grumpy" />
+			<RequiredTrait type="Evil" />
+			<RequiredTrait type="MeanSpirited" />
+			<RequiredTrait type="Rebellious" />
 			<Occult OccultRestrictionType="Ignore" OccultTypes="0x0" OccultTypesHumanAllowed="True" />
 			<CareerThreshold CareerThresholdType="Undefined" CareerThresholdValue="0" IncludePastCareers="False" />
 			<Lot AllowNonGreetedSimsIfObjectOutside="False" AllowNonGreetedSimsIfObjectOutsideUserDirected="True" AllowGreetedSims="True" AllowOnCommunityLots="True" AllowOnAllLots="False" />
@@ -33,7 +37,6 @@
 				<Change type="TraitGrumpy" advertised="200" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitMeanSpirited" advertised="200" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="Fun" advertised="0" locked="False" actual="25" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="TraitRebellious" advertised="200" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TrickOrTreatVandal" advertised="200" locked="False" actual="0" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
