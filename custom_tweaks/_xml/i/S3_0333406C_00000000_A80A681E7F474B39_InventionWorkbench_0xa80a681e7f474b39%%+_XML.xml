@@ -13,10 +13,10 @@
     <kInventNumTicketsNothing value="100,85,95,95,94,94,93,93,92,91,91">
       <!--Number of tickets the 'Nothing Happens' result has for each Inventing skill level 0-10-->
     </kInventNumTicketsNothing>
-    <kInventNumTicketsFire value="0,3,3,3,3,2,2,2,2,2,2">
+    <kInventNumTicketsFire value="3,3,3,3,3,2,2,2,2,2,2">
       <!--Number of tickets the 'Fire' result has for each Inventing skill level 0-10-->
     </kInventNumTicketsFire>
-    <kInventNumTicketsElectrocution value="0,1,1,1,1,1,1,1,0,0,0">
+    <kInventNumTicketsElectrocution value="3,3,3,3,2,2,2,2,1,1,1">
       <!--Number of tickets the 'Electrocution' result has for each Inventing skill level 0-10-->
     </kInventNumTicketsElectrocution>
     <kInventNumTicketsDiscovery value="5,30,27,19,18,18,17,16,16,15,14">
@@ -31,7 +31,7 @@
     <kHandinessSkillGainRateDuringInvent value="3">
       <!--Handiness skill gain rate During Dabble/Invent interaction in Points per Sim Min-->
     </kHandinessSkillGainRateDuringInvent>
-    <kNumScrapsPerDiceRoll value="8">
+    <kNumScrapsPerDiceRoll value="4">
       <!--Number of units of scrap to consume each time we check for invent result-->
     </kNumScrapsPerDiceRoll>
     <kMinTimeForModelSwapDuringMakeInteraction value="5">
