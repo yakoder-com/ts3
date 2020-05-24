@@ -153,7 +153,7 @@
   <MotivesToFreeze>Hunger,Bladder,Energy,Hygiene,Fun,Temperature</MotivesToFreeze>
   <RoleFillFrom>Residents</RoleFillFrom>
   <StartTime>8</StartTime>
-  <EndTime>18</EndTime>
+  <EndTime>20</EndTime>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
   <CanBeEnsorceled>FALSE</CanBeEnsorceled>
  </RoleData>
@@ -214,7 +214,7 @@
   <MotivesToFreeze>Hunger,Bladder,Energy,Hygiene,Fun,Temperature,BatteryPower,Maintenence</MotivesToFreeze>
   <RoleFillFrom>Residents</RoleFillFrom>
   <StartTime>10</StartTime>
-  <EndTime>18</EndTime>
+  <EndTime>20</EndTime>
   <AvailableAgeSpecies>Y,A</AvailableAgeSpecies>
   <UniformMale>npcStylist_am</UniformMale>
   <UniformFemale>npcStylist_af</UniformFemale>
@@ -349,8 +349,8 @@
   <MotivesAdded>RoleLocationMerchant</MotivesAdded>
   <MotivesToFreeze>Hunger,Bladder,Energy,Hygiene,Fun,Social,Temperature,BatteryPower,Maintenence</MotivesToFreeze>
   <RoleFillFrom>Residents</RoleFillFrom>
-  <StartTime>9</StartTime>
-  <EndTime>18</EndTime>
+  <StartTime>8</StartTime>
+  <EndTime>20</EndTime>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
   <CanBeEnsorceled>FALSE</CanBeEnsorceled>
  </RoleData>
@@ -378,7 +378,7 @@
   <MotivesAdded>RoleLocationMerchant</MotivesAdded>
   <MotivesToFreeze>Hunger,Bladder,Energy,Hygiene,Fun,Social,Temperature,BatteryPower,Maintenence</MotivesToFreeze>
   <RoleFillFrom>Townies</RoleFillFrom>
-  <StartTime>10</StartTime>
+  <StartTime>8</StartTime>
   <EndTime>20</EndTime>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
   <UseServobot>True</UseServobot>
@@ -471,8 +471,8 @@
   <MotivesAdded>RoleHobbyShopMerchant</MotivesAdded>
   <MotivesToFreeze>Hunger,Bladder,Energy,Hygiene,Fun,Temperature,BatteryPower,Maintenence</MotivesToFreeze>
   <RoleFillFrom>Townies</RoleFillFrom>
-  <StartTime>9</StartTime>
-  <EndTime>21</EndTime>
+  <StartTime>8</StartTime>
+  <EndTime>20</EndTime>
   <AvailableAgeSpecies>Y,A,E</AvailableAgeSpecies>
   <CanBeCelebrity>FALSE</CanBeCelebrity>
   <UniformMale>am_role_hobbyshop</UniformMale>
@@ -509,7 +509,7 @@
   <MotivesAdded>RoleLocationMerchant</MotivesAdded>
   <MotivesToFreeze>Hunger,Bladder,Energy,Hygiene,Fun,Social,Temperature,BatteryPower,Maintenence</MotivesToFreeze>
   <RoleFillFrom>Townies</RoleFillFrom>
-  <StartTime>9</StartTime>
+  <StartTime>8</StartTime>
   <EndTime>6</EndTime>
   <AvailableAgeSpecies>A</AvailableAgeSpecies>
   <UniformMale>am_role_botshopmerchant</UniformMale>
