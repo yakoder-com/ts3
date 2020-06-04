@@ -4372,7 +4372,7 @@
   <ThumbFilename>moodlet_mourning</ThumbFilename>
   <AxisEffected>Happy</AxisEffected>
   <EffectValue>-50</EffectValue>
-  <TimeoutLength>2880</TimeoutLength>
+  <TimeoutLength>20160</TimeoutLength>
   <FacialIdle>FacialSad</FacialIdle>
   <CustomClassName>Sims3.Gameplay.ActorSystems.BuffMourning, Sims3GameplaySystems</CustomClassName>
   <Topic>Buff Mourning</Topic>
