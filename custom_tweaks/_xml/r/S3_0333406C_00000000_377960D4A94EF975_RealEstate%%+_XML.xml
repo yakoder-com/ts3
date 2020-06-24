@@ -331,4 +331,10 @@
   <WeeklyIncomes>0,0,0</WeeklyIncomes>
   <UpgradeValues>0,0,0</UpgradeValues>
  </Venues>
+<Venues>
+  <VenueType>kEP5_Junkyard</VenueType>
+  <BaseCost>8000</BaseCost>
+  <WeeklyIncomes>900,1400,3000</WeeklyIncomes>
+  <UpgradeValues>8000,11000,18000</UpgradeValues>
+ </Venues>
 </RealEstate>
