@@ -7,11 +7,11 @@
     <kDelayBeforeLeaving value="0">
       <!--Length of time (in hours) that deliverer waits before leaving the lot, after his work is done-->
     </kDelayBeforeLeaving>
-    <kStartTime value="6">
-      <!--Start time for maid to arrive (in hours)-->
+    <kStartTime value="5">
+      <!--Start time for deliverer to arrive (in hours)-->
     </kStartTime>
     <kEndTime value="7">
-      <!--End time for maid to leave (in hours)-->
+      <!--End time for deliverer to leave (in hours)-->
     </kEndTime>
     <kExtraWaitTimeAfterSocializing value="0.05">
       <!--Extra time (in hours) to wait before leaving if the service NPC is socialized with-->
