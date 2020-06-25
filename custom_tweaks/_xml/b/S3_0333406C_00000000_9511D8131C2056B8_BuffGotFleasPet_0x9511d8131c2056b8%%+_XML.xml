@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kPetOutsideFleaCheckTime value="30">
+    <kPetOutsideFleaCheckTime value="120">
       <!--How often (in Sim minutes) to check if a pet might have received fleas if outside.-->
     </kPetOutsideFleaCheckTime>
-    <kPetOutsideFleaChance value="0.005">
+    <kPetOutsideFleaChance value="0.0">
       <!--Percent chance (between 0 and 1) of a pet getting fleas while just being outside.-->
     </kPetOutsideFleaChance>
-    <kPetToPetSpreadFleasChance value="0.4">
+    <kPetToPetSpreadFleasChance value="0.1">
       <!--Percent chance (between 0 and 1) of a pet getting fleas from doing a social with another pet with fleas.-->
     </kPetToPetSpreadFleasChance>
   </Current_Tuning>
