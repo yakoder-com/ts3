@@ -1224,7 +1224,7 @@
     <NightOwlTimeToRemove value="5">
       <!--Time in the morning to remove the Night Owl buff-->
     </NightOwlTimeToRemove>
-    <ItsTooEarlyTimeToRemove value="10">
+    <ItsTooEarlyTimeToRemove value="9">
       <!--Time in the morning to remove the It's too Early buff-->
     </ItsTooEarlyTimeToRemove>
     <ItsTooEarlyTimeToStart value="6">
