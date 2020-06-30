@@ -7,7 +7,7 @@
     <kFailChanceReducedPerLevel value="0.03">
       <!--Range:  0-1  Description:  Percentage chance to fail reduced per level of skill.-->
     </kFailChanceReducedPerLevel>
-    <kReuseCooldown value="120">
+    <kReuseCooldown value="40">
       <!--Range:  0 - 100  Description:  Cooldown in sim minutes between uses.-->
     </kReuseCooldown>
     <kRepairableTuning>
