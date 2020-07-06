@@ -2,16 +2,16 @@
 <base>
   <Current_Tuning>
     <kAttractionGift>
-      <GiftBuyCategories value="kBuyCategoryDecor">
+      <GiftBuyCategories value="kBuyCategoryDecor, kkBuyCategoryAppliances, BuyCategoryElectronics, kBuyCategoryEntertainment, kBuyCategoryPets">
         <!--Range:  BuildBuyProduct.eBuyCategory[]  Description:  Buy Categories we can pick gifts from-->
       </GiftBuyCategories>
-      <GiftBuySubCategories value="kBuySubCategorySculptures, kBuySubCategoryPaintingsAndPosters, kBuySubCategoryPlants">
+      <GiftBuySubCategories value="kBuySubCategorySculptures, kBuySubCategoryPaintingsAndPosters, kBuySubCategoryPlants, kBuySubCategoryRugs, kBuySubCategorySmallAppliances, kBuySubCategoryMiscellaneousAppliances, kBuySubCategoryAudio, kBuySubCategoryComputers, kBuySubCategoryTVs, kBuySubCategoryMiscellaneousElectronics, kBuySubCategoryHobbiesAndSkills, kBuySubCategorySportingGoods, kBuySubCategoryMiscellaneousEntertainment, kBuySubCategoryCats">
         <!--Range:  BuildBuyProduct.eBuySubCategory[]  Description:  Buy Sub Categories we can pick gifts from-->
       </GiftBuySubCategories>
       <GiftBuySubCategories2 value="">
         <!--Range:  BuildBuyProduct.eBuySubCategory2[]  Description:  Buy Sub Categories we can pick gifts from sub category set 2-->
       </GiftBuySubCategories2>
-      <GiftBuyRoomSubCategories value="kBuyRoomSubCategoryPaintingsAndPostersForGrownUps, kBuyRoomSubCategoryPlants">
+      <GiftBuyRoomSubCategories value="kBuyRoomSubCategoryPaintingsAndPostersForGrownUps, kBuyRoomSubCategoryPlants, kBuyRoomSubCategorySmallAppliances, kBuyRoomSubCategoryPhones, kBuyRoomSubCategoryTVs, kBuyRoomSubCategoryAudio, kBuyRoomSubCategoryComputers, kBuyRoomSubCategoryHobbiesAndSkills, kBuyRoomSubCategoryIndoorActivities, kBuyRoomSubCategoryOutdoorActivities, kBuyRoomSubCategoryAccents, kBuyRoomSubCategoryLawnOrnaments, kBuyRoomSubCategoryVideoGames, kBuyRoomSubCategoryClocks, kBuyRoomSubCategoryMiscellaneousDecor, kBuyRoomSubCategoryRugs, kBuyRoomSubCategoryPets">
         <!--BuildBuyProduct.eBuyRoomSubCategory[]  Description:  Buy Room sub categories we can pick gifts from-->
       </GiftBuyRoomSubCategories>
       <CanGiveRepeats value="True">
