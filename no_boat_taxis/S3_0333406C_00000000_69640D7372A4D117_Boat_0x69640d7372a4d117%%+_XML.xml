@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kDistanceToDestinationSoSimWillBoat value="40">
+    <kDistanceToDestinationSoSimWillBoat value="40000">
       <!--Distance threshold to a sim's destination before he/she will use a boat.-->
     </kDistanceToDestinationSoSimWillBoat>
     <kBoatGetInRadius value="15">
@@ -10,7 +10,7 @@
     <kWaterskiSkillLevelForFormalwear value="8">
       <!--The waterski level at which sims can Ski in their formal wear.-->
     </kWaterskiSkillLevelForFormalwear>
-    <kBoatTryBoardDistanceThresholdOnRoute value="20">
+    <kBoatTryBoardDistanceThresholdOnRoute value="0">
       <!--Distance threshold below which a sim swimming near the boat will try to get back in before the boat routes away.-->
     </kBoatTryBoardDistanceThresholdOnRoute>
     <kMedatorInstancesForNPCBoatGeneration value="BoatSpeedFishingBoat, BoatPaddleBoat, BoatWaterScooter, BoatRowBoat, BoatSpeedBoat, BoatSailBoat">
