@@ -580,7 +580,7 @@
 			<ATREQ val="CapacityToLoveChip" />
 			<ATE val="HopelessRomantic,Flirty,CapacityToLoveChip" />
 			<ALTR min="10" max="100" />
-			<Available auto="False" udo="True" />
+			<Available auto="True" udo="True" />
 		</AA>
 		<Jazz>
 			<Graph val="FlirtyCompliment" data="BaseGame" x="Neutral" y="Neutral" />
