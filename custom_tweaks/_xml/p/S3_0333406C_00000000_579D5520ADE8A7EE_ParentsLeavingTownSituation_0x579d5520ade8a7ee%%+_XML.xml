@@ -4,7 +4,7 @@
     <kTimeForCheckingForParentsLeaving value="24">
       <!--Time in sim hours: Minutes for cooldown if the Parents accepted the offer and left the house. This cooldown is put into action from the moment the parents are back-->
     </kTimeForCheckingForParentsLeaving>
-    <kChanceForCheckingForParentsLeaving value="0.30">
+    <kChanceForCheckingForParentsLeaving value="0">
       <!--Range (0 - 1): Tunable chance for showing the option for parents Leaving.-->
     </kChanceForCheckingForParentsLeaving>
     <kTimeForAcceptedCooldown value="48">
