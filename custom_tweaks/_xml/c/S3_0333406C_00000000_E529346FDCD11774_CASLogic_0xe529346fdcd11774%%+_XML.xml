@@ -67,28 +67,28 @@
     <kMaxMuttCurlSize value="3">
       <!--max curl size for mutts-->
     </kMaxMuttCurlSize>
-    <kDogPositionOffsetBody value="0">
+    <kDogPositionOffsetBody value="0.07">
       <!--position displacement for center of rotation around body-->
     </kDogPositionOffsetBody>
-    <kDogPositionOffsetHead value="0">
+    <kDogPositionOffsetHead value="-0.21">
       <!--position displacement for center of rotation around head-->
     </kDogPositionOffsetHead>
-    <kLittleDogPositionOffsetBody value="0">
+    <kLittleDogPositionOffsetBody value="0.06">
       <!--position displacement for center of rotation around body-->
     </kLittleDogPositionOffsetBody>
-    <kLittleDogPositionOffsetHead value="0">
+    <kLittleDogPositionOffsetHead value="-0.11">
       <!--position displacement for center of rotation around head-->
     </kLittleDogPositionOffsetHead>
-    <kCatPositionOffsetBody value="0">
+    <kCatPositionOffsetBody value="0.05">
       <!--position displacement for center of rotation around body-->
     </kCatPositionOffsetBody>
-    <kCatPositionOffsetHead value="0">
+    <kCatPositionOffsetHead value="0.08">
       <!--position displacement for center of rotation around head-->
     </kCatPositionOffsetHead>
-    <kHorsePositionOffsetBody value="0">
+    <kHorsePositionOffsetBody value="0.17">
       <!--position displacement for center of rotation around body-->
     </kHorsePositionOffsetBody>
-    <kHorsePositionOffsetHead value="0">
+    <kHorsePositionOffsetHead value="-0.85">
       <!--position displacement for center of rotation around head-->
     </kHorsePositionOffsetHead>
     <kLuminanceThreshold value="0.425">
