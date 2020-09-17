@@ -1,7 +1,7 @@
 GameplayData/* -linguist-detectable
 notes/* -linguist-detectable
-bin/* -linguist-detectable
 custom_tweaks/* linguist-detectable
 *.itun linguist-language=XML
 no_boat_taxis/* linguist-detectable
+bin/* linguist-detectable
 
