@@ -1,9 +1,10 @@
-notes/* linguist-vendored
 GameplayData/* linguist-vendored
-*.itun linguist-language=XML
-* -linguist-detectable
-*.xml linguist-detectable
-*.itun linguist-detectable
+GameplayData/* -linguist-detectable
+notes/* linguist-vendored
+notes/* -linguist-detectable
 bin/* -linguist-detectable
-
+* -linguist-detectable
+*.itun linguist-detectable
+*.itun linguist-language=XML
+*.xml linguist-detectable
 
