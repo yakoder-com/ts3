@@ -1,10 +1,7 @@
-GameplayData/* linguist-vendored
 GameplayData/* -linguist-detectable
-notes/* linguist-vendored
 notes/* -linguist-detectable
 bin/* -linguist-detectable
-* -linguist-detectable
-*.itun linguist-detectable
+custom_tweaks/* linguist-detectable
 *.itun linguist-language=XML
-*.xml linguist-detectable
+no_boat_taxis/* linguist-detectable
 
