@@ -4,4 +4,6 @@ GameplayData/* linguist-vendored
 * -linguist-detectable
 *.xml linguist-detectable
 *.itun linguist-detectable
+bin/* -linguist-detectable
+
 
