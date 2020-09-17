@@ -1,0 +1,4 @@
+notes/* linguist-vendored
+GameplayData/* linguist-vendored
+*.itun linguist-language=XML
+
