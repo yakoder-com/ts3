@@ -1,4 +1,7 @@
 notes/* linguist-vendored
 GameplayData/* linguist-vendored
 *.itun linguist-language=XML
+* -linguist-detectable
+*.xml linguist-detectable
+*.itun linguist-detectable
 
