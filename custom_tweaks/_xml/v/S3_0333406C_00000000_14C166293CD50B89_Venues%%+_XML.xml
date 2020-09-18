@@ -8700,7 +8700,7 @@
   <MapTagIcon>hud_mt_i_lounge_ep7</MapTagIcon>
   <OneShotMotives>Social,Fun,RoleTourist</OneShotMotives>
   <ContinuousMotive>BeInCocktailLounge</ContinuousMotive>
-  <HowLongSimsWaitOutsideBeforeEntering>0</HowLongSimsWaitOutsideBeforeEntering>
+  <HowLongSimsWaitOutsideBeforeEntering>1</HowLongSimsWaitOutsideBeforeEntering>
   <MinLength>1</MinLength>
   <MaxLength>3</MaxLength>
   <RichMultiplier>3</RichMultiplier>
