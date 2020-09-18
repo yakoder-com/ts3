@@ -42,7 +42,7 @@
       <kNighttimeLightSunsetDelta value="24">
         <!--Hour delta from world defined sunset at which nighttime rabbithole lights are used. 24 or greater means no visual states are used.-->
       </kNighttimeLightSunsetDelta>
-      <kPreventLotPurchase value="True">
+      <kPreventLotPurchase value="False">
         <!--if you can't purchase the lot if it has a rabbithole of this type on it-->
       </kPreventLotPurchase>
       <kHasMaptag value="True">

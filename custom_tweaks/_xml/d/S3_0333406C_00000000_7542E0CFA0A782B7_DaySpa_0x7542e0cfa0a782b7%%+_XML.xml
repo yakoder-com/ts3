@@ -51,7 +51,7 @@
       <kDaytimeLightSunriseDelta value="0">
         <!--Hour delta from world defined sunrise at which daytime rabbithole lights are used. 24 or greater means no visual states are used.-->
       </kDaytimeLightSunriseDelta>
-      <kPreventLotPurchase value="True">
+      <kPreventLotPurchase value="False">
         <!--if you can't purchase the lot if it has a rabbithole of this type on it-->
       </kPreventLotPurchase>
       <kHasMaptag value="True">
