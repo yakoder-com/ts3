@@ -4,10 +4,10 @@
     <kChanceOfJumping value="20">
       <!--Chance of a dog doing the jump animation, per loop-->
     </kChanceOfJumping>
-    <kMinPlayTime value="15">
+    <kMinPlayTime value="0">
       <!--Min amount of time a dog should play with the sprinkler, in minutes-->
     </kMinPlayTime>
-    <kMaxPlayTime value="45">
+    <kMaxPlayTime value="30">
       <!--Max amount of time a dog should play with the sprinkler, in minutes-->
     </kMaxPlayTime>
     <kPlayWithSprinklerPetReactions value="Cheer, LaughAt, Excited, PointLaugh">
@@ -44,10 +44,10 @@
       <MaxSimsToProcessPerTick value="10">
         <!--The max number of sims that PulseSims will consider in one tick (the more we do, the less efficient (but more responsive) the reaction will be)-->
       </MaxSimsToProcessPerTick>
-      <ReactOnRepeatedEntry value="True">
+      <ReactOnRepeatedEntry value="False">
         <!--Whether or not the Sim will react anew to the broadcaster when exiting and re-entering the radius of the broadcaster. Do NOT tune to false if you have an ExitCallback or ExitInteraction.-->
       </ReactOnRepeatedEntry>
-      <ReactToMultiplePulses value="True">
+      <ReactToMultiplePulses value="False">
         <!--If true, your sim will be pulsed every time the broadcaster pulses.  Set to false if you only want to be pulsed once per time entering the broadcaster.-->
       </ReactToMultiplePulses>
       <SpeciesToEffect value="Human">

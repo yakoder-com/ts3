@@ -31,6 +31,7 @@
 			<Output>
 				<Change type="Fun" advertised="40" locked="True" actual="40" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 				<Change type="TraitLikesSwimmingPet" advertised="200" locked="True" actual="200" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" toReinforce="True" />
+				<Change type="TraitHydrophobicPet" advertised="-400" locked="True" actual="-400" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" toReinforce="True" />
 				<Change type="TraitPlayfulPet" advertised="200" locked="True" actual="200" updateType="ImmediateDelta" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
