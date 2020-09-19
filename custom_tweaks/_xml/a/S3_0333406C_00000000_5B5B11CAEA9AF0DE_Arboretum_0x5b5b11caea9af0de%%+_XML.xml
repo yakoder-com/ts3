@@ -12,7 +12,7 @@
       <CameraZoomOnRabbithole value="50">
         <!--Sets the camera xoom whenever this rabbithole is the target of a lerp-->
       </CameraZoomOnRabbithole>
-      <kCanInvestHere value="False">
+      <kCanInvestHere value="True">
         <!--Description:  Whether or not you can invest in this rabbithole, if it's false all the other investing tuning is ignored-->
       </kCanInvestHere>
       <kInvestCost value="1000">
@@ -42,7 +42,7 @@
       <kNighttimeLightSunsetDelta value="1">
         <!--Hour delta from world defined sunset at which nighttime rabbithole lights are used. 24 or greater means no visual states are used.-->
       </kNighttimeLightSunsetDelta>
-      <kPreventLotPurchase value="True">
+      <kPreventLotPurchase value="False">
         <!--if you can't purchase the lot if it has a rabbithole of this type on it-->
       </kPreventLotPurchase>
       <kHasMaptag value="True">
