@@ -266,6 +266,69 @@
   <RequiredObjectsLevel3>Sink,1|Toilet,1</RequiredObjectsLevel3>
  </Venues>
 <Venues>
+  <VenueType>kEP2_FireStation</VenueType>
+  <BaseCost>50000</BaseCost>
+  <WeeklyIncomes>3000,4500,6000</WeeklyIncomes>
+  <UpgradeValues>50000,50000,50000</UpgradeValues>
+  <RequiredObjectsLevel1>Sink,1|Toilet,1|</RequiredObjectsLevel1>
+  <RequiredObjectsLevel2>Sink,1|Toilet,1|</RequiredObjectsLevel2>
+  <RequiredObjectsLevel3>Sink,1|Toilet,1|</RequiredObjectsLevel3>
+ </Venues>
+<Venues>
+  <VenueType>kEP2_Salon</VenueType>
+  <BaseCost>60000</BaseCost>
+  <WeeklyIncomes>,5000,10000,20000</WeeklyIncomes>
+  <UpgradeValues>60000,60000,60000</UpgradeValues>
+  <RequiredObjectsLevel1>Sink,1|Toilet,1</RequiredObjectsLevel1>
+  <RequiredObjectsLevel2>Sink,1|Toilet,1</RequiredObjectsLevel2>
+  <RequiredObjectsLevel3>Sink,1|Toilet,1|TattooChair,2</RequiredObjectsLevel3>
+ </Venues>
+<Venues>
+  <VenueType>kEP2_Junkyard</VenueType>
+  <BaseCost>4000</BaseCost>
+  <WeeklyIncomes>100,200,500</WeeklyIncomes>
+  <UpgradeValues>4000,4000,5000</UpgradeValues>
+  <RequiredObjectsLevel1>Sink,1|Toilet,1</RequiredObjectsLevel1>
+  <RequiredObjectsLevel2>Sink,1|Toilet,1</RequiredObjectsLevel2>
+  <RequiredObjectsLevel3>Sink,1|Toilet,1</RequiredObjectsLevel3>
+ </Venues>
+<Venues>
+  <VenueType>kEP2_JunkyardNoVisitors</VenueType>
+  <BaseCost>4000</BaseCost>
+  <WeeklyIncomes>100,200,500</WeeklyIncomes>
+  <UpgradeValues>4000,4000,5000</UpgradeValues>
+  <RequiredObjectsLevel1>Sink,1|Toilet,1</RequiredObjectsLevel1>
+  <RequiredObjectsLevel2>Sink,1|Toilet,1</RequiredObjectsLevel2>
+  <RequiredObjectsLevel3>Sink,1|Toilet,1</RequiredObjectsLevel3>
+ </Venues>
+<Venues>
+  <VenueType>kSmallPark</VenueType>
+  <BaseCost>10</BaseCost>
+  <WeeklyIncomes>1000,1000,1000</WeeklyIncomes>
+  <UpgradeValues>1000,1000,1000</UpgradeValues>
+ </Venues>
+<Venues>
+  <VenueType>kEP5_PetStore</VenueType>
+  <BaseCost>30000</BaseCost>
+  <WeeklyIncomes>2000,4000,8000</WeeklyIncomes>
+  <UpgradeValues>30000,30000,30000</UpgradeValues>
+  <RequiredObjectsLevel1>ScratchingPost,1</RequiredObjectsLevel1>
+  <RequiredObjectsLevel2>ScratchingPost,1</RequiredObjectsLevel2>
+  <RequiredObjectsLevel3>ScratchingPost,1|SaltLick,1</RequiredObjectsLevel3>
+ </Venues>
+<Venues>
+  <VenueType>kMisc_Visitors</VenueType>
+  <BaseCost>50000</BaseCost>
+  <WeeklyIncomes>10000,10000,10000</WeeklyIncomes>
+  <UpgradeValues>10000,10000,10000</UpgradeValues>
+ </Venues>
+<Venues>
+  <VenueType>kMisc_NoVisitors</VenueType>
+  <BaseCost>50000</BaseCost>
+  <WeeklyIncomes>10000,10000,10000</WeeklyIncomes>
+  <UpgradeValues>10000,10000,10000</UpgradeValues>
+ </Venues>
+ <Venues>
   <VenueType>kEP9_RebelHangout</VenueType>
   <BaseCost>9000</BaseCost>
   <WeeklyIncomes>1000,1600,3400</WeeklyIncomes>
@@ -326,6 +389,12 @@
   <UpgradeValues>30000,42000,67000</UpgradeValues>
  </Venues>
 <Venues>
+  <VenueType>kEP10_Port</VenueType>
+  <BaseCost>10</BaseCost>
+  <WeeklyIncomes>1000,1000,1000</WeeklyIncomes>
+  <UpgradeValues>1000,1000,1000</UpgradeValues>
+ </Venues>
+ <Venues>
   <VenueType>kEP10_Resort</VenueType>
   <BaseCost>10</BaseCost>
   <WeeklyIncomes>0,0,0</WeeklyIncomes>
