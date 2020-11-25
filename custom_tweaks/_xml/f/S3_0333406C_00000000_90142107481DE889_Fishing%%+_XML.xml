@@ -1625,7 +1625,7 @@
   <InactiveProbability>100, 5,40, 5</InactiveProbability>
   <AvgLength>60</AvgLength>
   <MaxRange>5</MaxRange>
-  <ActiveMaxFish>6</ActiveMaxFish>
+  <ActiveMaxFish>24</ActiveMaxFish>
   <ActiveFish>None,Box,VampireFish, Deathfish</ActiveFish>
   <ActiveProbability>50, 2, 5, 10</ActiveProbability>
   <ActiveVfx>fishdeathfishactive</ActiveVfx>
