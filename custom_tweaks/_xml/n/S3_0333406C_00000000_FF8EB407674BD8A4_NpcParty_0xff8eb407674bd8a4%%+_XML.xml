@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kChanceForceKnownNpcPartyHost value="0.25">
+    <kChanceForceKnownNpcPartyHost value="0">
       <!--Chance (0 to 1) that an NPC party will be forced to be hosted by a Sim known to the active household.-->
     </kChanceForceKnownNpcPartyHost>
     <kLTRMinToBeConsideredKnownNpcHost value="15">
       <!--Min LTR liking for a candidate NPC host to be considered 'known' by the active household (used when choosing valid NPC hosts for NPC parties if we've determined that we're forcing the host to be known by the active household).-->
     </kLTRMinToBeConsideredKnownNpcHost>
-    <kLTRMaxForInvalidNpcGuest value="-25">
+    <kLTRMaxForInvalidNpcGuest value="100">
       <!--LTR liking value below which we will not choose an NPC Sim as a guest for an NPC Party.  Set to the lowest possible LTR liking value to 'disable' this check.-->
     </kLTRMaxForInvalidNpcGuest>
-    <kChanceInvitedSelectableSimDoesntKnowHost value="0, 0.05, 0.15, 0.25, 0.33, 0.4">
+    <kChanceInvitedSelectableSimDoesntKnowHost value="0, 0, 0, 0, 0, 0">
       <!--Chances (0 to 1) that an NPC Host throwing an NPC party will invite a selectable Sim they don't know based on the selectable Sim's celebrity level. Format: (chanceNotCelebrity, chanceCelebrityLevel1, chanceCelebrityLevel2, chanceCelebrityLevel3, chanceCelebrityLevel4, chanceCelebrityLevel5).-->
     </kChanceInvitedSelectableSimDoesntKnowHost>
-    <kNumNpcGuests value="5, 7">
+    <kNumNpcGuests value="0, 0">
       <!--Number of NPC guests to be invited to NPC Parties.  Format: (minNpcGuests, maxNpcGuests).  We choose a random number of NPC guests in this range for each new NPC Party.-->
     </kNumNpcGuests>
-    <kChanceRequireNpcCelebrityGuest value="0.05, 0.30, 0.75">
+    <kChanceRequireNpcCelebrityGuest value="0, 0, 0">
       <!--Chance (0 to 1) that an NPC Party's guest list must contain at least one NPC Celebrity.  Each new NPC Party performs this roll.  Format: (chanceIfHostNetWorthLow, chanceIfHostNetWorthMedium, chanceIfHostNetWorthHigh).-->
     </kChanceRequireNpcCelebrityGuest>
-    <kMaxCandidateHostsToConsider value="10">
+    <kMaxCandidateHostsToConsider value="0">
       <!--Max number of Sims to consider being host of NPC Party before giving up (i.e. do not schedule an NPC Party this time, we'll try again next time it's time to try scheduling an NPC Party).  For each host we consider we need to iterate over all the Sims he/she knows, thus it can be an expensive operation.  Please talk to a GPE before changing this value.-->
     </kMaxCandidateHostsToConsider>
-    <kChancePickHighestRelationshipSelectableSim value="0.95">
+    <kChancePickHighestRelationshipSelectableSim value="0">
       <!--When we're choosing which Sim in the active household to invite to an NPC Party, and there are multiple valid Sims we could choose, this value is the percent chance that we'll choose the Sim with the *highest* relationship to the NPC Host (otherwise we'll randomly pick a valid Sim from the active household).  Providing this tunable for variety (don't want the Sim with the highest relationship being the one who's invited 100% of the time).  Valid values: 0 to 1.-->
     </kChancePickHighestRelationshipSelectableSim>
     <kNpcPartyParams>
@@ -38,69 +38,69 @@
       <ChanceOfBringingFood value="0">
         <!--Percentage chance of bringing food-->
       </ChanceOfBringingFood>
-      <HourAtWhichChildrenGoHome value="22">
+      <HourAtWhichChildrenGoHome value="19">
         <!--Time (in 24 hours) at which children (and their parents) will leave the party-->
       </HourAtWhichChildrenGoHome>
-      <InitialDesireToSocialize value="50" />
+      <InitialDesireToSocialize value="0" />
       <RatioOfMoodToLikingChangeWhenLeavingParty value="0.1">
         <!--Ratio of mood -> liking update when leaving the party (0.1 means that mood of +90 is turned into +9 liking)-->
       </RatioOfMoodToLikingChangeWhenLeavingParty>
-      <HoursBeforePartyToInvite value="1">
+      <HoursBeforePartyToInvite value="0">
         <!--How Many Hours before the Party Start the Host invites Guests to Start coming over-->
       </HoursBeforePartyToInvite>
-      <MinutesPerLeavingCheck value="23">
+      <MinutesPerLeavingCheck value="10">
         <!--How Often the Party Checks if people should leave the party. Minutes-->
       </MinutesPerLeavingCheck>
-      <RelToTimeMod value=".5">
+      <RelToTimeMod value="0">
         <!--This changes Rel to a scale of 0-200, multiplies it by this number, and adds you min party time to get how long you'll stay to start. Hours-->
       </RelToTimeMod>
-      <MoodToTimeMod value="0.1">
+      <MoodToTimeMod value="0">
         <!--Each MinutesPerLeavingCheck you get an additional Your Mood * MoodToTimeMod Minutes to stay-->
       </MoodToTimeMod>
     </kNpcPartyParams>
-    <kHoursBeforePartyToDisplayInvitation value="5">
+    <kHoursBeforePartyToDisplayInvitation value="24">
       <!--Number of Sim hours before an NPC Party starts that we display the invitation (TNS) for a Sim in the active household.-->
     </kHoursBeforePartyToDisplayInvitation>
-    <kPartyStartingSoonHours value="1">
+    <kPartyStartingSoonHours value="-1">
       <!--Number of Sim hours before an NPC Party starts that we consider ourselves in the 'about to start' phase (e.g. remind the player the party is about to start, etc.).-->
     </kPartyStartingSoonHours>
-    <kPartyDurationInHours value="3.5, 6">
+    <kPartyDurationInHours value="0, 0">
       <!--Number of hours an NPC Party lasts.  Format: (minHours, maxHours).-->
     </kPartyDurationInHours>
-    <kLtrLikingChangeFromStc value="12, 10, -5">
+    <kLtrLikingChangeFromStc value="0, 0, -5">
       <!--When party ends or guest goes home then this LTR Liking change is applied to the relationship of the guest & host.  Format: (ltrLikingChangeRomanticStc, ltrLikingChangePositiveOrNeutralStc, ltrLikingChangeNegativeStc).  Values can be positive or negative.-->
     </kLtrLikingChangeFromStc>
-    <kTimeoutForMissedNpcPartyPhoneCall value="15">
+    <kTimeoutForMissedNpcPartyPhoneCall value="-1">
       <!--Range:  float  Description:  Timeout in Sim minutes for 'missed NPC party' phone call-->
     </kTimeoutForMissedNpcPartyPhoneCall>
     <kCrashPartySuccessChances value="0.66, 1, 1, 0.4">
       <!--Chances (0 to 1) that an attempt to crash a party will be successful.  Format: (successChanceRegular, successChancePartyAnimal, successChanceLucky, successChanceUnlucky).-->
     </kCrashPartySuccessChances>
-    <kScheduleHour value="6">
+    <kScheduleHour value="23.5">
       <!--Each day at this hour we roll to see if we're going to schedule a party for later in the day.  Set to 6 for 6:00 AM, 13.5 for 1:30 PM, etc.  Pick a value that won't have any NPC Parties going on (late enough that the last night's party will be over, but early enough that there are still a number of hours before the earliest possible start time for any day's party).-->
     </kScheduleHour>
     <kChanceOfPartyForDaysOfWeek value="0, 0, 0, 0, 0, 0, 0">
       <!--Chances (0 to 1) of each day of the week having an NPC Party.  Format: (chanceSun, chanceMon, chanceTues, chanceWed, chanceThurs, chanceFri, chanceSat).-->
     </kChanceOfPartyForDaysOfWeek>
-    <kPartyTimesSunday value="12, 13.5, 15">
+    <kPartyTimesSunday value="14, 16, 15">
       <!--Valid party times on Sundays.  Use 6 for 6:00 AM, 13.5 for 1:30 PM, etc.  Format: (earliestStartTime, latestStartTime, preferredStartTime).-->
     </kPartyTimesSunday>
-    <kPartyTimesMonday value="16.5, 19, 20.5">
+    <kPartyTimesMonday value="18, 20, 19">
       <!--Valid party times on Mondays.  Use 6 for 6:00 AM, 13.5 for 1:30 PM, etc.  Format: (earliestStartTime, latestStartTime, preferredStartTime).-->
     </kPartyTimesMonday>
-    <kPartyTimesTuesday value="16.5, 19, 20.5">
+    <kPartyTimesTuesday value="18, 20, 19">
       <!--Valid party times on Tuesdays.  Use 6 for 6:00 AM, 13.5 for 1:30 PM, etc.  Format: (earliestStartTime, latestStartTime, preferredStartTime).-->
     </kPartyTimesTuesday>
-    <kPartyTimesWednesday value="16.5, 19, 20.5">
+    <kPartyTimesWednesday value="18, 20, 19">
       <!--Valid party times on Wednesdays.  Use 6 for 6:00 AM, 13.5 for 1:30 PM, etc.  Format: (earliestStartTime, latestStartTime, preferredStartTime).-->
     </kPartyTimesWednesday>
-    <kPartyTimesThursday value="16.5, 19, 22">
+    <kPartyTimesThursday value="18, 20, 19">
       <!--Valid party times on Thursdays.  Use 6 for 6:00 AM, 13.5 for 1:30 PM, etc.  Format: (earliestStartTime, latestStartTime, preferredStartTime).-->
     </kPartyTimesThursday>
-    <kPartyTimesFriday value="17.5, 21, 22">
+    <kPartyTimesFriday value="18, 20, 19">
       <!--Valid party times on Fridays.  Use 6 for 6:00 AM, 13.5 for 1:30 PM, etc.  Format: (earliestStartTime, latestStartTime, preferredStartTime).-->
     </kPartyTimesFriday>
-    <kPartyTimesSaturday value="12, 20, 22">
+    <kPartyTimesSaturday value="14, 16, 15">
       <!--Valid party times on Saturdays.  Use 6 for 6:00 AM, 13.5 for 1:30 PM, etc.  Format: (earliestStartTime, latestStartTime, preferredStartTime).-->
     </kPartyTimesSaturday>
     <kChanceForcePreferredStartTime value="0.4">
@@ -162,28 +162,28 @@
         <!--The MountedReactionType played by mounted horses and riders, instead of doing the normal behavior. If both enter and exit are set to none, mounted sims will not play a mounted reaction. What reaction to play when: [Entering the broadcaster (or initial pulse), exiting the broadcaster].-->
       </MountedReactionTypes>
     </kPartyCrasherReactionBroadcasterParam>
-    <kEP9PartyWeighting value="75">
+    <kEP9PartyWeighting value="50">
       <!--If EP9 is installed, chance that we will get an EP9 type party instead of an EP3 party-->
     </kEP9PartyWeighting>
     <kSocialiteUnlockLevelNeededToBeInvited value="0">
       <!--0 - maxSkill - Description: Socialite Unlock level needed to be invited to a Socialite party-->
     </kSocialiteUnlockLevelNeededToBeInvited>
-    <kGreekHouseJuiceKegPartyOpportunities value="EP9_DareGreek_KegStand,EP9_DareGreek_Streak,EP9_DareGreek_Fight,EP9_DareGreek_MakeOut,EP9_DareGreek_Woohoo,EP9_DareGreek_SuperJuiced,EP9_DareGreek_JuicePong,EP9_DareGreek_Burgers,EP9_DareToDumpsterDive,EP9_DareToGetJuiced,EP9_DareToKissSim,EP9_DareToImplyMotherIsALlama">
+    <kGreekHouseJuiceKegPartyOpportunities value="">
       <!--GreekHouseJuiceKegPartyOpportunities[]  Description:  List of possible opportunities to be pushed at greek juicekeg parties-->
     </kGreekHouseJuiceKegPartyOpportunities>
-    <kGreekHouseBonfirePartyOpportunities value="EP9_DareGreek_Streak,EP9_DareGreek_Fight,EP9_DareGreek_MakeOut,EP9_DareGreek_Woohoo,EP9_DareGreek_SuperJuiced,EP9_DareGreek_JuicePong,EP9_DareGreek_Burgers,EP9_DareToDumpsterDive,EP9_DareToGetJuiced,EP9_DareToKissSim,EP9_DareToImplyMotherIsALlama">
+    <kGreekHouseBonfirePartyOpportunities value="">
       <!--GreekHouseBonfireOpportunities[]  Description:  List of possible opportunities to be pushed at greek bonfire parties-->
     </kGreekHouseBonfirePartyOpportunities>
-    <kGreekHouseNormalPartyOpportunities value="EP9_DareGreek_KegStand,EP9_DareGreek_Streak,EP9_DareGreek_Fight,EP9_DareGreek_MakeOut,EP9_DareGreek_Woohoo,EP9_DareGreek_SuperJuiced,EP9_DareGreek_JuicePong,EP9_DareGreek_Burgers,EP9_DareToDumpsterDive,EP9_DareToGetJuiced,EP9_DareToKissSim,EP9_DareToImplyMotherIsALlama">
+    <kGreekHouseNormalPartyOpportunities value="">
       <!--GreekHouseNormalPartyOpportunities[]  Description:  List of possible opportunities to be pushed at greek house NON juicekeg or bonfire parties-->
     </kGreekHouseNormalPartyOpportunities>
-    <kMinPartyOpportunityTime value="30">
+    <kMinPartyOpportunityTime value="180">
       <!--Min time between party opportunity pushes in minutes-->
     </kMinPartyOpportunityTime>
-    <kMaxPartyOpportunityTime value="90">
+    <kMaxPartyOpportunityTime value="180">
       <!--Max time between party opportunity pushes in minutes-->
     </kMaxPartyOpportunityTime>
-    <kPartyOpportunityCooldown value="60">
+    <kPartyOpportunityCooldown value="180">
       <!--Party opportunity cooldown in munutes-->
     </kPartyOpportunityCooldown>
   </Current_Tuning>
