@@ -4,7 +4,7 @@
     <kWeekdayPartyStartHour value="18, 20">
       <!--Reasonable range in start time for a weekday party (in 24 hour units; [min, max])-->
     </kWeekdayPartyStartHour>
-    <kWeekendPartyStartHour value="12, 20">
+    <kWeekendPartyStartHour value="14, 16">
       <!--Reasonable range in start time for a weekend party (in 24 hour units; [min, max])-->
     </kWeekendPartyStartHour>
     <kPartyLeadTimeDays value="1">
