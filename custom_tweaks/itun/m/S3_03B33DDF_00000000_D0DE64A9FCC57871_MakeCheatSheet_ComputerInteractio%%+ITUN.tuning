@@ -4,7 +4,7 @@
 	<Object name="Sims3.Gameplay.Objects.Electronics.Computer" />
 	<CodeVersion name="EP9" considerCodeVersion="True" />
 	<Current_Tuning>
-		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="False" />
+		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="True" />
 		<BaseAvailability>
 			<AgeSpeciesAvail AgeSpeciesValue="T,Y,A,E" />
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
@@ -35,7 +35,6 @@
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="TraitComputerWiz" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP9 - First Pass - Chris" LastChange="11/29/2012 8:28:23 PM" />

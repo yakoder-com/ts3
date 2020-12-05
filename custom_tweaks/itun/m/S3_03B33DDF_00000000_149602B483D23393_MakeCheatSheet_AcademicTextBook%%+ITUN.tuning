@@ -4,7 +4,7 @@
 	<Object name="Sims3.Gameplay.Academics.AcademicTextBook" />
 	<CodeVersion name="EP9" considerCodeVersion="True" />
 	<Current_Tuning>
-		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="False" />
+		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="True" />
 		<BaseAvailability>
 			<AgeSpeciesAvail AgeSpeciesValue="Y,A,E" />
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />

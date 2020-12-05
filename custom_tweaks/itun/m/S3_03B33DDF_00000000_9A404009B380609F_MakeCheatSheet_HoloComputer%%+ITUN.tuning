@@ -4,7 +4,7 @@
 	<Object name="Sims3.Gameplay.Objects.Electronics.HoloComputer" />
 	<CodeVersion name="EP9" considerCodeVersion="True" />
 	<Current_Tuning>
-		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="False" />
+		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="True" />
 		<BaseAvailability>
 			<AgeSpeciesAvail AgeSpeciesValue="T,Y,A,E" />
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
@@ -30,9 +30,6 @@
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
-				<Change type="TraitComputerWiz" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="SkillFuture" advertised="100" locked="True" actual="100" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
-				<Change type="Energy" advertised="0" locked="False" actual="-2" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP11 - SecondPass Tuning - Ryan Grant" LastChange="4/22/2013 3:25:40 PM" />
