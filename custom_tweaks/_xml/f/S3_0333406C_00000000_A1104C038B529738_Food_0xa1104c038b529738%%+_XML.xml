@@ -13,7 +13,7 @@
     <kBaseCookMinutesGroupServing value="20">
       <!--The base time it takes to cook a group serving of food, in minutes.  This is before speed enhancements are applied.-->
     </kBaseCookMinutesGroupServing>
-    <kBreakfastStartHour value="5">
+    <kBreakfastStartHour value="4">
       <!--The start hour for breakfast.  Breakfast will be served until the start hour for lunch. Uses 24 hour period.-->
     </kBreakfastStartHour>
     <kLunchStartHour value="11">
@@ -22,7 +22,7 @@
     <kDinnerStartHour value="17">
       <!--The start hour for dinner.  Dinner will be served until the start hour for breakfast the next day. Uses 24 hour period.-->
     </kDinnerStartHour>
-    <kBrunchStartHour value="8">
+    <kBrunchStartHour value="9">
       <!--The start hour for brunch (brunch is on weekends only). Uses 24 hour period.-->
     </kBrunchStartHour>
     <kBrunchEndHour value="15">
@@ -52,7 +52,7 @@
     <kCleanupChance value="75">
       <!--Chance normal (not neat or slob) sims will clean up after eating. Should be between 0 and 100.-->
     </kCleanupChance>
-    <kChanceOfChoosingFavoriteFood value="50">
+    <kChanceOfChoosingFavoriteFood value="33">
       <!--Chance sim will choose their favorite food if available. Should be between 0 and 100.-->
     </kChanceOfChoosingFavoriteFood>
   </Current_Tuning>
