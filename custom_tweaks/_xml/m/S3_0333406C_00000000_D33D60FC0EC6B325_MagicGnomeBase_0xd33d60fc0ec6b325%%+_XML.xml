@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kTrickeryStartHour value="22">
+    <kTrickeryStartHour value="21">
       <!--Earliest hour of the day that gnomes may enact their nightly trickery (probably late at night - must be after noon).-->
     </kTrickeryStartHour>
-    <kTrickeryEndHour value="4">
+    <kTrickeryEndHour value="5">
       <!--Latest hour of the day that gnomes may enact their nightly trickery (probably early in the morning - must be before noon).-->
     </kTrickeryEndHour>
     <kTrickeryRescheduleHours value="0.25">
@@ -13,28 +13,28 @@
     <kChanceDoNothing value="0">
       <!--(ACTION weight - influences chances of all ACTIONs) Chance that a magic gnome will do nothing.-->
     </kChanceDoNothing>
-	<kChanceChangePose value="0.25">
+	<kChanceChangePose value="0.1">
       <!--(ACTION weight - influences chances of all ACTIONs) Chance that a magic gnome will just change pose.-->
     </kChanceChangePose>
-    <kChanceMoveRandomly value="0.0">
+    <kChanceMoveRandomly value="0.1">
       <!--(ACTION weight - influences chances of all ACTIONs) Chance that a magic gnome will just move to a new location.-->
     </kChanceMoveRandomly>
-	<kChanceVisitFavoriteObject value="0.25">
+	<kChanceVisitFavoriteObject value="0.2">
       <!--(ACTION weight - influences chances of all ACTIONs) Chance that a magic gnome will visit its favorite object.-->
     </kChanceVisitFavoriteObject>
-    <kChanceVisitSlot value="0.0">
+    <kChanceVisitSlot value="0.1">
       <!--(ACTION weight - influences chances of all ACTIONs) Chance that a magic gnome will visit a slot.-->
     </kChanceVisitSlot>
 	<kChanceCleanObject value="0.25">
       <!--(ACTION weight - influences chances of all ACTIONs) Chance that a magic gnome will just clean an object.-->
     </kChanceCleanObject>
-    <kChanceUseObject value="0.0">
+    <kChanceUseObject value="0.1">
       <!--(ACTION weight - influences chances of all ACTIONs) Chance that a magic gnome will use an object.-->
     </kChanceUseObject>
     <kChanceChangePoseOnMove value="0.8">
       <!--(0-1) Chance that, if doing a move action, a magic gnome will also change pose.-->
     </kChanceChangePoseOnMove>
-    <kChanceUseTV value="0.0">
+    <kChanceUseTV value="0.1">
       <!--(0-1) Chance that, if using an object, will choose to use TV rather than stereo.-->
     </kChanceUseTV>
     <kWeightOutside value="3">
@@ -111,10 +111,10 @@
     <kAngryGnomeMaxTrickTime value="60">
       <!--(0-??) Maximum time before Angry Gnome commits trickery in game minutes-->
     </kAngryGnomeMaxTrickTime>
-    <kAngryGnomeGrabChance value="100">
+    <kAngryGnomeGrabChance value="85">
       <!--(0-100) %chance of successfully grabbing gnome-->
     </kAngryGnomeGrabChance>
-    <kAngryGnomeKeepChance value="100">
+    <kAngryGnomeKeepChance value="85">
       <!--(0-100) %chance of successfully keeping gnome-->
     </kAngryGnomeKeepChance>
     <kAngryGnomeSneakDistance value="6">
@@ -123,10 +123,10 @@
     <kAngryGnomeSwipeDistance value="0.0">
       <!--0-?? min distance from angry gnome to do swipe-->
     </kAngryGnomeSwipeDistance>
-    <kAngryGnomeMaxSwipeDistance value="0.0">
+    <kAngryGnomeMaxSwipeDistance value="0.8">
       <!--0-?? max distance from angry gnome to do swipe-->
     </kAngryGnomeMaxSwipeDistance>
-    <kChanceSpecial value="0.25">
+    <kChanceSpecial value="0.4">
       <!--(ACTION weight - influences chances of all ACTIONs) Chance that a magic gnome will do it's special action.- this is only used when the gnome is a type that has special actions-->
     </kChanceSpecial>
   </Current_Tuning>
