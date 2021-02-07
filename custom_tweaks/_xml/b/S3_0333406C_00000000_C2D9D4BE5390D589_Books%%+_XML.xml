@@ -3508,6 +3508,7 @@
   <PagesMinBW>2</PagesMinBW>
   <FishTypes></FishTypes>
   <NotInBookStore>False</NotInBookStore>
+  <ChildCanRead>True</ChildCanRead>
   <GeometryState>BookSmallThin</GeometryState>
   <MaterialState>bookMedical</MaterialState>
   <AllowedWorldTypes>Base,Downtown,University,Future</AllowedWorldTypes>
@@ -3688,7 +3689,7 @@
   <PagesMinNorm>1</PagesMinNorm>
   <PagesMinBW>2</PagesMinBW>
   <UnlockSkill></UnlockSkill>
-  <ChildCanRead></ChildCanRead>
+  <ChildCanRead>True</ChildCanRead>
   <NotInBookStore>False</NotInBookStore>
   <GeometryState>BookSmallThin</GeometryState>
   <MaterialState>bookHandinessIntro</MaterialState>
@@ -3741,7 +3742,6 @@
   <SkillPointsPerPage>5</SkillPointsPerPage>
   <Length>299</Length>
   <Value>50</Value>
-  <ChildCanRead>x</ChildCanRead>
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookLogicSkLvl1</MaterialState>
  </BookSkill>
@@ -3754,7 +3754,6 @@
   <SkillPointsPerPage>9</SkillPointsPerPage>
   <Length>340</Length>
   <Value>500</Value>
-  <ChildCanRead>x</ChildCanRead>
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookLogicSkLvl2</MaterialState>
  </BookSkill>
@@ -3767,7 +3766,6 @@
   <SkillPointsPerPage>14</SkillPointsPerPage>
   <Length>323</Length>
   <Value>750</Value>
-  <ChildCanRead>x</ChildCanRead>
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>bookLogicSkLvl3</MaterialState>
  </BookSkill>
@@ -3894,6 +3892,34 @@
   <AllowedWorlds>China</AllowedWorlds>
  </BookSkill>
 <BookSkill>
+  <Title>ImproveMartialArts2</Title>
+  <Author>ManuSharma</Author>
+  <Skill>MartialArts</Skill>
+  <MinSkill>3</MinSkill>
+  <MaxSkill>6</MaxSkill>
+  <SkillPointsPerPage>7</SkillPointsPerPage>
+  <Length>203</Length>
+  <Value>500</Value>
+  <GeometryState>BookMediumThin</GeometryState>
+  <MaterialState>EP1bookMartialArts_SkLvl2</MaterialState>
+  <AllowedWorldTypes>Vacation</AllowedWorldTypes>
+  <AllowedWorlds>China</AllowedWorlds>
+ </BookSkill>
+<BookSkill>
+  <Title>ImproveMartialArts3</Title>
+  <Author>ManuSharma</Author>
+  <Skill>MartialArts</Skill>
+  <MinSkill>6</MinSkill>
+  <MaxSkill>10</MaxSkill>
+  <SkillPointsPerPage>9</SkillPointsPerPage>
+  <Length>225</Length>
+  <Value>750</Value>
+  <GeometryState>BookMediumThin</GeometryState>
+  <MaterialState>EP1bookMartialArts_SkLvl3</MaterialState>
+  <AllowedWorldTypes>Vacation</AllowedWorldTypes>
+  <AllowedWorlds>China</AllowedWorlds>
+ </BookSkill>
+<BookSkill>
   <Title>ImprovePhotography1</Title>
   <Author>JoshuaPollak</Author>
   <Skill>Photography</Skill>
@@ -3904,6 +3930,34 @@
   <Value>50</Value>
   <GeometryState>BookMediumThin</GeometryState>
   <MaterialState>EP1bookPhotography_SkLvl1</MaterialState>
+  <AllowedWorldTypes>Vacation</AllowedWorldTypes>
+  <AllowedWorlds>Egypt</AllowedWorlds>
+ </BookSkill>
+<BookSkill>
+  <Title>ImprovePhotography2</Title>
+  <Author>JoshuaPollak</Author>
+  <Skill>Photography</Skill>
+  <MinSkill>3</MinSkill>
+  <MaxSkill>6</MaxSkill>
+  <SkillPointsPerPage>7</SkillPointsPerPage>
+  <Length>203</Length>
+  <Value>500</Value>
+  <GeometryState>BookMediumThin</GeometryState>
+  <MaterialState>EP1bookPhotography_SkLvl2</MaterialState>
+  <AllowedWorldTypes>Vacation</AllowedWorldTypes>
+  <AllowedWorlds>Egypt</AllowedWorlds>
+ </BookSkill>
+<BookSkill>
+  <Title>ImprovePhotography3</Title>
+  <Author>JoshuaPollak</Author>
+  <Skill>Photography</Skill>
+  <MinSkill>6</MinSkill>
+  <MaxSkill>10</MaxSkill>
+  <SkillPointsPerPage>9</SkillPointsPerPage>
+  <Length>225</Length>
+  <Value>750</Value>
+  <GeometryState>BookMediumThin</GeometryState>
+  <MaterialState>EP1bookPhotography_SkLvl3</MaterialState>
   <AllowedWorldTypes>Vacation</AllowedWorldTypes>
   <AllowedWorlds>Egypt</AllowedWorlds>
  </BookSkill>
@@ -4274,6 +4328,7 @@
   <PagesMinNorm>1</PagesMinNorm>
   <PagesMinBW>2</PagesMinBW>
   <NotInBookStore>False</NotInBookStore>
+  <ChildCanRead>True</ChildCanRead>
   <GeometryState>BookMediumThick</GeometryState>
   <MaterialState></MaterialState>
   <AllowedWorldTypes>Base,Downtown,University,Future</AllowedWorldTypes>
@@ -4589,6 +4644,7 @@
   <PagesMinNorm>1</PagesMinNorm>
   <PagesMinBW>2</PagesMinBW>
   <NotInBookStore>True</NotInBookStore>
+  <ChildCanRead>False</ChildCanRead>
   <AllowedWorldTypes>Undefined</AllowedWorldTypes>
   <AllowedWorlds></AllowedWorlds>
   <CodeVersion>Basegame</CodeVersion>
@@ -4996,6 +5052,7 @@
   <PagesMinNorm>1</PagesMinNorm>
   <PagesMinBW>2</PagesMinBW>
   <AudioClip></AudioClip>
+  <ChildCanRead>True</ChildCanRead>
   <GeometryState>BookLargeThin</GeometryState>
   <MaterialState>bookGuitarIntro</MaterialState>
   <NotInBookStore>False</NotInBookStore>
@@ -5942,7 +5999,7 @@
   <NotInBookStore>False</NotInBookStore>
   <GeometryState>BookLargeThick</GeometryState>
   <MaterialState>bookGeneric1</MaterialState>
-  <AllowedWorldTypes>Base, Downtown, University, Future</AllowedWorldTypes>
+  <AllowedWorldTypes>Base,Downtown,University,Future</AllowedWorldTypes>
   <AllowedWorlds></AllowedWorlds>
   <CodeVersion>EP9</CodeVersion>
  </AcademicTextBook>
