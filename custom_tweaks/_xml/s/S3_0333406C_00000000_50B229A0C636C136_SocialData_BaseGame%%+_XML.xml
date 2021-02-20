@@ -25575,7 +25575,7 @@
 				<MAYBE />
 			</LHS>
 			<LHS com="Friendly" val="72">
-				<LLTR min="20" />
+				<LLTR min="-100" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />

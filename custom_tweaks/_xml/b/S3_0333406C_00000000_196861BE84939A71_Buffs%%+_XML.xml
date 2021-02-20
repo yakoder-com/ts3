@@ -1209,10 +1209,10 @@
   <BuffName>Weakened</BuffName>
   <BuffDescription>WeakenedDescription</BuffDescription>
   <ThumbFilename>moodlet_weakened</ThumbFilename>
-  <AxisEffected>Happy</AxisEffected>
-  <EffectValue>20</EffectValue>
+  <AxisEffected>Stressed</AxisEffected>
+  <EffectValue>-30</EffectValue>
   <TimeoutLength>1320</TimeoutLength>
-  <PolarityOverride>Positive</PolarityOverride>
+  <PolarityOverride>Negative</PolarityOverride>
  </BuffList>
 <BuffList>
   <Hex>WideAwake</Hex>
