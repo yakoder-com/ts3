@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kHungerValueForMeal value="200">
+    <kHungerValueForMeal value="150">
       <!--Range:  Hunger value gain.  Description:  Maximum amount of hunger gain from eating a real meal.-->
     </kHungerValueForMeal>
-    <kHungerValuePerBiteForMeal value="13.3">
+    <kHungerValuePerBiteForMeal value="7.5">
       <!--Range:  Hunger value.  Description:  Hunger gain value per bite from eating a real meal.  Usually 8 bites a meal.-->
     </kHungerValuePerBiteForMeal>
-    <kHungerValueForSnack value="122">
+    <kHungerValueForSnack value="75">
       <!--Range:  Hunger value gain.  Description:  Maximum amount of hunger gain from eating a snack.-->
     </kHungerValueForSnack>
-    <kHungerValuePerBiteForSnack value="8.14">
+    <kHungerValuePerBiteForSnack value="3.75">
       <!--Range:  Hunger value.  Description:  Hunger gain value per bite from eating a snack.  Usually 8 bites a snack.-->
     </kHungerValuePerBiteForSnack>
-    <kHungerValueForJuice value="122">
+    <kHungerValueForJuice value="50">
       <!--Range:  Hunger value gain.  Description:  Maximum amount of hunger gain from drinking juice from the bar.-->
     </kHungerValueForJuice>
-    <kHungerValuePerSipForJuice value="8.14">
+    <kHungerValuePerSipForJuice value="2.5">
       <!--Range:  Hunger value.  Description:  Hunger gain value per sip from drinking juice from the bar.  Usually 8 sips a drink.-->
     </kHungerValuePerSipForJuice>
-    <kNumMinutesToTalkToOthersAfterEating value="20">
+    <kNumMinutesToTalkToOthersAfterEating value="30">
       <!--Range:  minutes. How long the sim will hang around grouptalking after eating food, if there is somebody to talk to-->
     </kNumMinutesToTalkToOthersAfterEating>
     <kHungerValueMultiplierFrankenstein value="0.25">

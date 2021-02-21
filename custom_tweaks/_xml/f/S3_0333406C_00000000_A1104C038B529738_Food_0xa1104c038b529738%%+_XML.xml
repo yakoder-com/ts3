@@ -37,10 +37,10 @@
     <kPotMaxSimMinutesUntilAddIngredient value="15">
       <!--When the sim cooks using the pot, there's a chance he'll add an ingredient straight to the pot.  This is the maximum amount of sim minutes that will pass before this happens.-->
     </kPotMaxSimMinutesUntilAddIngredient>
-    <kQualityMultiplierForServedFood value=".75">
+    <kQualityMultiplierForServedFood value="1.0">
       <!--When serving food, the food quality is lower.  The food quality (if it is positive) gets multiplied by this value, so something in the range of 0.0 - 1.0 is valid.-->
     </kQualityMultiplierForServedFood>
-    <kNumFoodPointsBurnt value="-150">
+    <kNumFoodPointsBurnt value="100">
       <!--The number of food points burnt food has.-->
     </kNumFoodPointsBurnt>
     <kFoodUnitsFullServing value="20">
@@ -49,7 +49,7 @@
     <kFoodUnitsLeftForHalfFull value="10">
       <!--When the number of bites left of food reaches this number, the model will switch to a half-eaten version.-->
     </kFoodUnitsLeftForHalfFull>
-    <kCleanupChance value="75">
+    <kCleanupChance value="63">
       <!--Chance normal (not neat or slob) sims will clean up after eating. Should be between 0 and 100.-->
     </kCleanupChance>
     <kChanceOfChoosingFavoriteFood value="33">
