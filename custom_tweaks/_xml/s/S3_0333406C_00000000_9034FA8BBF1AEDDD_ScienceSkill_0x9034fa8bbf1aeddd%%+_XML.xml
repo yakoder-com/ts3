@@ -46,16 +46,16 @@
     <kCashForExperiencedExperimentalist value="10000">
       <!--Range:  integer  Description:  Cash amount rewarded for completing Experienced Experimentalist Challenge-->
     </kCashForExperiencedExperimentalist>
-    <kGrantedInsectTypes value="BeetleCockroach, BeetleLady">
+    <kGrantedInsectTypes value="">
       <!--Description:  Array of InsectTypes that a sim will receive when reaching the minimum level for analyzing insects-->
     </kGrantedInsectTypes>
-    <kGrantedRockGemMetalTypes value="Iron, Aqua">
+    <kGrantedRockGemMetalTypes value="">
       <!--Description:  Array of RGMs that a sim will receive when they become able to analyze minerals-->
     </kGrantedRockGemMetalTypes>
-    <kGrantedIngredientNames value="KonaBean, Peppermint">
+    <kGrantedIngredientNames value="">
       <!--Description:  Array of Ingredient names that a sim will receive when they become able to analyze plants-->
     </kGrantedIngredientNames>
-    <kGrantedFishTypes value="Anchovy, AlleyCatfish">
+    <kGrantedFishTypes value="">
       <!--Description:  Array of FishTypes that a sim will receive when they become able to analyze fish-->
     </kGrantedFishTypes>
     <kRockGemMetalBlacklist value="SpaceRockLarge, SpaceRockMedium">
