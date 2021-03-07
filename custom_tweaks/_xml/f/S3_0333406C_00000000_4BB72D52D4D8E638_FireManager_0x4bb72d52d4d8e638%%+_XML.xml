@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kChanceOfFireWhenShocked value="10">
+    <kChanceOfFireWhenShocked value="5">
       <!--Chance a fire starts when an object shocks you.-->
     </kChanceOfFireWhenShocked>
     <kMaxFiresPerLot value="10">
       <!--Maximum number of fires allowed to exist on this lot.-->
     </kMaxFiresPerLot>
-    <kPercentOfObjectsCoveredByInsurance value="0.5">
+    <kPercentOfObjectsCoveredByInsurance value="1.0">
       <!--Percent of household objects payed for by fire insurance.-->
     </kPercentOfObjectsCoveredByInsurance>
     <kFireNotificationCameraLerp>
