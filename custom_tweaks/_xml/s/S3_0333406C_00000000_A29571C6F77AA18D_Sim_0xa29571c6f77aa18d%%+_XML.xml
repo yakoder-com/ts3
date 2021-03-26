@@ -10,7 +10,7 @@
     <kMaxDistanceForSocials value="20">
       <!--Unit: metres.  Description:  Max distance between Sims for one to autonomously greet another-->
     </kMaxDistanceForSocials>
-    <kMinDistanceFromDoorWhenGoingIntoYard value="2">
+    <kMinDistanceFromDoorWhenGoingIntoYard value="4">
       <!--Minimum distance from door to route towards when going out into yard-->
     </kMinDistanceFromDoorWhenGoingIntoYard>
     <kMaxDistanceFromDoorWhenGoingIntoYard value="10">
