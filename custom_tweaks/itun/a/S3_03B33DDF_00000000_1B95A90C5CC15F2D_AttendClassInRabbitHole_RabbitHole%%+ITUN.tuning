@@ -33,6 +33,7 @@
 			<ScoringFunction alwaysChooseBest="False" name="" specificCommodity="None" />
 			<ActionTopic name="" ActionTopicUnavailableAfterActionFinishes="False" />
 			<Output>
+				<Change type="Fun" advertised="50" locked="False" actual="50" updateType="ContinuousFlow" timeDependsOn="False" updateEvenOnFailure="False" updateAboveAndBelowZero="Either" />
 			</Output>
 		</Tradeoff>
 	<Notes Notes="" DesignerNotes="EP11 - Design Tuning Pass - JoshLee" LastChange="7/10/2013 12:24:00 PM" />
