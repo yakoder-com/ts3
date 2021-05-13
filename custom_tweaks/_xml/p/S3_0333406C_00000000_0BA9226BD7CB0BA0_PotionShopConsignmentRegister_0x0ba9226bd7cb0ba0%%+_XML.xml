@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base>
   <Current_Tuning>
-    <kNumberOfObjectsForSale value="15">
+    <kNumberOfObjectsForSale value="30">
       <!--Range:  0+  Description:  The number of objects for sale at any given time-->
     </kNumberOfObjectsForSale>
     <kSaleProbabilitySkillYValues value="0.5, 0.75, 1">
@@ -49,7 +49,7 @@
     <kSaleProbabilityQualityWeight value="0.1">
       <!--Range:  0+  Description:  How much Quality affects the sale probability-->
     </kSaleProbabilityQualityWeight>
-    <kTimeOfSale value="17">
+    <kTimeOfSale value="20">
       <!--Range:  0-24  Description:  The time when the user is notified of sold/unsold consigned items-->
     </kTimeOfSale>
     <kDailyNumberOfAttemptsDecrement value="0.15">
@@ -103,10 +103,10 @@
     <kMadeGoodSaleThreshold value="1.4">
       <!--Range:  0+  Description:  The price/value threshold that triggers the Made Good Sale buff-->
     </kMadeGoodSaleThreshold>
-    <kGotGoodDealThreshold value="0.8">
+    <kGotGoodDealThreshold value="0.7">
       <!--Range:  0+  Description:  The price value threshold that triggers the Got Good Deal or Feeling Cheap buff-->
     </kGotGoodDealThreshold>
-    <kGotRippedOffThreshold value="1.2">
+    <kGotRippedOffThreshold value="1.3">
       <!--Range:  0+  Description:  The price value threshold that triggers the Got Ripped Off buff-->
     </kGotRippedOffThreshold>
     <kFrugalThresholdModifier value="0.1">
@@ -115,10 +115,10 @@
     <kMaximumNumberOfPlayerItemsDisplayed value="5">
       <!--Range:  0+  Description:  The maximum number of user consigned item displayed in the sell list-->
     </kMaximumNumberOfPlayerItemsDisplayed>
-    <kTimeOfMagicHour value="17">
+    <kTimeOfMagicHour value="20">
       <!--Range:  0-24  Description:  The time when the magic hour potion inventory changes-->
     </kTimeOfMagicHour>
-    <kNumRotatingPotions value="5">
+    <kNumRotatingPotions value="10">
       <!--Range:  0+  Description:  Number of rotating potions-->
     </kNumRotatingPotions>
     <kPotionChanceOnFullMoonModifier value="1.5">
