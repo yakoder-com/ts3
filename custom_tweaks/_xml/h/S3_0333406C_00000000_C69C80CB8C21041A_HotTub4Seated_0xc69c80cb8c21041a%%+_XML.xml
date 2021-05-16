@@ -7,10 +7,10 @@
       </EnvironmentScore>
     </kEnvironmentTuning>
     <kRepairableTuning>
-      <HoursUnbreakable value="96">
+      <HoursUnbreakable value="672">
         <!--How long until the object is allowed to check for breakage after being fixed or purchased.-->
       </HoursUnbreakable>
-      <StartPercentChanceBreak value="4">
+      <StartPercentChanceBreak value="0">
         <!--Starting chance of object breaking when its used.-->
       </StartPercentChanceBreak>
       <PercentChanceBreakIncrease value="1">
