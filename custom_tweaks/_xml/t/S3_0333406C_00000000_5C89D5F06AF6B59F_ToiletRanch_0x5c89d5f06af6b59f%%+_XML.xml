@@ -41,10 +41,10 @@
       </UpgradeSelfCleaning>
     </kCleanableTuning>
     <kRepairableTuning>
-      <HoursUnbreakable value="168">
+      <HoursUnbreakable value="672">
         <!--How long until the object is allowed to check for breakage after being fixed or purchased.-->
       </HoursUnbreakable>
-      <StartPercentChanceBreak value="4">
+      <StartPercentChanceBreak value="0">
         <!--Starting chance of object breaking when its used.-->
       </StartPercentChanceBreak>
       <PercentChanceBreakIncrease value="2">
