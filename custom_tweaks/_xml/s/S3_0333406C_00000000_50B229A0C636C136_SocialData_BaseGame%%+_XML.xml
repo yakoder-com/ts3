@@ -15466,14 +15466,14 @@
 				<Topic />
 			</RHS>
 			<LHS com="Insulting" val="51">
-				<LLTR max="-20" />
+				<LLTR max="-50" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />
 				<MAYBE />
 			</LHS>
 			<LHS com="Friendly" val="51" cp="1">
-				<LLTR min="5" />
+				<LLTR min="0" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />
@@ -15495,7 +15495,7 @@
 		<AA>
 			<AGE x="C,T,Y,A,E" y="C,T,Y,A,E" />
 			<ATREQ val="RobotHiddenTrait" />
-			<Available auto="True" udo="False" />
+			<Available auto="True" udo="True" />
 			<ProcTest key="TestInviteIn" />
 		</AA>
 		<Jazz>
@@ -19775,7 +19775,7 @@
 				<Topic />
 			</RHS>
 			<LHS com="Friendly" val="53" cp="1">
-				<LLTR min="20" />
+				<LLTR min="10" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait y="Evil" />
@@ -19788,14 +19788,14 @@
 				<MAYBE />
 			</LHS>
 			<LHS com="Insulting" val="51">
-				<LLTR max="-20" />
+				<LLTR max="-50" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />
 				<MAYBE />
 			</LHS>
 			<LHS com="Friendly" val="51" cp="1">
-				<LLTR min="5" />
+				<LLTR min="0" />
 				<SC />
 				<SE x="None" remX="None" y="None" remY="None" />
 				<Trait />
