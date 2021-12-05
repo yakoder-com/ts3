@@ -1179,7 +1179,7 @@
 		<AA>
 			<AGE x="T,Y,A,E" y="T,Y,A,E" />
 			<ATE val="Friendly" />
-			<Available auto="True" udo="False" />
+			<Available auto="False" udo="False" />
 		</AA>
 		<Jazz>
 			<Graph val="social_share_interests" data="BaseGame" x="Neutral" y="Neutral" />
