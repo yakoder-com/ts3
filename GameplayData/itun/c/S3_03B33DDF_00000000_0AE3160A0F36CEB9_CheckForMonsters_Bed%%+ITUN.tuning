@@ -4,7 +4,7 @@
 	<Object name="Sims3.Gameplay.Objects.Beds.Bed" />
 	<CodeVersion name="EP7" considerCodeVersion="True" />
 	<Current_Tuning>
-		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="False" />
+		<Disallow DisallowAutonomous="False" DisallowUserDirected="False" DisallowPlayerSim="False" />
 		<BaseAvailability>
 			<AgeSpeciesAvail AgeSpeciesValue="C" />
 			<MotiveThreshold MotiveThresholdType="None" MotiveThresholdValue="0" MotiveBelowCheck="False" />
