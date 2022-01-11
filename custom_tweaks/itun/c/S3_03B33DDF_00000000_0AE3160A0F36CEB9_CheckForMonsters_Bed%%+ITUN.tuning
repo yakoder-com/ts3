@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <base>
 	<Interaction name="Sims3.Gameplay.Objects.Beds.CheckForMonsters+Definition" />
-	<Object name="Sims3.Gameplay.Objects.Beds.Bed" />
+	<Object name="Sims3.Gameplay.Objects.Beds.BedSingle" />
 	<CodeVersion name="EP7" considerCodeVersion="True" />
 	<Current_Tuning>
 		<Disallow DisallowAutonomous="True" DisallowUserDirected="False" DisallowPlayerSim="False" />
