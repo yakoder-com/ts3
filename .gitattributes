@@ -1,9 +1,10 @@
-* text eol=crlf
 *.xml eol=crlf
 *.tuning eol=crlf
 *.dreamtree eol=crlf
 *.txt eol=crlf
 *.cs eol=crlf
+bin/* eol=lf
+bin/*.bat eol=crlf
 
 GameplayData/* -linguist-detectable
 notes/* -linguist-detectable
