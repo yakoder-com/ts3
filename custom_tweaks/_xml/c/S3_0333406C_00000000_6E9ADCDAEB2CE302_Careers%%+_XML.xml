@@ -79,7 +79,7 @@
   <CareerDescription>Rob people</CareerDescription>
   <BonusAmountInHours>24</BonusAmountInHours>
   <MinCoworkers>2</MinCoworkers>
-  <MaxCoworkers>4</MaxCoworkers>
+  <MaxCoworkers>3</MaxCoworkers>
   <WorkHardTone>WorkHard</WorkHardTone>
   <TakeItEasyTone>TakeItEasy</TakeItEasyTone>
   <MeetCoworkersTone>MeetAccomplices</MeetCoworkersTone>
@@ -211,8 +211,8 @@
   <CareerName>Military</CareerName>
   <CareerDescription>Kill people</CareerDescription>
   <MaxPerfFlowMaxLevel>6</MaxPerfFlowMaxLevel>
-  <MinCoworkers>2</MinCoworkers>
-  <MaxCoworkers>4</MaxCoworkers>
+  <MinCoworkers>1</MinCoworkers>
+  <MaxCoworkers>2</MaxCoworkers>
   <WorkHardTone>WorkHard</WorkHardTone>
   <TakeItEasyTone>GoofOffAtThePostExchange</TakeItEasyTone>
   <MeetCoworkersTone>MeetFellowSoldiers</MeetCoworkersTone>
@@ -309,8 +309,8 @@
   <CareerName>ProfessionalSports</CareerName>
   <CareerDescription>Play sports for people and get paid</CareerDescription>
   <FunStressPerHour>-3</FunStressPerHour>
-  <MinCoworkers>4</MinCoworkers>
-  <MaxCoworkers>4</MaxCoworkers>
+  <MinCoworkers>2</MinCoworkers>
+  <MaxCoworkers>3</MaxCoworkers>
   <WorkHardTone>WorkHard</WorkHardTone>
   <TakeItEasyTone>SlackOffInLockerRoom</TakeItEasyTone>
   <MeetCoworkersTone>MeetTeammates</MeetCoworkersTone>
@@ -584,8 +584,8 @@
   <CareerName>FortuneTellerCareer</CareerName>
   <CareerDescription>Lie to people</CareerDescription>
   <FunStressPerHour>-3</FunStressPerHour>
-  <MinCoworkers>3</MinCoworkers>
-  <MaxCoworkers>5</MaxCoworkers>
+  <MinCoworkers>1</MinCoworkers>
+  <MaxCoworkers>1</MaxCoworkers>
   <WorkHardTone>ReallySellIt</WorkHardTone>
   <TakeItEasyTone>FakeIt</TakeItEasyTone>
   <MeetCoworkersTone>MeetClientele</MeetCoworkersTone>
@@ -642,8 +642,8 @@
   <CareerName>SportsAgentCareer</CareerName>
   <CareerDescription>Represent Sports People</CareerDescription>
   <FunStressPerHour>-3</FunStressPerHour>
-  <MinCoworkers>3</MinCoworkers>
-  <MaxCoworkers>5</MaxCoworkers>
+  <MinCoworkers>2</MinCoworkers>
+  <MaxCoworkers>3</MaxCoworkers>
   <WorkHardTone>ResearchSportsStatistics</WorkHardTone>
   <TakeItEasyTone>PlaySportsOnSmartPhone</TakeItEasyTone>
   <MeetCoworkersTone>MeetClientele</MeetCoworkersTone>
@@ -669,8 +669,8 @@
   <CareerName>ArtAppraiserCareer</CareerName>
   <CareerDescription>Appraise art for people</CareerDescription>
   <FunStressPerHour>-3</FunStressPerHour>
-  <MinCoworkers>3</MinCoworkers>
-  <MaxCoworkers>5</MaxCoworkers>
+  <MinCoworkers>1</MinCoworkers>
+  <MaxCoworkers>2</MaxCoworkers>
   <WorkHardTone>WorkHard</WorkHardTone>
   <TakeItEasyTone>TakeItEasy</TakeItEasyTone>
   <MeetCoworkersTone>MeetCoworkers</MeetCoworkersTone>
@@ -721,8 +721,8 @@
   <CareerName>BotArena</CareerName>
   <CareerDescription>Work on Robots</CareerDescription>
   <FunStressPerHour>-3</FunStressPerHour>
-  <MinCoworkers>3</MinCoworkers>
-  <MaxCoworkers>5</MaxCoworkers>
+  <MinCoworkers>2</MinCoworkers>
+  <MaxCoworkers>4</MaxCoworkers>
   <WorkHardTone>Workhard</WorkHardTone>
   <TakeItEasyTone>TakeItEasy</TakeItEasyTone>
   <MeetCoworkersTone>MeetCompetitiors</MeetCoworkersTone>
