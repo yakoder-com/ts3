@@ -1,6 +1,6 @@
 Human Ages
-P (Toddler)
 B (Baby)
+P (Toddler)
 C (Child)
 T (Teen)
 Y (Young Adult)
