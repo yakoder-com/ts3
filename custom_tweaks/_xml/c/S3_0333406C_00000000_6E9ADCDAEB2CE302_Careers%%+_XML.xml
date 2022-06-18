@@ -893,10 +893,8 @@
   <Metric2>SkillX</Metric2>
   <Mappings2>1,4,8</Mappings2>
   <Args2>Charisma</Args2>
-  <Metric3>RelBoss</Metric3>
-  <Mappings3>-50, 10, 50</Mappings3>
-  <Metric4>CampaignMoney</Metric4>
-  <Mappings4>-1,0, 5000</Mappings4>
+  <Metric3>CampaignMoney</Metric3>
+  <Mappings3>-1,0, 5000</Mappings3>
   <OutfitMale>career_citycouncil_male</OutfitMale>
   <OutfitFemale>career_citycouncil_female</OutfitFemale>
   <OutfitMaleElder>career_citycouncil_maleelder</OutfitMaleElder>
@@ -922,10 +920,8 @@
   <Metric2>SkillX</Metric2>
   <Mappings2>2,5,9</Mappings2>
   <Args2>Charisma</Args2>
-  <Metric3>RelBoss</Metric3>
-  <Mappings3>-50, 20, 60</Mappings3>
-  <Metric4>CampaignMoney</Metric4>
-  <Mappings4>-1,0,10000</Mappings4>
+  <Metric3>CampaignMoney</Metric3>
+  <Mappings3>-1,0,10000</Mappings3>
   <OutfitMale>career_citycouncil_male</OutfitMale>
   <OutfitFemale>career_citycouncil_female</OutfitFemale>
   <OutfitMaleElder>career_citycouncil_maleelder</OutfitMaleElder>
@@ -951,10 +947,8 @@
   <Metric2>SkillX</Metric2>
   <Mappings2>3,6,9</Mappings2>
   <Args2>Charisma</Args2>
-  <Metric3>RelBoss</Metric3>
-  <Mappings3>-50, 30, 75</Mappings3>
-  <Metric4>CampaignMoney</Metric4>
-  <Mappings4>-1,0,20000</Mappings4>
+  <Metric3>CampaignMoney</Metric3>
+  <Mappings3>-1,0,20000</Mappings3>
   <OutfitMale>career_mayor_male</OutfitMale>
   <OutfitFemale>career_mayor_female</OutfitFemale>
   <OutfitMaleElder>career_mayor_maleelder</OutfitMaleElder>
@@ -980,10 +974,8 @@
   <Metric2>SkillX</Metric2>
   <Mappings2>5,7,10</Mappings2>
   <Args2>Charisma</Args2>
-  <Metric3>RelBoss</Metric3>
-  <Mappings3>-25, 40, 90</Mappings3>
-  <Metric4>CampaignMoney</Metric4>
-  <Mappings4>-1,0,35000</Mappings4>
+  <Metric3>CampaignMoney</Metric3>
+  <Mappings3>-1,0,35000</Mappings3>
   <OutfitMale>career_businesssuit_male</OutfitMale>
   <OutfitFemale>career_businesssuit_female</OutfitFemale>
   <OutfitMaleElder>career_businesssuit_maleelder</OutfitMaleElder>
@@ -4130,12 +4122,10 @@
   <HasBoss>False</HasBoss>
   <Level>8</Level>
   <Mappings1>-60,0,125</Mappings1>
-  <Metric2>RelBoss</Metric2>
-  <Mappings2>-25,60,90</Mappings2>
-  <Metric3>RelCoworkers</Metric3>
-  <Mappings3>-25,40,75</Mappings3>
-  <Metric4>HoldMeetings</Metric4>
-  <Mappings4>1,4,8</Mappings4>
+  <Metric2>RelCoworkers</Metric2>
+  <Mappings2>-25,40,75</Mappings2>
+  <Metric3>HoldMeetings</Metric3>
+  <Mappings3>1,4,8</Mappings3>
   <OutfitMale>career_business4_male</OutfitMale>
   <OutfitFemale>career_business4_female</OutfitFemale>
   <OutfitMaleElder>career_business4_maleelder</OutfitMaleElder>
@@ -4158,10 +4148,10 @@
   <HasBoss>False</HasBoss>
   <Level>9</Level>
   <Mappings1>-50,0,140</Mappings1>
-  <Metric3>RelCoworkers</Metric3>
-  <Mappings3>-25,50,75</Mappings3>
-  <Metric4>HoldMeetings</Metric4>
-  <Mappings4>3,6,10</Mappings4>
+  <Metric2>RelCoworkers</Metric2>
+  <Mappings2>-25,50,75</Mappings2>
+  <Metric3>HoldMeetings</Metric3>
+  <Mappings3>3,6,10</Mappings3>
   <OutfitMale>career_business4_male</OutfitMale>
   <OutfitFemale>career_business4_female</OutfitFemale>
   <OutfitMaleElder>career_business4_maleelder</OutfitMaleElder>
