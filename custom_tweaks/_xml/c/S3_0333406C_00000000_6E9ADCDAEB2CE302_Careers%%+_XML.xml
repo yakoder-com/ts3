@@ -887,6 +887,7 @@
   <DowntownStartTime>13</DowntownStartTime>
   <DowntownDayLength>4.5</DowntownDayLength>
   <DaysToWork>M,T,W,R,F</DaysToWork>
+  <HasBoss>False</HasBoss>
   <Level>5</Level>
   <Mappings1>-80,0,90</Mappings1>
   <Metric2>SkillX</Metric2>
@@ -915,6 +916,7 @@
   <DowntownStartTime>13</DowntownStartTime>
   <DowntownDayLength>4.5</DowntownDayLength>
   <DaysToWork>M,W,R,F</DaysToWork>
+  <HasBoss>False</HasBoss>
   <Level>6</Level>
   <Mappings1>-60,0,100</Mappings1>
   <Metric2>SkillX</Metric2>
@@ -943,6 +945,7 @@
   <DowntownStartTime>13</DowntownStartTime>
   <DowntownDayLength>4.5</DowntownDayLength>
   <DaysToWork>M,W,R,F</DaysToWork>
+  <HasBoss>False</HasBoss>
   <Level>7</Level>
   <Mappings1>-50,0,110</Mappings1>
   <Metric2>SkillX</Metric2>
@@ -971,6 +974,7 @@
   <DowntownStartTime>13</DowntownStartTime>
   <DowntownDayLength>4.5</DowntownDayLength>
   <DaysToWork>M,W,R,F</DaysToWork>
+  <HasBoss>False</HasBoss>
   <Level>8</Level>
   <Mappings1>-50,0,120</Mappings1>
   <Metric2>SkillX</Metric2>
@@ -2754,6 +2758,7 @@
   <DowntownStartTime>17</DowntownStartTime>
   <DowntownDayLength>3.5</DowntownDayLength>
   <DaysToWork>T,F,S</DaysToWork>
+  <HasBoss>False</HasBoss>
   <Level>9</Level>
   <BranchName>ElectricRock</BranchName>
   <Mappings1>-50,0,110</Mappings1>
@@ -2782,6 +2787,7 @@
   <DowntownWakeupTime>11</DowntownWakeupTime>
   <DowntownStartTime>17</DowntownStartTime>
   <DowntownDayLength>0</DowntownDayLength>
+  <HasBoss>False</HasBoss>
   <Level>10</Level>
   <BranchName>ElectricRock</BranchName>
   <Mappings1>-30,0,140</Mappings1>
@@ -4121,6 +4127,7 @@
   <DowntownStartTime>13</DowntownStartTime>
   <DowntownDayLength>5</DowntownDayLength>
   <DaysToWork>M,T,R,F</DaysToWork>
+  <HasBoss>False</HasBoss>
   <Level>8</Level>
   <Mappings1>-60,0,125</Mappings1>
   <Metric2>RelBoss</Metric2>
@@ -4148,6 +4155,7 @@
   <DowntownStartTime>13</DowntownStartTime>
   <DowntownDayLength>5</DowntownDayLength>
   <DaysToWork>M,T,R,F</DaysToWork>
+  <HasBoss>False</HasBoss>
   <Level>9</Level>
   <Mappings1>-50,0,140</Mappings1>
   <Metric3>RelCoworkers</Metric3>
@@ -6332,7 +6340,7 @@
   <DowntownStartTime></DowntownStartTime>
   <DowntownDayLength></DowntownDayLength>
   <DaysToWork></DaysToWork>
-  <HasBoss>FALSE</HasBoss>
+  <HasBoss>False</HasBoss>
   <Level></Level>
   <BranchName>Base</BranchName>
   <BranchSource></BranchSource>
