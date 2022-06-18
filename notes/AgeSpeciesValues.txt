@@ -1,0 +1,35 @@
+Human Ages
+P (Toddler)
+B (Baby)
+C (Child)
+T (Teen)
+Y (Young Adult)
+A (Adult)
+E (Elder)
+
+Cat Ages
+CC
+AC
+EC
+
+Dog Ages
+CD
+AD
+ED
+
+Large Dog Ages
+CL
+AL
+EL
+
+Horse Ages
+CH
+AH
+EH
+
+Deer Ages
+AB
+
+Raccoon Ages
+AR
+
